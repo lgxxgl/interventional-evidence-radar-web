@@ -18,7 +18,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-09-25T05:40:30+00:00",
+      "retrieved_at": "2026-09-25T06:42:24+00:00",
       "first_seen": "2026-09-25",
       "score": 5,
       "design": "Retrospective study",
@@ -51,7 +51,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-09-25T05:40:30+00:00",
+      "retrieved_at": "2026-09-25T06:42:23+00:00",
       "first_seen": "2026-09-25",
       "score": 4,
       "design": "Clinical study / unclear",
@@ -84,7 +84,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-09-25T05:40:29+00:00",
+      "retrieved_at": "2026-09-25T06:42:22+00:00",
       "first_seen": "2026-09-25",
       "score": 4,
       "design": "Randomized controlled trial",
@@ -117,7 +117,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-09-25T05:40:30+00:00",
+      "retrieved_at": "2026-09-25T06:42:23+00:00",
       "first_seen": "2026-09-25",
       "score": 4,
       "design": "Retrospective study",
@@ -150,7 +150,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-09-25T05:40:29+00:00",
+      "retrieved_at": "2026-09-25T06:42:22+00:00",
       "first_seen": "2026-09-25",
       "score": 4,
       "design": "Retrospective study",
@@ -183,7 +183,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-09-25T05:40:29+00:00",
+      "retrieved_at": "2026-09-25T06:42:22+00:00",
       "first_seen": "2026-09-25",
       "score": 4,
       "design": "Prospective study",
@@ -216,7 +216,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-09-25T05:40:30+00:00",
+      "retrieved_at": "2026-09-25T06:42:24+00:00",
       "first_seen": "2026-09-25",
       "score": 4,
       "design": "Clinical study / unclear",
@@ -249,7 +249,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-09-25T05:40:30+00:00",
+      "retrieved_at": "2026-09-25T06:42:24+00:00",
       "first_seen": "2026-09-25",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -282,7 +282,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-09-25T05:40:30+00:00",
+      "retrieved_at": "2026-09-25T06:42:23+00:00",
       "first_seen": "2026-09-25",
       "score": 3,
       "design": "Multicenter observational study",
@@ -315,7 +315,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-09-25T05:40:30+00:00",
+      "retrieved_at": "2026-09-25T06:42:24+00:00",
       "first_seen": "2026-09-25",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -348,7 +348,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-09-25T05:40:30+00:00",
+      "retrieved_at": "2026-09-25T06:42:24+00:00",
       "first_seen": "2026-09-25",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -382,7 +382,7 @@
         "Ablation",
         "TACE"
       ],
-      "retrieved_at": "2026-09-25T05:40:29+00:00",
+      "retrieved_at": "2026-09-25T06:42:22+00:00",
       "first_seen": "2026-09-25",
       "score": 3,
       "design": "Prospective study",
@@ -416,7 +416,7 @@
         "HCC systemic + local",
         "TACE"
       ],
-      "retrieved_at": "2026-09-25T05:40:29+00:00",
+      "retrieved_at": "2026-09-25T06:42:22+00:00",
       "first_seen": "2026-09-25",
       "score": 3,
       "design": "Clinical study / unclear",
