@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>介入文献雷达 2.0</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <div class="eyebrow">INTERVENTIONAL EVIDENCE RADAR</div>
+      <h1>介入文献雷达 2.0</h1>
+      <p id="lastUpdated">加载中…</p>
+    </div>
+    <div class="top-actions">
+      <button id="exportBtn">导出收藏</button>
+      <label class="import-btn">导入 JSON<input id="importFile" type="file" accept="application/json" hidden /></label>
+    </div>
+  </header>
+  <section class="metrics" id="metrics"></section>
+  <main class="layout">
+    <aside class="sidebar">
+      <section class="panel">
+        <h2>视图</h2>
+        <div class="segmented" id="viewTabs">
+          <button data-view="today" class="active">今日</button><button data-view="7d">近 7 天</button>
+          <button data-view="all">全部</button><button data-view="saved">收藏</button>
+        </div>
+      </section>
+      <section class="panel">
+        <h2>筛选</h2>
+        <label>主题<select id="topicFilter"><option value="">全部主题</option></select></label>
+        <label>最低相关性<select id="scoreFilter"><option value="0">不限</option><option value="3">★★★ 及以上</option><option value="4" selected>★★★★ 及以上</option><option value="5">★★★★★ 必读</option></select></label>
+        <label>研究类型<select id="designFilter"><option value="">全部类型</option></select></label>
+        <label class="checkbox"><input id="unreadOnly" type="checkbox" /> 仅未读</label>
+        <label class="checkbox"><input id="phdOnly" type="checkbox" /> 仅博士课题相关</label>
+        <input id="searchBox" placeholder="标题 / 作者 / 期刊 / 关键词" />
+      </section>
+      <section class="panel">
+        <h2>快捷入口</h2>
+        <button class="wide" id="evidenceBtn">Evidence Table</button>
+        <button class="wide" id="weeklyBtn">生成本周周报</button>
+        <button class="wide secondary" id="resetBtn">清除本地状态</button>
+      </section>
+    </aside>
+    <section class="content">
+      <div id="statusLine" class="status-line"></div>
+      <div id="cards" class="cards"></div>
+      <section id="evidenceSection" class="table-section hidden">
+        <div class="section-title"><h2>Evidence Table</h2><button id="closeEvidence">返回文献卡片</button></div>
+        <div class="table-wrap"><table id="evidenceTable"></table></div>
+      </section>
+      <section id="weeklySection" class="weekly hidden">
+        <div class="section-title"><h2>本周证据周报</h2><button id="closeWeekly">返回文献卡片</button></div>
+        <div id="weeklyReport"></div>
+      </section>
+    </section>
+  </main>
+  <template id="cardTemplate">
+    <article class="card">
+      <div class="card-head"><div class="tags"></div><div class="card-actions"><button class="save-btn" title="收藏">☆</button><button class="read-btn">标为已读</button></div></div>
+      <h3 class="title"></h3><div class="meta"></div><div class="summary"></div>
+      <div class="grid">
+        <div><span>研究设计</span><strong class="design"></strong></div>
+        <div><span>样本量</span><strong class="sample"></strong></div>
+        <div><span>主要终点</span><strong class="endpoint"></strong></div>
+        <div><span>博士课题相关性</span><strong class="phd"></strong></div>
+      </div>
+      <details><summary>展开结构化证据</summary><div class="details-body"></div></details>
+      <div class="links"></div>
+    </article>
+  </template>
+  <script src="app.js"></script>
+</body>
+</html>
