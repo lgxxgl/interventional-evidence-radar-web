@@ -333,7 +333,8 @@ async function boot() {
   loadState();
   try {
     const [articlesResponse, topicsResponse] = await Promise.all([
-      fetch("data/articles.json"), fetch("data/research-topics.json")
+      fetch("data/articles.json", { cache: "no-store" }),
+      fetch("data/research-topics.json", { cache: "no-store" })
     ]);
     if (!articlesResponse.ok || !topicsResponse.ok) throw new Error("Failed to load data");
     db = await articlesResponse.json();

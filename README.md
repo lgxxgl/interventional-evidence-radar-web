@@ -18,3 +18,4 @@ python3 -m http.server 8080
 这个公开仓库目前只有前端和已发布的数据，未包含生成 `articles.json` 的抓取工作流。因此修改 `research-topics.json` 会立即增加课题入口和站内筛选，但**不会单独改变下一次 PubMed 抓取范围**。若使用独立的更新器，还需把相同的检索式加入其 `config/topics.json`，并更新博士课题相关性规则。随本次交付另附基于现有更新器压缩包制作的主题补丁。
 
 发布此网站时保留 `.nojekyll`、`index.html`、`styles.css`、`app.js`、`favicon.svg` 和 `data/`。
+修改 CSS 或 JS 后，同时更新 `index.html` 中对应资源的 `?v=` 版本号，以免 Pages 边缘缓存混用新旧文件。
