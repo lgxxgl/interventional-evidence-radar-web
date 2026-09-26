@@ -3,64 +3,74 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="theme-color" content="#f6f8f7" />
-  <meta name="description" content="介入文献雷达：追踪肝癌局部治疗、脾脏与脾脏–肝脏轴相关研究。" />
-  <title>介入文献雷达 · Interventional Evidence Radar</title>
-  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
-  <link rel="stylesheet" href="styles.css?v=20260925-1" />
-  <script src="app.js?v=20260925-1" defer></script>
+  <title>介入文献雷达 2.0</title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <div class="app-shell">
-    <header class="topbar">
-      <a class="brand" href="./" aria-label="介入文献雷达首页"><span class="brand-mark" aria-hidden="true">✳</span><span>INTERVENTIONAL <strong>EVIDENCE RADAR</strong></span></a>
-      <div class="top-actions">
-        <span class="source-pill"><span class="live-dot"></span> PubMed 文献数据</span>
-        <button id="exportBtn" class="button ghost" type="button">导出收藏</button>
-        <label class="button primary import-btn">导入 JSON<input id="importFile" type="file" accept="application/json,.json" hidden /></label>
-      </div>
-    </header>
-    <section class="hero" aria-labelledby="pageTitle">
-      <div><div class="eyebrow">A CLEARER VIEW OF NEW EVIDENCE <span class="eyebrow-line"></span> 2026</div><h1 id="pageTitle">介入文献雷达<span class="title-dot">.</span></h1><p class="hero-lead">从最新研究中，找到值得阅读的证据与博士课题线索。</p><p id="lastUpdated" class="updated" role="status">正在加载文献数据…</p></div>
-      <div class="hero-visual" aria-hidden="true"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="orbit orbit-three"></div><div class="radar-sweep"></div><span class="radar-center"></span><span class="radar-point point-one"></span><span class="radar-point point-two"></span><span class="radar-point point-three"></span></div>
-    </section>
-    <section class="overview" aria-label="文献概览" id="metrics"></section>
-    <section class="focus-section" aria-labelledby="focusTitle">
-      <div class="section-heading"><div><div class="section-kicker">RESEARCH FOCUS / 博士课题</div><h2 id="focusTitle">重点追踪方向</h2></div><p>从课题进入文献；暂无站内收录时，可直接跳转 PubMed 检索。</p></div>
-      <div id="focusTopics" class="focus-grid"></div>
-    </section>
-    <main class="workspace">
-      <aside class="sidebar" aria-label="文献筛选">
-        <section class="filter-panel">
-          <div class="panel-heading"><h2>浏览文献</h2><span>01 / FILTERS</span></div>
-          <div class="segmented" id="viewTabs" aria-label="浏览范围"><button type="button" data-view="today">今日</button><button type="button" data-view="7d">近 7 天</button><button type="button" data-view="all">全部</button><button type="button" data-view="saved">收藏</button></div>
-          <label class="field-label" for="searchBox">搜索文献</label><div class="search-wrap"><span aria-hidden="true">⌕</span><input id="searchBox" type="search" placeholder="标题、作者、关键词…" autocomplete="off" /></div>
-          <label class="field-label" for="topicFilter">研究主题</label><select id="topicFilter"><option value="">全部主题</option></select>
-          <label class="field-label" for="scoreFilter">最低相关性</label><select id="scoreFilter"><option value="0">不限</option><option value="3">★★★ 及以上</option><option value="4" selected>★★★★ 及以上</option><option value="5">★★★★★ 必读</option></select>
-          <label class="field-label" for="designFilter">研究类型</label><select id="designFilter"><option value="">全部类型</option></select>
-          <div class="check-group"><label><input id="unreadOnly" type="checkbox" /> 仅看未读</label><label><input id="phdOnly" type="checkbox" /> 仅博士课题相关</label></div>
-          <button id="clearFilters" class="text-button" type="button">重置筛选条件 ↗</button>
-        </section>
-        <section class="filter-panel tools-panel"><div class="panel-heading"><h2>工作台</h2><span>02 / TOOLS</span></div><button id="evidenceBtn" class="tool-button" type="button"><span>证据表</span><span aria-hidden="true">↗</span></button><button id="weeklyBtn" class="tool-button" type="button"><span>本周周报</span><span aria-hidden="true">↗</span></button><button id="resetBtn" class="text-button" type="button">清除本地阅读状态</button></section>
-      </aside>
-      <section class="content" aria-labelledby="resultsTitle">
-        <div class="results-head"><div><div class="section-kicker">LITERATURE FEED</div><h2 id="resultsTitle">最新文献</h2><p id="statusLine" aria-live="polite"></p></div><label class="sort-label" for="sortSelect">排序 <select id="sortSelect"><option value="relevance">相关性优先</option><option value="date">发表日期优先</option><option value="discovered">发现日期优先</option></select></label></div>
-        <div id="cards" class="cards"></div>
-        <section id="evidenceSection" class="detail-section hidden" aria-labelledby="evidenceTitle"><div class="detail-heading"><div><div class="section-kicker">STRUCTURED VIEW</div><h2 id="evidenceTitle">证据表</h2></div><button id="closeEvidence" class="button ghost" type="button">返回文献</button></div><p class="table-note">表格字段由摘要自动提取，空白表示未报告或未提取；引用前请核对原文。</p><div class="table-wrap"><table id="evidenceTable"></table></div></section>
-        <section id="weeklySection" class="detail-section hidden" aria-labelledby="weeklyTitle"><div class="detail-heading"><div><div class="section-kicker">WEEKLY BRIEF</div><h2 id="weeklyTitle">本周证据周报</h2></div><button id="closeWeekly" class="button ghost" type="button">返回文献</button></div><div id="weeklyReport"></div></section>
+  <header class="topbar">
+    <div>
+      <div class="eyebrow">INTERVENTIONAL EVIDENCE RADAR</div>
+      <h1>介入文献雷达 2.0</h1>
+      <p id="lastUpdated">加载中…</p>
+    </div>
+    <div class="top-actions">
+      <button id="exportBtn">导出收藏</button>
+      <label class="import-btn">导入 JSON<input id="importFile" type="file" accept="application/json" hidden /></label>
+    </div>
+  </header>
+  <section class="metrics" id="metrics"></section>
+  <main class="layout">
+    <aside class="sidebar">
+      <section class="panel">
+        <h2>视图</h2>
+        <div class="segmented" id="viewTabs">
+          <button data-view="today" class="active">今日</button><button data-view="7d">近 7 天</button>
+          <button data-view="all">全部</button><button data-view="saved">收藏</button>
+        </div>
       </section>
-    </main>
-    <footer class="footer"><span>INTERVENTIONAL EVIDENCE RADAR</span><span>文献发现与初筛工具 · 临床和论文引用前请核对原文</span></footer>
-  </div>
+      <section class="panel">
+        <h2>筛选</h2>
+        <label>主题<select id="topicFilter"><option value="">全部主题</option></select></label>
+        <label>最低相关性<select id="scoreFilter"><option value="0">不限</option><option value="3">★★★ 及以上</option><option value="4" selected>★★★★ 及以上</option><option value="5">★★★★★ 必读</option></select></label>
+        <label>研究类型<select id="designFilter"><option value="">全部类型</option></select></label>
+        <label class="checkbox"><input id="unreadOnly" type="checkbox" /> 仅未读</label>
+        <label class="checkbox"><input id="phdOnly" type="checkbox" /> 仅博士课题相关</label>
+        <input id="searchBox" placeholder="标题 / 作者 / 期刊 / 关键词" />
+      </section>
+      <section class="panel">
+        <h2>快捷入口</h2>
+        <button class="wide" id="evidenceBtn">Evidence Table</button>
+        <button class="wide" id="weeklyBtn">生成本周周报</button>
+        <button class="wide secondary" id="resetBtn">清除本地状态</button>
+      </section>
+    </aside>
+    <section class="content">
+      <div id="statusLine" class="status-line"></div>
+      <div id="cards" class="cards"></div>
+      <section id="evidenceSection" class="table-section hidden">
+        <div class="section-title"><h2>Evidence Table</h2><button id="closeEvidence">返回文献卡片</button></div>
+        <div class="table-wrap"><table id="evidenceTable"></table></div>
+      </section>
+      <section id="weeklySection" class="weekly hidden">
+        <div class="section-title"><h2>本周证据周报</h2><button id="closeWeekly">返回文献卡片</button></div>
+        <div id="weeklyReport"></div>
+      </section>
+    </section>
+  </main>
   <template id="cardTemplate">
     <article class="card">
-      <div class="card-top"><div class="tags"></div><div class="card-actions"><button class="icon-button save-btn" type="button" aria-label="收藏文献" title="收藏文献">☆</button><button class="read-btn" type="button">标为已读</button></div></div>
-      <h3 class="title"></h3><div class="publication"><span class="journal"></span><span class="date"></span></div><p class="authors"></p>
-      <div class="summary"><span class="summary-label">摘要速览</span><p class="summary-text"></p></div>
-      <div class="fact-grid"><div><span>研究设计</span><strong class="design"></strong></div><div><span>样本量</span><strong class="sample"></strong></div><div><span>主要终点</span><strong class="endpoint"></strong></div><div><span>课题相关性</span><strong class="phd"></strong></div></div>
-      <details class="evidence-details"><summary>查看结构化证据与原始摘要 <span aria-hidden="true">＋</span></summary><div class="details-body"></div></details>
-      <div class="card-footer"><span class="first-seen"></span><div class="links"></div></div>
+      <div class="card-head"><div class="tags"></div><div class="card-actions"><button class="save-btn" title="收藏">☆</button><button class="read-btn">标为已读</button></div></div>
+      <h3 class="title"></h3><div class="meta"></div><div class="summary"></div>
+      <div class="grid">
+        <div><span>研究设计</span><strong class="design"></strong></div>
+        <div><span>样本量</span><strong class="sample"></strong></div>
+        <div><span>主要终点</span><strong class="endpoint"></strong></div>
+        <div><span>博士课题相关性</span><strong class="phd"></strong></div>
+      </div>
+      <details><summary>展开结构化证据</summary><div class="details-body"></div></details>
+      <div class="links"></div>
     </article>
   </template>
+  <script src="app.js"></script>
 </body>
 </html>
