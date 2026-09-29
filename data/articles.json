@@ -1,11 +1,143 @@
 {
   "meta": {
-    "updated_at": "2026-09-28",
+    "updated_at": "2026-09-29",
     "source": "PubMed + structured abstract extraction",
     "version": "2.2.0",
-    "article_count": 43
+    "article_count": 47
   },
   "articles": [
+    {
+      "id": "42805291",
+      "pmid": "42805291",
+      "doi": "10.1016/j.jvsv.2026.102634",
+      "date": "2026-09-28",
+      "title": "ARC-VAC Study (Analysis of Real-world multicenter experience with large bore Cleaner-VAC thrombectomy system), an analysis of 200 patients.",
+      "authors": "Sameh Sayfo, Charbel Y Ishak, Ilan Rzadkowolsky-Raoli, Mel M Ghaleb, Peter Stibbs, Holly Harrison, Susan Powell, Jacqueline Finley",
+      "journal": "Journal of vascular surgery. Venous and lymphatic disorders",
+      "abstract": "Venous thromboembolism (VTE), encompassing deep vein thrombosis (DVT) and pulmonary embolism (PE), represents a significant clinical entity with elevated morbidity and mortality rates. Conventional therapeutic approaches, such as systemic anticoagulation and thrombolytic agents, frequently yield suboptimal thrombus resolution. Mechanical thrombectomy has introduced a paradigm shift, enabling expeditious thrombus extraction while mitigating the chronic outcomes of sub optimally treated VTE and sequelae inherent to fibrinolytic therapies. The CLEANER Vac™ Thrombectomy System (Argon Medical Devices) is designed for controlled percutaneous venous thrombectomy. To evaluate the real-world procedural efficacy, safety profile, and clinical utility of the CLEANER Vac system in a multicenter cohort comprising 200 patients presenting with symptomatic venous thrombus. This retrospective, multicenter investigation included data from 200 patients who underwent intervention between October 2024 and January 2026 across 26 U.S. institutions. Eligible participants were adults aged ≥18 years with imaging-confirmed acute (<14 days) or subacute (14-28 days) VTE. Primary endpoints included thrombus clearance efficacy, segmented venous involvement, estimated blood loss (EBL), and intraprocedural adverse event incidence. The study cohort had a mean age of 64.5 years (range 25-90 years), with a gender distribution of 52% female (n=104) and 48% male (n=96). An average of 2.2 venous segments were treated per patient (range 1-5). Mean pre-procedure clot burden was 88.0%, which decreased to 10.5% post-procedure, culminating in a mean thrombus clearance of 88.0%. Overall, 76.0% of patients (n=152) achieved ≥90% clot resolution. Adjunctive rotational maceration was employed in 30% of cases, balloon venoplasty in 38%, and stent placement in 15%. Mean device utilization time was 8.0 minutes, with an average of 2.4 device passes per patient. Mean EBL was 320 mL (range 50-750 mL). The overall complication rate was 2.4% (n=5), consisting exclusively of minor access-site hematomas not attributed to the device. No serious adverse events (SAEs) were device-attributable within the 200-patient cohort. Procedures were predominantly classified as peripheral venous interventions (70%), with the remaining 30% encompassing alternative indications (e.g., in-stent restenosis, transjugular intrahepatic portosystemic shunt revisions). In this cohort of 200 patients, the CLEANER Vac system demonstrated high procedural efficacy (88.0% mean clot clearance, 76% achieving ≥90% resolution) and a favorable overall safety profile. The findings support the potential role of this system in enabling rapid, single-session VTE treatment with constrained hemorrhagic liability and morbidity compared to CDT. Prospective, longitudinal studies are warranted to evaluate long-term outcomes and delineate optimal patient stratification.",
+      "topics": [
+        "TIPS"
+      ],
+      "retrieved_at": "2026-09-29T05:35:00+00:00",
+      "first_seen": "2026-09-29",
+      "score": 3,
+      "design": "Prospective study",
+      "sample_size": "152",
+      "population": "",
+      "intervention": "This retrospective, multicenter investigation included data from 200 patients who underwent intervention between October 2024 and January 2026 across 26 U.S.",
+      "comparator": "",
+      "primary_endpoint": "Primary endpoints included thrombus clearance efficacy, segmented venous involvement, estimated blood loss (EBL), and intraprocedural adverse event incidence.",
+      "pfs": "",
+      "os": "",
+      "safety": "To evaluate the real-world procedural efficacy, safety profile, and clinical utility of the CLEANER Vac system in a multicenter cohort comprising 200 patients presenting with symptomatic venous thrombus. Primary endpoints included thrombus clearance efficacy, segmented venous involvement, estimated blood loss (EBL), and intraprocedural adverse event incidence. No serious adverse events (SAEs) were device-attributable within the 200-patient cohort.",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Venous thromboembolism (VTE), encompassing deep vein thrombosis (DVT) and pulmonary embolism (PE), represents a significant clinical entity with elevated morbidity and mortality rates. Conventional therapeutic approaches, such as systemic anticoagulation and thrombolytic agents, frequently yield suboptimal thrombus resolution. Mechanical thrombectomy has introduced a paradigm shift, enabling expeditious thrombus extraction while mitigating the chronic outcomes of sub optimally treated VTE and sequelae inherent to fibrinolytic therapies.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 1,
+      "phd_relevance": "与博士课题直接关联较低。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42805217",
+      "pmid": "42805217",
+      "doi": "10.1055/a-2954-0511",
+      "date": "2026-09-28",
+      "title": "Detective flow imaging-assisted endoscopic ultrasound-guided radiofrequency ablation of hepatocellular carcinoma adjacent to the inferior vena cava.",
+      "authors": "Gianenrico Rizzatti, Giulia Palumbo, Giulia Tripodi, Fabrizio Termite, Leonardo Stella, Francesca Romana Ponziani, Cristiano Spada",
+      "journal": "Endoscopy",
+      "abstract": "",
+      "topics": [
+        "Ablation"
+      ],
+      "retrieved_at": "2026-09-29T05:35:03+00:00",
+      "first_seen": "2026-09-29",
+      "score": 3,
+      "design": "Clinical study / unclear",
+      "sample_size": "",
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "PubMed 未提供摘要。",
+      "key_results": "",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42803948",
+      "pmid": "42803948",
+      "doi": "10.1177/13860291261491824",
+      "date": "2026-09-28",
+      "title": "Intraoperative monitoring of malignant liver tumor microwave ablation using contrast-enhanced ultrasound: A preliminary study.",
+      "authors": "Ivor Dropco, Nina Käser, Ulrich Kaiser, Paul Kupke, Hans Jürgen Schlitt, Stefan M Brunner, Christina Hackl, Christian Stroszczynski",
+      "journal": "Clinical hemorheology and microcirculation",
+      "abstract": "ObjectiveThis study aimed to evaluate intraoperative assessment and monitoring of liver tumor ablations using contrast-enhanced ultrasound (CEUS).MethodsTwenty patients (11 males [65%] and 9 females [45%]) with malignant lesions (cholangiocellular carcinoma (CCC), 1; hepatocellular carcinoma (HCC), 5; colorectal liver metastases (CRLM), 13; and one patient with alveolar echinococcosis) were examined intraoperatively with CEUS. Images were acquired in cine loops, covering the early arterial phase (0-15 s) up to the portal venous phase (1 min). Ablation was performed under real-time ultrasound guidance using microwave ablation (MWA). The generator output was adjusted up to 80 watts, up to 10 min. Post-ablation CEUS was conducted for immediate control.ResultsTwenty patients underwent ablation procedures. Ablation was carried out under ultrasound guidance with adjusted output settings between 40 and 80 watts and durations ranging from 2 to 5 min. Post-interventional CEUS confirmed complete devascularization in all planes. All patients underwent track ablation using 70 watts. At 6-month follow-up, no local recurrence was observed.ConclusionThe preliminary findings demonstrate the feasibility of intraoperative CEUS during microwave ablation of liver lesions. The technique proves to be a safe and effective intraoperative tool, owing to its ability to provide verification of complete tumor devascularization.",
+      "topics": [
+        "Ablation"
+      ],
+      "retrieved_at": "2026-09-29T05:35:03+00:00",
+      "first_seen": "2026-09-29",
+      "score": 3,
+      "design": "Clinical study / unclear",
+      "sample_size": "",
+      "population": "hepatocellular carcinoma (HCC), 5;",
+      "intervention": "Post-ablation CEUS was conducted for immediate control.ResultsTwenty patients underwent ablation procedures.",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "and one patient with alveolar echinococcosis) were examined intraoperatively with CEUS. Post-ablation CEUS was conducted for immediate control.ResultsTwenty patients underwent ablation procedures. Post-interventional CEUS confirmed complete devascularization in all planes.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42802681",
+      "pmid": "42802681",
+      "doi": "10.1155/jonm/3877436",
+      "date": "2026-01-01",
+      "title": "Couple-Level Coping and Hope Interdependence in Hepatocellular Carcinoma After Transcatheter Arterial Chemoembolisation: Insights From an Actor-Partner Interdependence Model.",
+      "authors": "Yu Wei, Xiaofang Long, Ying Yin, Yan Li, Lei Sun, Ailing Hu, Yuan Liu",
+      "journal": "Journal of nursing management",
+      "abstract": "Hepatocellular carcinoma (HCC) and transcatheter arterial chemoembolisation (TACE) are physically demanding for patients and their caregivers, as well as psychologically stressful. Spouses are often the main informal caregivers, so illness-related stress after TACE is experienced by the couple. Hope can provide psychological support for people with cancer, and dyadic coping refers to how couples cope with the stress of illness through communication. However, evidence remains limited regarding actor and partner associations between hope and dyadic coping in HCC patient-spouse dyads after TACE. To examine the actor and partner associations between hope and dyadic coping in HCC patient-spouse dyads after TACE using the actor-partner interdependence model (APIM). This cross-sectional study included 177 patient-spouse dyads recruited from a tertiary hospital in China between October 2023 and June 2024. Participants completed questionnaires on hope and dyadic coping. Data were analysed using SPSS 25.0 and AMOS 24.0. Distinguishable dyads were specified in the APIM, controlling for patient age, Child-Pugh grade, and number of TACE sessions. Both patients and their spouses reported moderate dyadic coping and relatively high hope. Hope was positively correlated with dyadic coping within and between partners. APIM revealed significant actor associations, indicating that higher hope was associated with better individual dyadic coping in patients (B' = 0.289, 95% CI [0.109, 0.451], p < 0.001) and spouses (B' = 0.381, 95% CI [0.221, 0.521], p < 0.001). Significant partner associations were also observed from patients to spouses (B' = 0.160, 95% CI [0.001, 0.308], p < 0.05) and from spouses to patients (B' = 0.181, 95% CI [0.031, 0.322], p < 0.05). These findings suggest that hope is associated with dyadic coping in both patients and spouses, underscoring the interdependent nature of psychological adjustment among couples managing HCC after TACE. Hope was associated with dyadic coping in both patients and spouses, highlighting the interdependent nature of psychological adjustment in couples coping with HCC after TACE. Nurse managers should recognise HCC patient-spouse dyads as an interdependent unit and incorporate assessment of both partners' hope and dyadic coping into oncology care management.",
+      "topics": [
+        "TACE"
+      ],
+      "retrieved_at": "2026-09-29T05:35:01+00:00",
+      "first_seen": "2026-09-29",
+      "score": 3,
+      "design": "Clinical study / unclear",
+      "sample_size": "",
+      "population": "Hepatocellular carcinoma (HCC) and transcatheter arterial chemoembolisation (TACE) are physically demanding for patients and their caregivers, as well as psychologically stressful.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Hope can provide psychological support for people with cancer, and dyadic coping refers to how couples cope with the stress of illness through communication. This cross-sectional study included 177 patient-spouse dyads recruited from a tertiary hospital in China between October 2023 and June 2024. Data were analysed using SPSS 25.0 and AMOS 24.0.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
     {
       "id": "42801119",
       "pmid": "42801119",
@@ -20,7 +152,7 @@
         "HCC systemic + local",
         "TACE"
       ],
-      "retrieved_at": "2026-09-28T05:12:51+00:00",
+      "retrieved_at": "2026-09-29T05:35:01+00:00",
       "first_seen": "2026-09-28",
       "score": 5,
       "design": "Retrospective study",
@@ -55,7 +187,7 @@
         "HCC systemic + local",
         "TACE"
       ],
-      "retrieved_at": "2026-09-28T05:12:51+00:00",
+      "retrieved_at": "2026-09-29T05:35:01+00:00",
       "first_seen": "2026-09-28",
       "score": 4,
       "design": "Retrospective study",
@@ -88,7 +220,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-09-28T05:12:54+00:00",
+      "retrieved_at": "2026-09-29T05:35:03+00:00",
       "first_seen": "2026-09-28",
       "score": 4,
       "design": "Prospective study",
@@ -322,7 +454,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-09-28T05:12:54+00:00",
+      "retrieved_at": "2026-09-29T05:35:03+00:00",
       "first_seen": "2026-09-28",
       "score": 4,
       "design": "Randomized controlled trial",
@@ -355,7 +487,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-09-28T05:12:54+00:00",
+      "retrieved_at": "2026-09-29T05:35:03+00:00",
       "first_seen": "2026-09-28",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -421,7 +553,7 @@
       "topics": [
         "TIPS"
       ],
-      "retrieved_at": "2026-09-28T05:12:50+00:00",
+      "retrieved_at": "2026-09-29T05:35:00+00:00",
       "first_seen": "2026-09-28",
       "score": 3,
       "design": "Prospective study",
@@ -454,7 +586,7 @@
       "topics": [
         "TIPS"
       ],
-      "retrieved_at": "2026-09-28T05:12:50+00:00",
+      "retrieved_at": "2026-09-29T05:35:00+00:00",
       "first_seen": "2026-09-28",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -487,7 +619,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-09-28T05:12:54+00:00",
+      "retrieved_at": "2026-09-29T05:35:03+00:00",
       "first_seen": "2026-09-28",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -520,7 +652,7 @@
       "topics": [
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-09-28T05:12:55+00:00",
+      "retrieved_at": "2026-09-29T05:35:04+00:00",
       "first_seen": "2026-09-28",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -553,7 +685,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-09-28T05:12:53+00:00",
+      "retrieved_at": "2026-09-29T05:35:03+00:00",
       "first_seen": "2026-09-28",
       "score": 3,
       "design": "Prospective study",
@@ -586,7 +718,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-09-28T05:12:54+00:00",
+      "retrieved_at": "2026-09-29T05:35:03+00:00",
       "first_seen": "2026-09-28",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -619,7 +751,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-09-28T05:12:54+00:00",
+      "retrieved_at": "2026-09-29T05:35:03+00:00",
       "first_seen": "2026-09-28",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -685,7 +817,7 @@
       "topics": [
         "TIPS"
       ],
-      "retrieved_at": "2026-09-28T05:12:50+00:00",
+      "retrieved_at": "2026-09-29T05:35:00+00:00",
       "first_seen": "2026-09-28",
       "score": 3,
       "design": "Systematic review",
@@ -718,7 +850,7 @@
       "topics": [
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-09-28T05:12:55+00:00",
+      "retrieved_at": "2026-09-29T05:35:04+00:00",
       "first_seen": "2026-09-28",
       "score": 3,
       "design": "Clinical study / unclear",
