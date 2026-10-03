@@ -1,11 +1,146 @@
 {
   "meta": {
-    "updated_at": "2026-10-02",
+    "updated_at": "2026-10-03",
     "source": "PubMed + structured abstract extraction",
     "version": "2.2.0",
-    "article_count": 71
+    "article_count": 75
   },
   "articles": [
+    {
+      "id": "42824161",
+      "pmid": "42824161",
+      "doi": "10.3389/fonc.2026.1892798",
+      "date": "2026-01-01",
+      "title": "Transcatheter arterial chemoembolization combined with stereotactic body radiation therapy versus transcatheter arterial chemoembolization for hepatocellular carcinoma: a systematic review and meta-analysis.",
+      "authors": "Dan Zeng, Xin Liu, Hao Zhang, Yaxin Zheng",
+      "journal": "Frontiers in oncology",
+      "abstract": "The optimal integration of locoregional therapies for unresectable hepatocellular carcinoma (HCC) remains an area of active investigation. This systematic review and meta-analysis aimed to evaluate the efficacy and safety of combining transcatheter arterial chemoembolization (TACE) with stereotactic body radiotherapy (SBRT) compared to TACE. A comprehensive literature search was conducted across five databases up to March 1, 2026. Eligible studies compared TACE combined with SBRT versus TACE (with or without concurrent systemic therapy) for unresectable HCC. The primary outcomes were overall survival (OS) and progression-free survival (PFS), with treatment-related adverse events (CTCAE grade ≥3) as a key safety outcome. Pooled hazard ratios (HR) and risk ratios (RR) with 95% confidence intervals (CI) were calculated using random-effects models. Heterogeneity was assessed using Cochran's Q test and the I² statistic. Subgroup analyses (by study design, concurrent systemic therapy, and HR adjustment) and sensitivity analyses were performed. Nine studies involving 828 patients were included. The TACE-SBRT combination significantly improved OS (HR = 0.48, 95% CI: 0.35-0.65, P < 0.001; I² = 13%) and PFS (HR = 0.45, 95% CI: 0.32-0.65, P < 0.001; I² = 54%) compared to TACE. There was no statistically significant difference in the incidence of grade ≥3 adverse events between the two groups (RR = 1.27, 95% CI: 0.87-1.86, P = 0.21). Sensitivity analyses confirmed the robustness of the findings. In patients with unresectable HCC, the combination of TACE and SBRT appears to confer a survival advantage over TACE, without significantly increasing the risk of severe adverse events. https://www.crd.york.ac.uk/PROSPERO/view/CRD420261350374, identifier CRD 420261350374.",
+      "topics": [
+        "TACE"
+      ],
+      "retrieved_at": "2026-10-03T05:07:53+00:00",
+      "first_seen": "2026-10-03",
+      "score": 5,
+      "design": "Meta-analysis",
+      "sample_size": "828",
+      "population": "The optimal integration of locoregional therapies for unresectable hepatocellular carcinoma (HCC) remains an area of active investigation.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "The primary outcomes were overall survival (OS) and progression-free survival (PFS), with treatment-related adverse events (CTCAE grade ≥3) as a key safety outcome.",
+      "pfs": "I² = 13%) and PFS (HR = 0.45, 95% CI: 0.32-0.65, P < 0.001; The primary outcomes were overall survival (OS) and progression-free survival (PFS), with treatment-related adverse events (CTCAE grade ≥3) as a key safety outcome.",
+      "os": "The TACE-SBRT combination significantly improved OS (HR = 0.48, 95% CI: 0.35-0.65, P < 0.001; The primary outcomes were overall survival (OS) and progression-free survival (PFS), with treatment-related adverse events (CTCAE grade ≥3) as a key safety outcome.",
+      "safety": "This systematic review and meta-analysis aimed to evaluate the efficacy and safety of combining transcatheter arterial chemoembolization (TACE) with stereotactic body radiotherapy (SBRT) compared to TACE. The primary outcomes were overall survival (OS) and progression-free survival (PFS), with treatment-related adverse events (CTCAE grade ≥3) as a key safety outcome. There was no statistically significant difference in the incidence of grade ≥3 adverse events between the two groups (RR = 1.27, 95% CI: 0.87-1.86, P = 0.21).",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "A comprehensive literature search was conducted across five databases up to March 1, 2026. The primary outcomes were overall survival (OS) and progression-free survival (PFS), with treatment-related adverse events (CTCAE grade ≥3) as a key safety outcome. Pooled hazard ratios (HR) and risk ratios (RR) with 95% confidence intervals (CI) were calculated using random-effects models.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 4,
+      "phd_relevance": "HCC 局部治疗 + 系统治疗联合证据，可作为寡进展研究的重要间接依据。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42826719",
+      "pmid": "42826719",
+      "doi": "10.1016/j.xcrm.2026.103085",
+      "date": "2026-10-02",
+      "title": "Multi-omics-driven personalized management of advanced HCC.",
+      "authors": "Jianpeng Sheng, Jinyuan Song, Lin Wang, Junlei Zhang, Wei Zhang, Hang Shi, Yaxing Zhao, Chengxiang Guo",
+      "journal": "Cell reports. Medicine",
+      "abstract": "Hepatocellular carcinoma (HCC) management is challenging due to its complex tumor microenvironment and poor treatment responses. Here, using tumor specimens from a prospective clinical trial of combined transarterial chemoembolization (TACE) with immune checkpoint blockade (ICB), we perform exhaustive multi-omics analysis including spatial proteomics and transcriptomics, single-cell RNA sequencing, and bulk transcriptomics. These analyses reveal that treatment response is associated with enrichment of anti-tumor T cell regions that are regulated by cGAS-STING activation within immune-suppressive epithelial cells. Conversely, fibrotic processes impede these pro-response processes. Based on these insights, we test triple combination therapy consisting of cGAS activation, immune checkpoint blockade, and anti-fibrosis strategies, which shows improved efficacy over dual therapy. To identify patients who would benefit, we construct a predictive model using a group sparse learning algorithm. Our findings provide a blueprint for crafting personalized HCC therapies using next-generation biomarkers.",
+      "topics": [
+        "TACE"
+      ],
+      "retrieved_at": "2026-10-03T05:07:53+00:00",
+      "first_seen": "2026-10-03",
+      "score": 3,
+      "design": "Prospective study",
+      "sample_size": "",
+      "population": "Hepatocellular carcinoma (HCC) management is challenging due to its complex tumor microenvironment and poor treatment responses.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Here, using tumor specimens from a prospective clinical trial of combined transarterial chemoembolization (TACE) with immune checkpoint blockade (ICB), we perform exhaustive multi-omics analysis including spatial proteomics and transcriptomics, single-cell RNA sequencing, and bulk transcriptomics. Based on these insights, we test triple combination therapy consisting of cGAS activation, immune checkpoint blockade, and anti-fibrosis strategies, which shows improved efficacy over dual therapy.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42825963",
+      "pmid": "42825963",
+      "doi": "10.1007/s11912-026-01834-y",
+      "date": "2026-10-02",
+      "title": "Interventional Management of Patients with Hepatocellular Carcinoma and Portal Vein Tumor Thrombosis: Are There Differences Between East and West?",
+      "authors": "Rong Yan, Tong Sun, Jian Lu, Gao-Jun Teng",
+      "journal": "Current oncology reports",
+      "abstract": "This review summarizes current evidence on interventional therapies for hepatocellular carcinoma (HCC) with portal vein tumor thrombosis (PVTT), compares the treatment strategies between East and West, and proposes a practical framework for patient selection in the immunotherapy era of HCC. Although systemic therapy remains the primary treatment for advanced HCC with PVTT, selected interventional therapies may provide additional value in carefully chosen patients with preserved liver function, liver-dominant disease, anatomically targetable PVTT, and adequate or reconstructable portal venous flow. Interventional options include transarterial chemoembolization, hepatic arterial infusion chemotherapy, transarterial radioembolization/selective internal radiation therapy, radiotherapy, portal vein stenting, and iodine-125 seed-based endovascular brachytherapy. Eastern and Western practice patterns differ mainly in the threshold for locoregional intensification, technical platform availability, and interpretation of the available evidence. Eastern and Western approaches increasingly share the principle that systemic therapy is the treatment backbone for advanced HCC with PVTT. The key clinical question is how interventional therapy should be integrated for selected patients rather than whether it should replace systemic therapy. Optimal management should be individualized through multidisciplinary decision-making based on PVTT extent, portal venous flow, liver function, intrahepatic and extrahepatic tumor burden, treatment goals, and institutional expertise. Future studies should standardize reporting of PVTT classification, portal vein patency, collateral circulation, liver reserve, tumor distribution, systemic therapy context, and treatment sequencing.",
+      "topics": [
+        "HAIC",
+        "HCC systemic + local",
+        "TACE",
+        "Y-90"
+      ],
+      "retrieved_at": "2026-10-03T05:07:53+00:00",
+      "first_seen": "2026-10-03",
+      "score": 3,
+      "design": "Clinical study / unclear",
+      "sample_size": "",
+      "population": "This review summarizes current evidence on interventional therapies for hepatocellular carcinoma (HCC) with portal vein tumor thrombosis (PVTT), compares the treatment strategies between East and West, and proposes a practical framework for patient selection in the immunotherapy era of HCC.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "This review summarizes current evidence on interventional therapies for hepatocellular carcinoma (HCC) with portal vein tumor thrombosis (PVTT), compares the treatment strategies between East and West, and proposes a practical framework for patient selection in the immunotherapy era of HCC. Although systemic therapy remains the primary treatment for advanced HCC with PVTT, selected interventional therapies may provide additional value in carefully chosen patients with preserved liver function, liver-dominant disease, anatomically targetable PVTT, and adequate or reconstructable portal venous flow. Eastern and Western practice patterns differ mainly in the threshold for locoregional intensification, technical platform availability, and interpretation of the available evidence.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 4,
+      "phd_relevance": "HCC 局部治疗 + 系统治疗联合证据，可作为寡进展研究的重要间接依据。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42825980",
+      "pmid": "42825980",
+      "doi": "10.1007/s41669-026-00685-4",
+      "date": "2026-10-02",
+      "title": "Healthcare Utilization and Direct Medical Costs of Hepatocellular Carcinoma Treatment - A German Claims Data Study of 2778 Patients.",
+      "authors": "Selina Becht, Sami Orabi, Simone Schrodi, Najib Ben Khaled, Michael von Bergwelt-Baildon, Peter Buggisch, Wolf-Peter Hofmann, Ursula Marschall",
+      "journal": "PharmacoEconomics - open",
+      "abstract": "Hepatocellular carcinoma (HCC) is a cancer with rising incidence and economic burden. However, evidence on healthcare resource utilization (HCRU) and associated costs is scarce in Europe. This study aims to determine HCRU and costs of HCC from a German third-party payer's perspective. This longitudinal claims study (BARMER statutory health insurance) included patients with HCC (ICD-10-GM C22.0; 2016-2020). HCRU and costs within 2 years after diagnosis were analyzed descriptively and reported per patient (PP) and per patient per month (PPPM). The cohort included 2778 patients. Mean age was 71.9 years (SD ±9.7); 69% were male. Total cost within 2 years after diagnosis was approximately €105 million, with mean cost PP of €37,970 (SD ±€43,840), primarily due to inpatient stays (67%). Median costs PP were highest for patients receiving liver transplantation (€126,943; interquartile range [IQR]: €104,340-€167,205) and lowest for patients without any tumor-specific therapy (€10,132; IQR: €5875-€19,663). Considering the observation period, costs PPPM were lowest for liver resection (€2434; IQR: €1282-€5425) and thermal ablation (€2349; IQR: €1233-€4316), whereas costs PPPM were highest for patients without tumor-specific HCC treatment (€5984; IQR: €2764-€10,908). Similar patterns were observed in the HCRU assessment. In this German claims data analysis, PP costs and HCRU in patients with HCC were higher among those who underwent liver transplantation and lower among those without tumor-specific treatment. However, after adjustment for follow-up duration, the high costs PP among patients receiving curative-intent treatments were significantly relativized. These findings support structured HCC surveillance to potentially improve clinical and economic outcomes.",
+      "topics": [
+        "Ablation"
+      ],
+      "retrieved_at": "2026-10-03T05:07:56+00:00",
+      "first_seen": "2026-10-03",
+      "score": 3,
+      "design": "Cohort study",
+      "sample_size": "",
+      "population": "Hepatocellular carcinoma (HCC) is a cancer with rising incidence and economic burden.",
+      "intervention": "In this German claims data analysis, PP costs and HCRU in patients with HCC were higher among those who underwent liver transplantation and lower among those without tumor-specific treatment.",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "However, evidence on healthcare resource utilization (HCRU) and associated costs is scarce in Europe. This study aims to determine HCRU and costs of HCC from a German third-party payer's perspective. HCRU and costs within 2 years after diagnosis were analyzed descriptively and reported per patient (PP) and per patient per month (PPPM).",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
     {
       "id": "42816871",
       "pmid": "42816871",
@@ -20,7 +155,7 @@
         "TACE",
         "Y-90"
       ],
-      "retrieved_at": "2026-10-02T05:24:43+00:00",
+      "retrieved_at": "2026-10-03T05:07:53+00:00",
       "first_seen": "2026-10-02",
       "score": 4,
       "design": "Cohort study",
@@ -53,7 +188,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-10-02T05:24:43+00:00",
+      "retrieved_at": "2026-10-03T05:07:53+00:00",
       "first_seen": "2026-10-02",
       "score": 4,
       "design": "Prospective study",
@@ -87,7 +222,7 @@
         "HCC systemic + local",
         "TACE"
       ],
-      "retrieved_at": "2026-10-02T05:24:43+00:00",
+      "retrieved_at": "2026-10-03T05:07:53+00:00",
       "first_seen": "2026-10-02",
       "score": 4,
       "design": "Retrospective study",
@@ -120,7 +255,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-10-02T05:24:44+00:00",
+      "retrieved_at": "2026-10-03T05:07:55+00:00",
       "first_seen": "2026-10-02",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -153,7 +288,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-10-02T05:24:43+00:00",
+      "retrieved_at": "2026-10-03T05:07:53+00:00",
       "first_seen": "2026-10-02",
       "score": 3,
       "design": "Retrospective study",
@@ -186,7 +321,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-10-02T05:24:44+00:00",
+      "retrieved_at": "2026-10-03T05:07:55+00:00",
       "first_seen": "2026-10-02",
       "score": 3,
       "design": "Systematic review",
@@ -219,7 +354,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-02T05:24:45+00:00",
+      "retrieved_at": "2026-10-03T05:07:56+00:00",
       "first_seen": "2026-10-02",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -252,7 +387,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-02T05:24:45+00:00",
+      "retrieved_at": "2026-10-03T05:07:56+00:00",
       "first_seen": "2026-10-02",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -285,7 +420,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-02T05:24:45+00:00",
+      "retrieved_at": "2026-10-03T05:07:56+00:00",
       "first_seen": "2026-10-02",
       "score": 3,
       "design": "Prospective study",
@@ -318,7 +453,7 @@
       "topics": [
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-10-02T05:24:46+00:00",
+      "retrieved_at": "2026-10-03T05:07:56+00:00",
       "first_seen": "2026-10-02",
       "score": 3,
       "design": "Retrospective study",
@@ -352,7 +487,7 @@
         "HCC systemic + local",
         "TACE"
       ],
-      "retrieved_at": "2026-10-02T05:24:43+00:00",
+      "retrieved_at": "2026-10-03T05:07:53+00:00",
       "first_seen": "2026-10-02",
       "score": 3,
       "design": "Clinical study / unclear",
