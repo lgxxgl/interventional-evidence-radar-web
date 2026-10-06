@@ -1,11 +1,176 @@
 {
   "meta": {
-    "updated_at": "2026-10-05",
+    "updated_at": "2026-10-06",
     "source": "PubMed + structured abstract extraction",
     "version": "2.2.0",
-    "article_count": 84
+    "article_count": 89
   },
   "articles": [
+    {
+      "id": "42833954",
+      "pmid": "42833954",
+      "doi": "10.1016/j.brachy.2026.08.005",
+      "date": "2026-10-05",
+      "title": "Permanent low-dose-rate seed implantation as single-session partial breast irradiation: Long-term outcomes using a modified institutional protocol.",
+      "authors": "Uri Amit, Tyler Meyer, Michael Roumeliotis, Karen Long, Siraj Husain",
+      "journal": "Brachytherapy",
+      "abstract": "To report long-term oncologic, cosmetic, and toxicity outcomes of permanent breast seed implantation (PBSI) using palladium-103 as accelerated partial breast irradiation (APBI) for early-stage breast cancer. This prospective, single-institution study enrolled 27 patients in 2013-2015. Our protocol modified the Sunnybrook approach by incorporating general anesthesia, a side-mounted stepper, and immediate postimplant CT verification. Eligibility criteria included age ≥50 years, tumor ≤3 cm, margins ≥2 mm, node-negative invasive or in situ ductal carcinoma, and no lymphovascular invasion. Ultrasound-guided implants were prescribed to deliver 90 Gy to the planning target volume (PTV). Cosmesis (Harvard Scale) and toxicity (CTCAE v3.0) were assessed. At median follow-up of 10.0 years, no local recurrences, distant recurrences, or breast cancer deaths occurred. Overall survival was 96.3% at 5 years and 88.3% at 10 years. Median CTV V100 was 100%, PTV V90 97%, and PTV V100 94%. No Grade ≥3 toxicity occurred. Cosmesis remained excellent or good in ≥90% of evaluable patients through 5 years. This adapted PBSI protocol achieved 10-year local control and breast cancer-specific survival of 100%, with preserved cosmesis and minimal toxicity, supporting PBSI as a safe, effective single-session APBI option for selected patients with favorable early-stage disease.",
+      "topics": [
+        "Y-90"
+      ],
+      "retrieved_at": "2026-10-06T06:09:58+00:00",
+      "first_seen": "2026-10-06",
+      "score": 3,
+      "design": "Prospective study",
+      "sample_size": "",
+      "population": "This adapted PBSI protocol achieved 10-year local control and breast cancer-specific survival of 100%, with preserved cosmesis and minimal toxicity, supporting PBSI as a safe, effective single-session APBI option for selected patients with favorable early-stage disease.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "Overall survival was 96.3% at 5 years and 88.3% at 10 years.",
+      "safety": "To report long-term oncologic, cosmetic, and toxicity outcomes of permanent breast seed implantation (PBSI) using palladium-103 as accelerated partial breast irradiation (APBI) for early-stage breast cancer. Cosmesis (Harvard Scale) and toxicity (CTCAE v3.0) were assessed. No Grade ≥3 toxicity occurred.",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "To report long-term oncologic, cosmetic, and toxicity outcomes of permanent breast seed implantation (PBSI) using palladium-103 as accelerated partial breast irradiation (APBI) for early-stage breast cancer. This prospective, single-institution study enrolled 27 patients in 2013-2015. Our protocol modified the Sunnybrook approach by incorporating general anesthesia, a side-mounted stepper, and immediate postimplant CT verification.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 2,
+      "phd_relevance": "与介入/局部治疗相关，但与博士课题联系有限。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42833615",
+      "pmid": "42833615",
+      "doi": "10.1016/j.jvir.2026.109114",
+      "date": "2026-10-05",
+      "title": "Yttrium-90 Radioembolization for High-Risk Hepatocellular Adenomas: A Single-Institution Experience.",
+      "authors": "Nathan Ji, Alex Sher, Josh Kim, Bryan Pacheco, Brett Marinelli, Jenanan Vairavamurthy, Dan Shilo, Rajesh Patel",
+      "journal": "Journal of vascular and interventional radiology : JVIR",
+      "abstract": "To evaluate the safety and efficacy of Yttrium-90 (Y-90) transarterial radioembolization (TARE) for the treatment of high-risk hepatocellular adenomas (HCAs) at a single tertiary care center. A retrospective review was performed of all patients who underwent TARE for HCAs at a tertiary care center between 2010 and 2025. Clinical, laboratory, imaging, and safety data were collected for twelve patients with 22 HCAs included in the study. The primary endpoint was treatment-related adverse events (AEs) graded by CTCAE and SIR AE classification. The secondary endpoints included target and overall radiologic response assessed by mRECIST.1 Patients were followed up with MRI at 6 weeks, 3 months, 6 months, 9 months, 12 months, 18 months, and 24 months. Median follow-up between Y-90 and latest imaging was 17.7 months, with an IQR of 12.9 [8.0-20.9] months. Indications for treatment included symptomatic adenoma (5%, 1/22), risk of malignant transformation (100%, 22/22) and hemorrhage risk (50%, 11/22). Grade 1 AEs (nausea, fatigue, anorexia, diarrhea, abdominal and shoulder pain) occurred in 75% (9/12) of patients. No grade 2 or greater AEs occurred. The objective response rate (ORR) was 100% (20/20) (complete target lesion response [CR]: 85% (17/20), partial target lesion response [PR]: 15% (3/20)). No lesions ruptured, progressed, or recurred during follow-up. In this single-institution experience, TARE was safe and demonstrated high short to intermediate-term ORRs in the treatment of high-risk hepatocellular adenomas. Larger prospective studies with longer duration of follow up are needed to confirm these findings.",
+      "topics": [
+        "Y-90"
+      ],
+      "retrieved_at": "2026-10-06T06:09:58+00:00",
+      "first_seen": "2026-10-06",
+      "score": 3,
+      "design": "Prospective study",
+      "sample_size": "",
+      "population": "Clinical, laboratory, imaging, and safety data were collected for twelve patients with 22 HCAs included in the study.",
+      "intervention": "A retrospective review was performed of all patients who underwent TARE for HCAs at a tertiary care center between 2010 and 2025.",
+      "comparator": "",
+      "primary_endpoint": "The primary endpoint was treatment-related adverse events (AEs) graded by CTCAE and SIR AE classification.",
+      "pfs": "",
+      "os": "",
+      "safety": "To evaluate the safety and efficacy of Yttrium-90 (Y-90) transarterial radioembolization (TARE) for the treatment of high-risk hepatocellular adenomas (HCAs) at a single tertiary care center. Clinical, laboratory, imaging, and safety data were collected for twelve patients with 22 HCAs included in the study. The primary endpoint was treatment-related adverse events (AEs) graded by CTCAE and SIR AE classification.",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "A retrospective review was performed of all patients who underwent TARE for HCAs at a tertiary care center between 2010 and 2025. Indications for treatment included symptomatic adenoma (5%, 1/22), risk of malignant transformation (100%, 22/22) and hemorrhage risk (50%, 11/22). The objective response rate (ORR) was 100% (20/20) (complete target lesion response [CR]: 85% (17/20), partial target lesion response [PR]: 15% (3/20)).",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 2,
+      "phd_relevance": "与介入/局部治疗相关，但与博士课题联系有限。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42831324",
+      "pmid": "42831324",
+      "doi": "10.1111/1754-9485.70191",
+      "date": "2026-10-05",
+      "title": "Stereotactic Ablative Body Radiotherapy Versus Microwave Ablation for the Treatment of Early-Stage Hepatocellular Carcinoma.",
+      "authors": "Darragh Egan, Fadak Mohammadi, Lauren Brotherton, William Ormiston, Jonathan Tibballs, Shaun Samuelson, Luis Calzadilla Bertot, Hien Le",
+      "journal": "Journal of medical imaging and radiation oncology",
+      "abstract": "Stereotactic ablative body radiotherapy (SABR) shows promise as curative therapy for early-stage hepatocellular carcinoma (HCC). We retrospectively assessed the efficacy of SABR and microwave ablation (MWA) in a multi-centre Australian cohort, comparing local recurrence (LR), mortality, and toxicity. This was a retrospective cohort study of 215 early stage HCC tumours treated with SABR across 4 referral centres. Cohort comparison was made to single centre data of MWA in 121 tumours. The main aetiologies of liver disease were hepatitis C and alcohol. The SABR cohort had higher prior HCC treatment (70% vs. 48%; p < 0.001), and more tumours > 2 cm (58% vs. 40%; p = 0.002). LR in the SABR cohort were 4.9% and 6.2% at 1 and 2 years respectively. LR rates in the MWA cohort were 12.4% and 17.3% at 1 and 2 years respectively (p = 0.006). After adjustment for age, sex, MELD, previous HCC treatment, tumour size, and AFP, the SABR cohort had reduced risk of LR compared to MWA (aHR 0.24; 95% CI 0.1-0.58, p = 0.001). Survival was higher in the MWA cohort to the SABR cohort (p < 0.001) despite higher rates of LR. Treatment related complications were common, but mild. Serious adverse events (AE) were rare in both groups. SABR demonstrated reduced LR compared to MWA in HCC tumours > 2 cm. The worse survival rates in the SABR cohort may reflect patient factors independent of HCC. Our study findings provide further justification for randomised-controlled trials investigating SABR as primary treatment for early-stage HCC.",
+      "topics": [
+        "Ablation"
+      ],
+      "retrieved_at": "2026-10-06T06:09:58+00:00",
+      "first_seen": "2026-10-06",
+      "score": 3,
+      "design": "Randomized controlled trial",
+      "sample_size": "",
+      "population": "Stereotactic ablative body radiotherapy (SABR) shows promise as curative therapy for early-stage hepatocellular carcinoma (HCC).",
+      "intervention": "This was a retrospective cohort study of 215 early stage HCC tumours treated with SABR across 4 referral centres.",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "We retrospectively assessed the efficacy of SABR and microwave ablation (MWA) in a multi-centre Australian cohort, comparing local recurrence (LR), mortality, and toxicity. Serious adverse events (AE) were rare in both groups.",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "We retrospectively assessed the efficacy of SABR and microwave ablation (MWA) in a multi-centre Australian cohort, comparing local recurrence (LR), mortality, and toxicity. This was a retrospective cohort study of 215 early stage HCC tumours treated with SABR across 4 referral centres. After adjustment for age, sex, MELD, previous HCC treatment, tumour size, and AFP, the SABR cohort had reduced risk of LR compared to MWA (aHR 0.24;",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42831275",
+      "pmid": "42831275",
+      "doi": "10.2478/raon-2026-0057",
+      "date": "2026-10-01",
+      "title": "Erratum: CT-guided 125I brachytherapy for hepatocellular carcinoma in high-risk locations after transarterial chemoembolization combined with microwave ablation: a propensity score-matched study.",
+      "authors": "Zixiong Chen, Xiaobo Fu, Zhenkang Qiu, Maoyuan Mu, Weiwei Jiang, Guisong Wang, Zhihui Zhong, Han Qi",
+      "journal": "Radiology and oncology",
+      "abstract": "",
+      "topics": [
+        "TACE"
+      ],
+      "retrieved_at": "2026-10-06T06:09:57+00:00",
+      "first_seen": "2026-10-06",
+      "score": 3,
+      "design": "Clinical study / unclear",
+      "sample_size": "",
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "PubMed 未提供摘要。",
+      "key_results": "",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42831118",
+      "pmid": "42831118",
+      "doi": "10.2147/IJN.S634549",
+      "date": "2026-01-01",
+      "title": "Sequential-Delivery Gel Microspheres Integrating HAase-Mediated ECM Remodeling and GA-Active Targeting for Deep Tumor Penetration in TACE-Treated HCC.",
+      "authors": "Xuwang Pan, Yunjiang Li, Yidan Shao, Jinsong Huang, Jianhua Yu, Zuhua Chen, Jianfeng Bao, Fanzhu Li",
+      "journal": "International journal of nanomedicine",
+      "abstract": "Transcatheter arterial chemoembolization (TACE) for hepatocellular carcinoma (HCC) is limited by inadequate intratumoral drug penetration. We developed a sequential-delivery composite gel microsphere system integrating hyaluronidase (HAase)-mediated microenvironment remodeling, glycyrrhetinic acid (GA)-mediated active targeting, and pH-responsive drug release as a potential strategy to address this barrier. Bufalin (BUF)-loaded GA-PEG-HYD-PLGA nanoparticles and HAase were co-encapsulated within carboxymethyl chitosan/sodium alginate gel microspheres containing BaSO4 for radiopacity (HAase/BUF NPs-GM). The system was characterized for particle size, drug loading, pH-responsive release, and hemocompatibility. Antitumor efficacy, deep tumor penetration, and mechanisms were evaluated in Huh-7 cells and a rabbit VX2 orthotopic liver tumor model via TACE-guided arterial delivery. HAase/BUF NPs-GM exhibited a favorable size (270 ± 61.89 μm), pH-dependent BUF release, and good biocompatibility, with an IC5 0 of 55.07 nM against Huh-7 cells. The system reduced hyaluronic acid content across all tumor regions, consistent with enhanced penetration of the therapeutic payload into the tumor core. Compared with controls, HAase/BUF NPs-GM combined with TACE suppressed tumor growth and angiogenesis, induced apoptosis, inhibited proliferation, and was associated with increased intratumoral CD3⁺ T cell infiltration and reduced expression of EMT-related markers. Mechanistically, the system induced ROS overproduction, mitochondrial membrane potential decrease, and G2/M cell cycle arrest. This strategy, which combines microenvironment remodeling, active targeting, and responsive release, provides a promising preclinical proof-of-concept for addressing the penetration limitations of conventional TACE. Further translational investigation, including validation in orthotopic or patient-derived xenograft models and long-term toxicity assessment, is warranted.",
+      "topics": [
+        "TACE"
+      ],
+      "retrieved_at": "2026-10-06T06:09:57+00:00",
+      "first_seen": "2026-10-06",
+      "score": 3,
+      "design": "Clinical study / unclear",
+      "sample_size": "",
+      "population": "Transcatheter arterial chemoembolization (TACE) for hepatocellular carcinoma (HCC) is limited by inadequate intratumoral drug penetration.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "Further translational investigation, including validation in orthotopic or patient-derived xenograft models and long-term toxicity assessment, is warranted.",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "We developed a sequential-delivery composite gel microsphere system integrating hyaluronidase (HAase)-mediated microenvironment remodeling, glycyrrhetinic acid (GA)-mediated active targeting, and pH-responsive drug release as a potential strategy to address this barrier. Bufalin (BUF)-loaded GA-PEG-HYD-PLGA nanoparticles and HAase were co-encapsulated within carboxymethyl chitosan/sodium alginate gel microspheres containing BaSO4 for radiopacity (HAase/BUF NPs-GM). The system reduced hyaluronic acid content across all tumor regions, consistent with enhanced penetration of the therapeutic payload into the tumor core.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
     {
       "id": "42829779",
       "pmid": "42829779",
@@ -18,7 +183,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-05T05:25:13+00:00",
+      "retrieved_at": "2026-10-06T06:09:58+00:00",
       "first_seen": "2026-10-05",
       "score": 4,
       "design": "Randomized controlled trial",
@@ -51,7 +216,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-10-05T05:25:12+00:00",
+      "retrieved_at": "2026-10-06T06:09:58+00:00",
       "first_seen": "2026-10-04",
       "score": 5,
       "design": "Prospective study",
@@ -84,7 +249,7 @@
       "topics": [
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-10-05T05:25:14+00:00",
+      "retrieved_at": "2026-10-06T06:09:59+00:00",
       "first_seen": "2026-10-04",
       "score": 4,
       "design": "Prospective study",
@@ -117,7 +282,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-10-05T05:25:12+00:00",
+      "retrieved_at": "2026-10-06T06:09:58+00:00",
       "first_seen": "2026-10-04",
       "score": 4,
       "design": "Retrospective study",
@@ -150,7 +315,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-10-05T05:25:12+00:00",
+      "retrieved_at": "2026-10-06T06:09:58+00:00",
       "first_seen": "2026-10-04",
       "score": 3,
       "design": "Retrospective study",
@@ -176,7 +341,7 @@
       "pmid": "42829048",
       "doi": "10.1016/j.virusres.2026.199812",
       "date": "2026-10-03",
-      "title": "Combining Antiviral Therapy with Cancer Treatment in HBV-associated HCC: A Translational Approach.",
+      "title": "Combining antiviral therapy with cancer treatment in HBV-associated HCC: A translational approach.",
       "authors": "Md Abul Hashem, Mohammad Enamul Hoque Kayesh, Michinori Kohara, Kyoko Tsukiyama-Kohara",
       "journal": "Virus research",
       "abstract": "Hepatitis B virus (HBV) infection remains a major global health concern and is a leading cause of hepatocellular carcinoma (HCC). Despite advances in antiviral therapy and cancer treatment, HBV-related HCC (HBV-HCC) continues to pose significant challenges due to its complex pathogenesis involving chronic inflammation, viral persistence, and liver fibrosis. Current antiviral therapies reduce viral load and liver inflammation but often fail to eliminate integrated viral DNA or prevent carcinogenesis. On the other hand, cancer therapies such as surgery, ablation, immunotherapy, and targeted therapy have limited success when used in isolation, especially in patients with active HBV replication. This review examines the emerging concept of combining antiviral and anticancer strategies to improve clinical outcomes in HBV-HCC. We discuss the molecular mechanisms linking HBV infection to HCC, the role of antiviral therapy in reducing recurrence post-HCC treatment, and the impact of HBV reactivation during cancer therapy. In addition, we explore emerging biomarkers for early detection and prognosis, the therapeutic implications of HBV DNA integration, and the potential of gene-editing technologies targeting viral reservoirs. We further review the influence of HBV-induced immune dysregulation on immunotherapy outcomes, the relevance of host-microbiome interactions in liver carcinogenesis, and the utility of precision medicine approaches in guiding treatment. We highlight recent translational studies, clinical trials, and future directions that support a dual-modality approach, aiming for long-term remission and improved survival in patients with HBV-HCC.",
@@ -184,7 +349,7 @@
         "Ablation",
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-10-05T05:25:13+00:00",
+      "retrieved_at": "2026-10-06T06:09:58+00:00",
       "first_seen": "2026-10-04",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -217,7 +382,7 @@
       "topics": [
         "TIPS"
       ],
-      "retrieved_at": "2026-10-05T05:25:11+00:00",
+      "retrieved_at": "2026-10-06T06:09:56+00:00",
       "first_seen": "2026-10-04",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -250,7 +415,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-10-05T05:25:12+00:00",
+      "retrieved_at": "2026-10-06T06:09:58+00:00",
       "first_seen": "2026-10-04",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -283,7 +448,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-05T05:25:13+00:00",
+      "retrieved_at": "2026-10-06T06:09:58+00:00",
       "first_seen": "2026-10-04",
       "score": 3,
       "design": "Clinical study / unclear",
