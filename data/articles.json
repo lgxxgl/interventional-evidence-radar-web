@@ -1,11 +1,176 @@
 {
   "meta": {
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-10-10",
     "source": "PubMed + structured abstract extraction",
     "version": "2.2.0",
-    "article_count": 114
+    "article_count": 119
   },
   "articles": [
+    {
+      "id": "42854364",
+      "pmid": "42854364",
+      "doi": "10.1016/j.genhosppsych.2026.09.013",
+      "date": "2026-10-07",
+      "title": "Preoperative depressive symptoms as an independent prognostic factor for long-term survival after curative-intent treatment for hepatocellular carcinoma: a prospective cohort study.",
+      "authors": "Xingyu Mi, Guo Long, Yilin Pan, Kui Chen, Shiqi Lu, Yifan Man, Liang Xiao, Jianing Tang",
+      "journal": "General hospital psychiatry",
+      "abstract": "Depression is common in cancer patients and may affect prognosis, yet its impact on long-term outcomes after curative-intent treatment for hepatocellular carcinoma (HCC) is underexplored. We prospectively examined whether preoperative depressive symptoms (Zung Self-Rating Depression Scale score ≥ 53) independently predict poorer overall survival (OS) and disease-free survival (DFS) in HCC patients undergoing curative-intent treatment. A total of 213 pathologically confirmed HCC patients who underwent resection or ablation at Xiangya Hospital (2019) were enrolled. Depressive status was assessed by the Zung Self-Rating Depression Scale (cutoff≥53), dividing patients into screen-positive (n = 66) and screen-negative (n = 147) groups. The primary endpoint was OS; the secondary endpoint was DFS. Follow-up ended December 2025. Kaplan-Meier and Cox regression analyses adjusted for demographic, clinical, pathological, and treatment covariates. The screen-positive group included more females (21.2% vs. 10.9%, P = 0.05) and more patients with low educational attainment (69.7% vs. 52.4%, P = 0.04), whereas partner status and alcohol use were balanced. Median follow-up was 77 months. Depressive symptoms significantly worsened DFS (median 12.0 vs. 24.0 months; HR = 1.42, P = 0.02) and OS (median 41.0 vs. 55.0 months; HR = 1.78, P < 0.001). Multivariable Cox analysis confirmed depressive symptoms as an independent adverse factor for both DFS (HR = 1.45, 95% CI: 1.04-2.01, P = 0.03) and OS (HR = 1.50, 95% CI: 1.05-2.14, P = 0.03). The DFS model adjusted for age, partner status, BCLC stage, AFP, type of surgery, MVI, and Ki-67; the OS model additionally adjusted for educational attainment and alcohol use status. Preoperative depressive symptoms independently predict shorter DFS and OS after curative-intent treatment for HCC. Routine screening for depressive symptoms may help identify patients at higher risk; whether psychosocial intervention improves long-term outcomes requires further study.",
+      "topics": [
+        "Ablation"
+      ],
+      "retrieved_at": "2026-10-10T05:39:51+00:00",
+      "first_seen": "2026-10-10",
+      "score": 4,
+      "design": "Prospective study",
+      "sample_size": "147",
+      "population": "Depression is common in cancer patients and may affect prognosis, yet its impact on long-term outcomes after curative-intent treatment for hepatocellular carcinoma (HCC) is underexplored.",
+      "intervention": "A total of 213 pathologically confirmed HCC patients who underwent resection or ablation at Xiangya Hospital (2019) were enrolled.",
+      "comparator": "",
+      "primary_endpoint": "The primary endpoint was OS;",
+      "pfs": "",
+      "os": "HR = 1.42, P = 0.02) and OS (median 41.0 vs. Multivariable Cox analysis confirmed depressive symptoms as an independent adverse factor for both DFS (HR = 1.45, 95% CI: 1.04-2.01, P = 0.03) and OS (HR = 1.50, 95% CI: 1.05-2.14, P = 0.03).",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Depression is common in cancer patients and may affect prognosis, yet its impact on long-term outcomes after curative-intent treatment for hepatocellular carcinoma (HCC) is underexplored. We prospectively examined whether preoperative depressive symptoms (Zung Self-Rating Depression Scale score ≥ 53) independently predict poorer overall survival (OS) and disease-free survival (DFS) in HCC patients undergoing curative-intent treatment. A total of 213 pathologically confirmed HCC patients who underwent resection or ablation at Xiangya Hospital (2019) were enrolled.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42854936",
+      "pmid": "42854936",
+      "doi": "10.1016/j.actbio.2026.10.017",
+      "date": "2026-10-09",
+      "title": "Effective treatment of orthotopic liver cancer with bifunctional embolization microspheres.",
+      "authors": "Baoqu Zhang, Jianke Li, Jianmin Zhao, Yanwu Peng, Perumal Ramesh Kannan, Han Zhang, Xiangdong Kong, Rui Tang",
+      "journal": "Acta biomaterialia",
+      "abstract": "Transcatheter arterial chemoembolization (TACE) is a minimally invasive procedure used widely for the treatment of unresectable hepatocellular carcinoma (HCC). However, embolization-induced hypoxia upregulates VEGF, and the resulting angiogenic response contributes to tumor recurrence, further limiting the efficacy of TACE against HCC. Herein, we present a multifunctional embolic microsphere system in which sorafenib (SRF) and calcium carbonate (CaCO3) nanoparticles are rationally encapsulated within sodium hyaluronate microspheres (SRF-CaCO3@SH MSs) via microfluidic technology. The microspheres exhibited a bowl-shaped morphology with tunable diameters, which enhances in vivo embolic stability through mechanical interlocking between adjacent microspheres. In an acidic tumor microenvironment (TME), pH-triggered release of Ca²⁺ (23.9%) and SRF (65.7%) far exceeded neutral conditions. SRF-CaCO3@SH MSs maintained >85% HUVEC viability and reduced VX2 cell viability to 24.3%, showing maximal cytotoxicity under acidic conditions. After intra-arterial injection, the microspheres occluded tumor-feeding arteries; Ca²⁺ released in the acidic TME inhibited angiogenesis, and CaCO3 neutralized TME acidity, counteracting immunosuppression. In a rabbit VX2 orthotopic HCC model, DSA-guided TACE achieved effective occlusion, slowest tumor growth, largest necrosis, and marked downregulation of CD31, Ki67, and VEGF, without systemic toxicity. Combining morphological design, pH-responsive occlusion, TME neutralization, and anti-angiogenesis, this embolic system synergistically enhances TACE and shows strong clinical potential. STATEMENT OF SIGNIFICANCE: Conventional liver cancer embolization frequently fails due to hypoxia-driven angiogenesis and subsequent tumor recurrence. We developed a dual-functional embolic microsphere (SRF-CaCO3@SH MS) that integrates stable vascular occlusion with active modulation of the tumor microenvironment. Utilizing microfluidics, we fabricated bowl-shaped sodium hyaluronate microspheres that mechanically interlock to ensure durable embolization. Under acidic tumor conditions, calcium carbonate neutralizes pH and releases Ca²⁺, which synergizes with sorafenib to inhibit angiogenesis and induce apoptosis. In a rabbit orthotopic HCC model, this system demonstrated superior tumor control and necrosis without inducing systemic toxicity. This work presents a microenvironment-responsive embolization strategy integrating durable vascular occlusion, pH modulation, and anti-angiogenic therapy.",
+      "topics": [
+        "TACE"
+      ],
+      "retrieved_at": "2026-10-10T05:39:49+00:00",
+      "first_seen": "2026-10-10",
+      "score": 3,
+      "design": "Clinical study / unclear",
+      "sample_size": "",
+      "population": "Transcatheter arterial chemoembolization (TACE) is a minimally invasive procedure used widely for the treatment of unresectable hepatocellular carcinoma (HCC).",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "SRF-CaCO3@SH MSs maintained >85% HUVEC viability and reduced VX2 cell viability to 24.3%, showing maximal cytotoxicity under acidic conditions. In a rabbit VX2 orthotopic HCC model, DSA-guided TACE achieved effective occlusion, slowest tumor growth, largest necrosis, and marked downregulation of CD31, Ki67, and VEGF, without systemic toxicity. In a rabbit orthotopic HCC model, this system demonstrated superior tumor control and necrosis without inducing systemic toxicity.",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Herein, we present a multifunctional embolic microsphere system in which sorafenib (SRF) and calcium carbonate (CaCO3) nanoparticles are rationally encapsulated within sodium hyaluronate microspheres (SRF-CaCO3@SH MSs) via microfluidic technology. The microspheres exhibited a bowl-shaped morphology with tunable diameters, which enhances in vivo embolic stability through mechanical interlocking between adjacent microspheres. After intra-arterial injection, the microspheres occluded tumor-feeding arteries;",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 4,
+      "phd_relevance": "HCC 局部治疗 + 系统治疗联合证据，可作为寡进展研究的重要间接依据。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42853368",
+      "pmid": "42853368",
+      "doi": "10.1007/s13105-026-01244-5",
+      "date": "2026-10-09",
+      "title": "Global deletion of the triglyceride-synthesizing enzyme TMEM68 disrupts hepatic lipid homeostasis in mice.",
+      "authors": "Haonan Wang, Huimin Pang, Christoph Heier, Chunyan Zhang, Tingting Li, Yuhang Liu, Feifei Huang, Pingan Chang",
+      "journal": "Journal of physiology and biochemistry",
+      "abstract": "Transmembrane protein 68 (TMEM68) mediates triacylglycerol (TAG) synthesis in mammals independently of canonical diacylglycerol acyltransferase (DGAT) 1 and DGAT2 enzymes. However, the in vivo roles of TMEM68 including its contribution to tissue-specific TAG formation remain largely elusive. In this study, we used a global Tmem68 knockout mouse model to investigate the impact of TMEM68 deficiency on lipid and energy metabolism of the liver. We found that loss of TMEM68 leads to a transient reduction in hepatic TAG storage and circulating ketone bodies approximately 4 weeks after birth. TMEM68-deficient livers exhibited reduced abundance of distinct acylglycerols and fatty acids, altered glycerophospholipid composition, and accumulation of polar ether lipids. Primary TMEM68-deficient hepatocytes also had reduced TAG and lipid droplet contents. RNA sequencing revealed that genes involved in multiple fatty acid metabolic processes and ketogenesis were repressed in Tmem68 knockout livers. Furthermore, Tmem68 ablation reduced hepatic cholesterol esters and modulated bile acid composition. In summary, our study identifies TMEM68 as a positive regulator of hepatic storage lipid levels and demonstrates a multifaceted embedding of the enzyme in hepatic lipid and energy metabolic pathways.",
+      "topics": [
+        "Ablation"
+      ],
+      "retrieved_at": "2026-10-10T05:39:51+00:00",
+      "first_seen": "2026-10-10",
+      "score": 3,
+      "design": "Clinical study / unclear",
+      "sample_size": "",
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "We found that loss of TMEM68 leads to a transient reduction in hepatic TAG storage and circulating ketone bodies approximately 4 weeks after birth. TMEM68-deficient livers exhibited reduced abundance of distinct acylglycerols and fatty acids, altered glycerophospholipid composition, and accumulation of polar ether lipids. Furthermore, Tmem68 ablation reduced hepatic cholesterol esters and modulated bile acid composition.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 2,
+      "phd_relevance": "与介入/局部治疗相关，但与博士课题联系有限。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42854939",
+      "pmid": "42854939",
+      "doi": "10.1016/j.actbio.2026.10.016",
+      "date": "2026-10-09",
+      "title": "Artificial Induction of Mitochondrial Calcification as a Trigger for Cancer Immunotherapy.",
+      "authors": "Kaixin Zhang, Hanhui Li, Zhuoxin Wang, Hongkun Wu, Li Shi, Qingqing Feng, Hongye Guan, Ben Wang",
+      "journal": "Acta biomaterialia",
+      "abstract": "Tumor calcification shows promise as a clinical predictor of tumor response and often involves mitochondrial calcification, which provides mineral precursors for extracellular deposition. However, the methods available for regulating mitochondrial calcification in tumor calcification therapy are limited. Herein, we designed and synthesized (4-carboxybutyl) triphenylphosphonium bromide (CTPP)-functionalized calcium peroxide (CaO2) nanoparticles (CTPP/CaO2) to achieve selective induction of mitochondrial calcification in hepatocellular carcinoma cells. The CTPP/CaO2-induced mitochondrial calcification sustains elevated intracellular calcium ion (Ca2+) and reactive oxygen species (ROS), exacerbates mitochondrial dysfunction, and triggers tumor cell death via pyroptosis. Pyroptosis further promotes the release of intracellular contents and exposure of calreticulin on the cell membrane, effectively activating the antitumor immune response in vivo. This mitochondrial calcification strategy integrates direct killing of tumor cells with subsequent activation of the antitumor immune response, thus providing a promising approach for engineering mitochondrial calcification with potential applications in cancer therapy. STATEMENT OF SIGNIFICANCE: Tumor calcification is a promising anticancer therapeutic strategy, but most existing methodologies are confined to non-specific extracellular mineralization with unsatisfactory targeting precision. We herein report a mitochondria-targeted nanoplatform that selectively initiates mitochondrial calcification against hepatocellular carcinoma. The resultant mitochondrial impairment and persistent ROS overproduction drive tumor pyroptosis, enabling direct tumor ablation and robust antitumor immune activation. Meanwhile, in situ tumor calcification augments CT/MR imaging contrast. This mitochondria-targeted calcification strategy achieves integrated theranostics and provides a potential strategy for refractory solid malignancies.",
+      "topics": [
+        "HCC systemic + local"
+      ],
+      "retrieved_at": "2026-10-10T05:39:51+00:00",
+      "first_seen": "2026-10-10",
+      "score": 3,
+      "design": "Clinical study / unclear",
+      "sample_size": "",
+      "population": "Herein, we designed and synthesized (4-carboxybutyl) triphenylphosphonium bromide (CTPP)-functionalized calcium peroxide (CaO2) nanoparticles (CTPP/CaO2) to achieve selective induction of mitochondrial calcification in hepatocellular carcinoma cells.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Tumor calcification shows promise as a clinical predictor of tumor response and often involves mitochondrial calcification, which provides mineral precursors for extracellular deposition. Herein, we designed and synthesized (4-carboxybutyl) triphenylphosphonium bromide (CTPP)-functionalized calcium peroxide (CaO2) nanoparticles (CTPP/CaO2) to achieve selective induction of mitochondrial calcification in hepatocellular carcinoma cells. The CTPP/CaO2-induced mitochondrial calcification sustains elevated intracellular calcium ion (Ca2+) and reactive oxygen species (ROS), exacerbates mitochondrial dysfunction, and triggers tumor cell death via pyroptosis.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 4,
+      "phd_relevance": "HCC 局部治疗 + 系统治疗联合证据，可作为寡进展研究的重要间接依据。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42851518",
+      "pmid": "42851518",
+      "doi": "10.34133/bmr.0421",
+      "date": "2026-01-01",
+      "title": "Vulnerability and Immunogenic Cell Death under Microwave Ablation for Synergistic Treatment of Hepatocellular Carcinoma.",
+      "authors": "Zide Chen, Hongwei Xu, Yufu Peng, Mengni Zhu, Linqing Huang, Feng Fang, Kefei Chen",
+      "journal": "Biomaterials research",
+      "abstract": "Microwave ablation (MWA) holds great promise for hepatocellular carcinoma but is often limited by incomplete tumor eradication and recurrence. Here, we report a tumor-killing nanoimmunoreactor driven by endogenous immune cues that synergizes with MWA to eliminate residual tumors and activate systemic antitumor immunity. The 17-AAG-MnO2PEG nanoimmunoreactor consists of a self-responsive PEGylated MnO2 platform loaded with the HSP90 inhibitor 17-allylamino-17-demethoxygeldanamycin (17-AAG), which is designed to respond to the oxidative tumor microenvironment. 17-AAG disrupts tumor cell thermotolerance, enhancing sensitivity to microwave-induced thermal stress, thereby improving ablation efficacy and inducing immunogenic cell death. PEGylation facilitates tumor-targeted accumulation, while the degradable MnO2 responds to hydrogen peroxide (H2O2) and tumor debris generated after MWA, enabling sustained local drug release. The combination treatment promotes dendritic cell maturation and T cell infiltration, effectively suppresses residual tumor regrowth, reduces the risk of metastasis, and establishes durable immune memory. By leveraging post-ablation tumor debris and microenvironmental cues, this strategy couples local tumor ablation with systemic antitumor immunity, providing a mechanistically distinct paradigm for durable cancer therapy.",
+      "topics": [
+        "Ablation"
+      ],
+      "retrieved_at": "2026-10-10T05:39:51+00:00",
+      "first_seen": "2026-10-10",
+      "score": 3,
+      "design": "Clinical study / unclear",
+      "sample_size": "",
+      "population": "Microwave ablation (MWA) holds great promise for hepatocellular carcinoma but is often limited by incomplete tumor eradication and recurrence.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "By leveraging post-ablation tumor debris and microenvironmental cues, this strategy couples local tumor ablation with systemic antitumor immunity, providing a mechanistically distinct paradigm for durable cancer therapy.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
     {
       "id": "42844316",
       "pmid": "42844316",
@@ -19,7 +184,7 @@
         "TIPS",
         "Y-90"
       ],
-      "retrieved_at": "2026-10-09T05:57:29+00:00",
+      "retrieved_at": "2026-10-10T05:39:49+00:00",
       "first_seen": "2026-10-09",
       "score": 5,
       "design": "Prospective study",
@@ -53,7 +218,7 @@
         "HAIC",
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-10-09T05:57:31+00:00",
+      "retrieved_at": "2026-10-10T05:39:50+00:00",
       "first_seen": "2026-10-09",
       "score": 5,
       "design": "Randomized controlled trial",
@@ -86,7 +251,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-10-09T05:57:32+00:00",
+      "retrieved_at": "2026-10-10T05:39:50+00:00",
       "first_seen": "2026-10-09",
       "score": 4,
       "design": "Systematic review",
@@ -119,7 +284,7 @@
       "topics": [
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-10-09T05:57:34+00:00",
+      "retrieved_at": "2026-10-10T05:39:51+00:00",
       "first_seen": "2026-10-09",
       "score": 4,
       "design": "Randomized controlled trial",
@@ -155,7 +320,7 @@
         "TACE",
         "Y-90"
       ],
-      "retrieved_at": "2026-10-09T05:57:30+00:00",
+      "retrieved_at": "2026-10-10T05:39:49+00:00",
       "first_seen": "2026-10-09",
       "score": 4,
       "design": "Retrospective study",
@@ -189,7 +354,7 @@
         "TACE",
         "Y-90"
       ],
-      "retrieved_at": "2026-10-09T05:57:30+00:00",
+      "retrieved_at": "2026-10-10T05:39:49+00:00",
       "first_seen": "2026-10-09",
       "score": 4,
       "design": "Retrospective study",
@@ -222,7 +387,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-10-09T05:57:32+00:00",
+      "retrieved_at": "2026-10-10T05:39:50+00:00",
       "first_seen": "2026-10-09",
       "score": 3,
       "design": "Retrospective study",
@@ -255,7 +420,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-10-09T05:57:32+00:00",
+      "retrieved_at": "2026-10-10T05:39:50+00:00",
       "first_seen": "2026-10-09",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -288,7 +453,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-09T05:57:33+00:00",
+      "retrieved_at": "2026-10-10T05:39:51+00:00",
       "first_seen": "2026-10-09",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -321,7 +486,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-09T05:57:33+00:00",
+      "retrieved_at": "2026-10-10T05:39:51+00:00",
       "first_seen": "2026-10-09",
       "score": 3,
       "design": "Prospective study",
@@ -354,7 +519,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-09T05:57:33+00:00",
+      "retrieved_at": "2026-10-10T05:39:51+00:00",
       "first_seen": "2026-10-09",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -387,7 +552,7 @@
       "topics": [
         "TIPS"
       ],
-      "retrieved_at": "2026-10-09T05:57:29+00:00",
+      "retrieved_at": "2026-10-10T05:39:49+00:00",
       "first_seen": "2026-10-09",
       "score": 3,
       "design": "Meta-analysis",
