@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-10",
+    "updated_at": "2026-10-11",
     "source": "PubMed + structured abstract extraction",
     "version": "2.2.0",
     "article_count": 119
@@ -18,7 +18,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-10T05:39:51+00:00",
+      "retrieved_at": "2026-10-11T05:35:27+00:00",
       "first_seen": "2026-10-10",
       "score": 4,
       "design": "Prospective study",
@@ -51,7 +51,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-10-10T05:39:49+00:00",
+      "retrieved_at": "2026-10-11T05:35:26+00:00",
       "first_seen": "2026-10-10",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -84,7 +84,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-10T05:39:51+00:00",
+      "retrieved_at": "2026-10-11T05:35:27+00:00",
       "first_seen": "2026-10-10",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -117,7 +117,7 @@
       "topics": [
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-10-10T05:39:51+00:00",
+      "retrieved_at": "2026-10-11T05:35:28+00:00",
       "first_seen": "2026-10-10",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -150,7 +150,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-10T05:39:51+00:00",
+      "retrieved_at": "2026-10-11T05:35:27+00:00",
       "first_seen": "2026-10-10",
       "score": 3,
       "design": "Clinical study / unclear",
