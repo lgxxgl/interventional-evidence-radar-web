@@ -1,11 +1,112 @@
 {
   "meta": {
-    "updated_at": "2026-10-17",
+    "updated_at": "2026-10-18",
     "source": "PubMed + structured abstract extraction",
     "version": "2.2.0",
-    "article_count": 174
+    "article_count": 177
   },
   "articles": [
+    {
+      "id": "42888555",
+      "pmid": "42888555",
+      "doi": "10.1097/MD.0000000000051136",
+      "date": "2026-10-16",
+      "title": "Three traditional Chinese patent medicines combined with transarterial chemoembolization for primary liver cancer: A systematic review and Bayesian network meta-analysis.",
+      "authors": "Wei Jiang, Jun Luo, Chenguang Wu, Yan An, Yinzhong Dai, Junwei Shi, Chengying Lan, Jinfeng Qi",
+      "journal": "Medicine",
+      "abstract": "To evaluate the objective response rate (ORR) and disease control rate of 3 Chinese herbal medicines (Compound Banmao Capsule, Huaier Granule, and Jinlong Capsule) combined with transarterial chemoembolization (TACE) for primary liver cancer using Bayesian network meta-analysis. We systematically searched randomized controlled trials (RCTs) across the Cochrane Library, Embase, PubMed, Web of Science, VIP Database for Chinese Technical Periodicals, China National Knowledge Infrastructure, and Wanfang databases from their inception to January 10, 2025. Two researchers independently screened the literature, extracted data, and assessed study quality using predefined inclusion and exclusion criteria. A Bayesian network meta-analysis was performed using RStudio to synthesize and hierarchically rank interventions by effect size in the included RCTs. This review was registered with PROSPERO (CRD420251019361). Thirty-one RCTs involving 2604 patients with primary liver cancer were included. The network meta-analysis showed that, compared with TACE alone: Compound Banmao Capsule ranked highest for ORR (OR = 1.50, 95% CI: 1.08, 2.08), followed by Huaier Granule (OR = 1.47, 95% CI: 1.05, 2.05) and Jinlong Capsule (OR = 1.30, 95% CI: 1.02, 1.65). For disease control rate, the ranking was Compound Banmao Capsule (OR = 1.21, 95% CI: 0.76, 1.93), Jinlong Capsule (OR = 1.17, 95% CI: 0.85, 1.59), and Huaier Granule (OR = 1.12, 95% CI: 0.66, 1.91). For ORR, the combination of the 3 Chinese herbal medicines with TACE showed superior efficacy to TACE monotherapy, with Compound Banmao Capsule demonstrating the greatest therapeutic potential among the interventions evaluated.",
+      "topics": [
+        "TACE"
+      ],
+      "retrieved_at": "2026-10-18T04:18:43+00:00",
+      "first_seen": "2026-10-18",
+      "score": 5,
+      "design": "Meta-analysis",
+      "sample_size": "",
+      "population": "Thirty-one RCTs involving 2604 patients with primary liver cancer were included.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "To evaluate the objective response rate (ORR) and disease control rate of 3 Chinese herbal medicines (Compound Banmao Capsule, Huaier Granule, and Jinlong Capsule) combined with transarterial chemoembolization (TACE) for primary liver cancer using Bayesian network meta-analysis. We systematically searched randomized controlled trials (RCTs) across the Cochrane Library, Embase, PubMed, Web of Science, VIP Database for Chinese Technical Periodicals, China National Knowledge Infrastructure, and Wanfang databases from their inception to January 10, 2025. This review was registered with PROSPERO (CRD420251019361).",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 2,
+      "phd_relevance": "与介入/局部治疗相关，但与博士课题联系有限。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42889344",
+      "pmid": "42889344",
+      "doi": "10.3389/fimmu.2026.1917667",
+      "date": "2026-01-01",
+      "title": "TACE-HAIC combined with apatinib and camrelizumab for unresectable hepatocellular carcinoma with portal vein tumor thrombus: a multicenter retrospective study.",
+      "authors": "Xuexian Zhang, Shangbo Shi, Yang Su, Yuanjin Ma, Qikun Guo, Xuerou Meng, Ruidong Wang, Jian Long",
+      "journal": "Frontiers in immunology",
+      "abstract": "Unresectable hepatocellular carcinoma (uHCC) with portal vein tumor thrombus (PVTT) indicates a poor prognosis. This study aims to evaluate the efficacy and safety of transarterial chemoembolization (TACE) combined with hepatic arterial infusion chemotherapy (HAIC), apatinib, and camrelizumab in patients with uHCC accompanied by PVTT. This multicenter retrospective study included patients with uHCC and PVTT who were treated at five tertiary medical centers in China between December 2021 and April 2025. Propensity score matching (PSM) was performed to minimize potential confounding bias. Treatment efficacy was assessed by objective response rate (ORR), disease control rate (DCR), progression-free survival (PFS), and overall survival (OS). The primary endpoints were PFS and OS, whereas secondary endpoints included ORR and safety. Among the 222 patients who met the eligibility criteria, 105 received TACE-HAIC combined with apatinib and camrelizumab (THAC group), and 117 received TACE combined with apatinib and camrelizumab (TAC group). After PSM, 86 matched patients were included in each group, and baseline characteristics were well balanced between the two groups. The THAC group achieved significantly higher intrahepatic tumor ORR (70.9% vs. 47.7%, P = 0.002) and DCR (94.2% vs. 79.1%, P = 0.004) than the TAC group. Similarly, for PVTT, the THAC group demonstrated significantly higher ORR (61.6% vs. 41.9%, P = 0.009) and DCR (90.7% vs. 74.4%, P = 0.005). The median PFS was significantly longer in the THAC group than in the TAC group (12 months vs. 7 months; HR = 0.287; 95%CI: 0.204-0.403; P<0.001). Likewise, the median OS was significantly prolonged in the THAC group (24 months vs. 16 months; HR = 0.198; 95%CI: 0.135-0.291; P<0.001). The incidence of adverse events did not differ significantly between the two groups (P>0.05). All adverse events were manageable, and no grade 5 adverse events were observed. In patients with uHCC accompanied by PVTT, the THAC regimen was associated with superior survival outcomes compared with the TAC regimen while maintaining an acceptable safety profile. These findings suggest that THAC may represent a feasible and effective therapeutic option for this patient population.",
+      "topics": [
+        "HAIC",
+        "TACE"
+      ],
+      "retrieved_at": "2026-10-18T04:18:43+00:00",
+      "first_seen": "2026-10-18",
+      "score": 5,
+      "design": "Retrospective study",
+      "sample_size": "",
+      "population": "Unresectable hepatocellular carcinoma (uHCC) with portal vein tumor thrombus (PVTT) indicates a poor prognosis.",
+      "intervention": "Among the 222 patients who met the eligibility criteria, 105 received TACE-HAIC combined with apatinib and camrelizumab (THAC group), and 117 received TACE combined with apatinib and camrelizumab (TAC group).",
+      "comparator": "",
+      "primary_endpoint": "The primary endpoints were PFS and OS, whereas secondary endpoints included ORR and safety.",
+      "pfs": "The median PFS was significantly longer in the THAC group than in the TAC group (12 months vs. Treatment efficacy was assessed by objective response rate (ORR), disease control rate (DCR), progression-free survival (PFS), and overall survival (OS).",
+      "os": "Likewise, the median OS was significantly prolonged in the THAC group (24 months vs. Treatment efficacy was assessed by objective response rate (ORR), disease control rate (DCR), progression-free survival (PFS), and overall survival (OS).",
+      "safety": "This study aims to evaluate the efficacy and safety of transarterial chemoembolization (TACE) combined with hepatic arterial infusion chemotherapy (HAIC), apatinib, and camrelizumab in patients with uHCC accompanied by PVTT. The primary endpoints were PFS and OS, whereas secondary endpoints included ORR and safety. The incidence of adverse events did not differ significantly between the two groups (P>0.05).",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Unresectable hepatocellular carcinoma (uHCC) with portal vein tumor thrombus (PVTT) indicates a poor prognosis. This multicenter retrospective study included patients with uHCC and PVTT who were treated at five tertiary medical centers in China between December 2021 and April 2025. Treatment efficacy was assessed by objective response rate (ORR), disease control rate (DCR), progression-free survival (PFS), and overall survival (OS).",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42888556",
+      "pmid": "42888556",
+      "doi": "10.1097/MD.0000000000050965",
+      "date": "2026-10-16",
+      "title": "Retrospective observational study of transcatheter arterial chemoembolization (TACE) combined with PD-1 inhibitor and tyrosine kinase inhibitor (TKI) in advanced hepatocellular carcinoma.",
+      "authors": "Guohui Xu, Jianlong Zhang, Xiaojun Li, Shilan Fan, Xiao Wu, Cuncai Zhou",
+      "journal": "Medicine",
+      "abstract": "Transcatheter arterial chemoembolization (TACE) induces tumor necrosis and antigen release, but the resulting hypoxic microenvironment upregulates programmed death-ligand 1and vascular endothelial growth factor, providing a biological rationale for adding a programmed death-1 (PD-1) inhibitor and a TKI. The study aims to assess the effectiveness and safety of a treatment regimen consisting of TACE, tyrosine kinase inhibitors, and PD-1 inhibitors in patients diagnosed with advanced hepatocellular carcinoma (HCC) that cannot be treated surgically. This retrospective observational study (Jiangxi Cancer Hospital, Jan 2021-Jun 2023) enrolled 52 advanced HCC patients, with 45 included in final analysis. Primary endpoints were progression-free survival (PFS) and overall survival (OS); secondary endpoints covered objective response rate, Disease Association for the Study of the Liver and safety. Survival was analyzed via Kaplan-Meier method and Cox proportional hazards regression. The cohort comprised 38 men and 7 women with a mean age of 50.9 ± 12.06 years, and 36 patients (80.0%) were hepatitis B virus antigen positive. At 6 months, the PFS rate stood at 71.1%, while at twelve months, it was recorded at 51.7%. The median PFS reached 12.4 months (95% confidence interval: 9.8-15.0), while the median OS was found to be 24.2 months (95% confidence interval: 20.1-28.3). The objective response rate was 44.4% and Disease Association for the Study of the Liver was 91.1%. Barcelona Clinic Liver Cancer (BCLC) staging significantly affected prognosis, with median PFS for BCLC A, B, C, and D being 19.2, 16.5, 12.1, and 4.8 months, respectively (log-rank P = .016). Median PFS for first-, second-, and third-line treatments were 17.1, 12.6, and 3.2 months, respectively (log-rank P < .001). Patients with positive node expression had significantly shorter PFS (5.1 vs 9.9 months, HR = 2.89, P = .005) and OS (14.9 vs 25.0 months, HR = 3.24, P = .002) compared to those with negative node expression. No grade 5 adverse events occurred. TACE combined with tyrosine kinase inhibitor and PD-1inhibitors shows promising efficacy and acceptable safety for advanced HCC. BCLC staging, treatment line and node status significantly affect outcomes, with earlier intervention yielding greater survival benefit. These exploratory findings from a small retrospective single-arm study require confirmation in larger prospective trials.",
+      "topics": [
+        "HCC systemic + local",
+        "TACE"
+      ],
+      "retrieved_at": "2026-10-18T04:18:43+00:00",
+      "first_seen": "2026-10-18",
+      "score": 4,
+      "design": "Prospective study",
+      "sample_size": "",
+      "population": "The study aims to assess the effectiveness and safety of a treatment regimen consisting of TACE, tyrosine kinase inhibitors, and PD-1 inhibitors in patients diagnosed with advanced hepatocellular carcinoma (HCC) that cannot be treated surgically.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "Primary endpoints were progression-free survival (PFS) and overall survival (OS);",
+      "pfs": "Barcelona Clinic Liver Cancer (BCLC) staging significantly affected prognosis, with median PFS for BCLC A, B, C, and D being 19.2, 16.5, 12.1, and 4.8 months, respectively (log-rank P = .016). Median PFS for first-, second-, and third-line treatments were 17.1, 12.6, and 3.2 months, respectively (log-rank P < .001).",
+      "os": "Patients with positive node expression had significantly shorter PFS (5.1 vs 9.9 months, HR = 2.89, P = .005) and OS (14.9 vs 25.0 months, HR = 3.24, P = .002) compared to those with negative node expression. The median PFS reached 12.4 months (95% confidence interval: 9.8-15.0), while the median OS was found to be 24.2 months (95% confidence interval: 20.1-28.3).",
+      "safety": "The study aims to assess the effectiveness and safety of a treatment regimen consisting of TACE, tyrosine kinase inhibitors, and PD-1 inhibitors in patients diagnosed with advanced hepatocellular carcinoma (HCC) that cannot be treated surgically. secondary endpoints covered objective response rate, Disease Association for the Study of the Liver and safety. No grade 5 adverse events occurred.",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Transcatheter arterial chemoembolization (TACE) induces tumor necrosis and antigen release, but the resulting hypoxic microenvironment upregulates programmed death-ligand 1and vascular endothelial growth factor, providing a biological rationale for adding a programmed death-1 (PD-1) inhibitor and a TKI. The study aims to assess the effectiveness and safety of a treatment regimen consisting of TACE, tyrosine kinase inhibitors, and PD-1 inhibitors in patients diagnosed with advanced hepatocellular carcinoma (HCC) that cannot be treated surgically. This retrospective observational study (Jiangxi Cancer Hospital, Jan 2021-Jun 2023) enrolled 52 advanced HCC patients, with 45 included in final analysis.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 4,
+      "phd_relevance": "HCC 局部治疗 + 系统治疗联合证据，可作为寡进展研究的重要间接依据。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
     {
       "id": "42881289",
       "pmid": "42881289",
@@ -18,7 +119,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-10-17T04:12:29+00:00",
+      "retrieved_at": "2026-10-18T04:18:43+00:00",
       "first_seen": "2026-10-17",
       "score": 5,
       "design": "Meta-analysis",
@@ -52,7 +153,7 @@
         "Ablation",
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-10-17T04:12:31+00:00",
+      "retrieved_at": "2026-10-18T04:18:46+00:00",
       "first_seen": "2026-10-17",
       "score": 5,
       "design": "Randomized controlled trial",
@@ -86,7 +187,7 @@
         "HCC systemic + local",
         "TACE"
       ],
-      "retrieved_at": "2026-10-17T04:12:29+00:00",
+      "retrieved_at": "2026-10-18T04:18:43+00:00",
       "first_seen": "2026-10-17",
       "score": 4,
       "design": "Retrospective study",
@@ -120,7 +221,7 @@
         "Ablation",
         "TACE"
       ],
-      "retrieved_at": "2026-10-17T04:12:29+00:00",
+      "retrieved_at": "2026-10-18T04:18:43+00:00",
       "first_seen": "2026-10-17",
       "score": 4,
       "design": "Prospective study",
@@ -153,7 +254,7 @@
       "topics": [
         "HAIC"
       ],
-      "retrieved_at": "2026-10-17T04:12:30+00:00",
+      "retrieved_at": "2026-10-18T04:18:44+00:00",
       "first_seen": "2026-10-17",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -186,7 +287,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-10-17T04:12:29+00:00",
+      "retrieved_at": "2026-10-18T04:18:43+00:00",
       "first_seen": "2026-10-17",
       "score": 3,
       "design": "Prospective study",
@@ -219,7 +320,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-17T04:12:31+00:00",
+      "retrieved_at": "2026-10-18T04:18:46+00:00",
       "first_seen": "2026-10-17",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -252,7 +353,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-17T04:12:31+00:00",
+      "retrieved_at": "2026-10-18T04:18:46+00:00",
       "first_seen": "2026-10-17",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -285,7 +386,7 @@
       "topics": [
         "HAIC"
       ],
-      "retrieved_at": "2026-10-17T04:12:30+00:00",
+      "retrieved_at": "2026-10-18T04:18:44+00:00",
       "first_seen": "2026-10-17",
       "score": 3,
       "design": "Clinical study / unclear",
