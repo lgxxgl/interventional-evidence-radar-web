@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-18",
+    "updated_at": "2026-10-19",
     "source": "PubMed + structured abstract extraction",
     "version": "2.2.0",
     "article_count": 177
@@ -18,7 +18,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-10-18T04:18:43+00:00",
+      "retrieved_at": "2026-10-19T04:28:23+00:00",
       "first_seen": "2026-10-18",
       "score": 5,
       "design": "Meta-analysis",
@@ -52,7 +52,7 @@
         "HAIC",
         "TACE"
       ],
-      "retrieved_at": "2026-10-18T04:18:43+00:00",
+      "retrieved_at": "2026-10-19T04:28:23+00:00",
       "first_seen": "2026-10-18",
       "score": 5,
       "design": "Retrospective study",
@@ -86,7 +86,7 @@
         "HCC systemic + local",
         "TACE"
       ],
-      "retrieved_at": "2026-10-18T04:18:43+00:00",
+      "retrieved_at": "2026-10-19T04:28:23+00:00",
       "first_seen": "2026-10-18",
       "score": 4,
       "design": "Prospective study",
