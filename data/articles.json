@@ -1,11 +1,78 @@
 {
   "meta": {
-    "updated_at": "2026-10-21",
+    "updated_at": "2026-10-22",
     "source": "PubMed + structured abstract extraction",
     "version": "2.2.0",
-    "article_count": 186
+    "article_count": 188
   },
   "articles": [
+    {
+      "id": "42902603",
+      "pmid": "42902603",
+      "doi": "10.1080/14796694.2026.2748246",
+      "date": "2026-10-20",
+      "title": "Study protocol of a prospective, non-interventional cohort study evaluating the benefits of transjugular intrahepatic portosystemic shunt in patients with hepatocellular carcinoma receiving first-line atezolizumab plus bevacizumab (NISTIPS TRITICC-4, IKF092).",
+      "authors": "Carolin Angendohr, Christian Weigel, Anselm Kunstein, Markus Joerdens, Thorsten Goetze, Salah-Eddin Al-Batran, Bianca Zäpf, Maria Gonzalez-Carmona",
+      "journal": "Future oncology (London, England)",
+      "abstract": "Hepatocellular carcinoma (HCC) is a leading cause of cancer-related mortality, with most patients diagnosed at an advanced stage. Atezolizumab plus bevacizumab is a current standard first-line therapy; however, outcomes are strongly influenced by underlying cirrhosis and clinically significant portal hypertension (CSPH). Complications such as ascites and variceal bleeding may limit treatment continuation, particularly as bevacizumab increases bleeding risk. Transjugular intrahepatic portosystemic shunt (TIPS) reduces portal pressure and may improve outcomes, but its role in patients receiving immunoncology-based systemic therapy remains unclear. NISTIPS TRITICC-4 is a prospective, multicentre, non-interventional cohort study conducted at up to 25 centers in Germany. A total of 350 adult patients with cirrhosis and unresectable or metastatic HCC receiving first-line atezolizumab plus bevacizumab will be enrolled. Patients are allocated to two cohorts: TIPS in situ plus atezolizumab and bevacizumab or atezolizumab plus bevacizumab alone, according to routine clinical practice.The primary endpoint is time to deterioration of liver function (TTDL), defined as persistent worsening of liver parameters for >4 weeks. Secondary endpoints include overall survival, time on treatment, overall response rate, time to new extrahepatic lesions or death, and safety with focus on bleeding and TIPS-related complications.Time-to-event endpoints will be analyzed using Kaplan-Meier methods and Cox models. Propensity score matching will be applied to adjust for confounding. Analyses are exploratory. This study will provide real-world evidence on the impact of TIPS in HCC patients receiving atezolizumab plus bevacizumab and may support more individualized management strategies in this high-risk population. www.clinicaltrials.gov identifier is NCT07365930.",
+      "topics": [
+        "TIPS"
+      ],
+      "retrieved_at": "2026-10-22T04:30:00+00:00",
+      "first_seen": "2026-10-22",
+      "score": 4,
+      "design": "Prospective study",
+      "sample_size": "",
+      "population": "Hepatocellular carcinoma (HCC) is a leading cause of cancer-related mortality, with most patients diagnosed at an advanced stage.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "Patients are allocated to two cohorts: TIPS in situ plus atezolizumab and bevacizumab or atezolizumab plus bevacizumab alone, according to routine clinical practice.The primary endpoint is time to deterioration of liver function (TTDL), defined as persistent worsening of liver parameters for >4 weeks.",
+      "pfs": "",
+      "os": "Secondary endpoints include overall survival, time on treatment, overall response rate, time to new extrahepatic lesions or death, and safety with focus on bleeding and TIPS-related complications.Time-to-event endpoints will be analyzed using Kaplan-Meier methods and Cox models.",
+      "safety": "Secondary endpoints include overall survival, time on treatment, overall response rate, time to new extrahepatic lesions or death, and safety with focus on bleeding and TIPS-related complications.Time-to-event endpoints will be analyzed using Kaplan-Meier methods and Cox models.",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Hepatocellular carcinoma (HCC) is a leading cause of cancer-related mortality, with most patients diagnosed at an advanced stage. however, outcomes are strongly influenced by underlying cirrhosis and clinically significant portal hypertension (CSPH). Transjugular intrahepatic portosystemic shunt (TIPS) reduces portal pressure and may improve outcomes, but its role in patients receiving immunoncology-based systemic therapy remains unclear.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42902152",
+      "pmid": "42902152",
+      "doi": "10.1186/s12876-026-05100-0",
+      "date": "2026-07-24",
+      "title": "Combined TIPS and TACE for patients with hepatocellular carcinoma and variceal bleeding secondary to portal vein tumor thrombus.",
+      "authors": "Zhuyu Feng, Bifei Wu, Zhongwei Xu, Wei Yang, Haifeng Zhou, Haibin Shi, Sheng Liu, Weizhong Zhou",
+      "journal": "BMC gastroenterology",
+      "abstract": "The study aimed to assess the safety and efficacy of transjugular intrahepatic portosystemic shunt (TIPS) combined with transarterial chemoembolization (TACE) for treating hepatocellular carcinoma (HCC) patients who have portal vein tumor thrombus (PVTT) and variceal bleeding secondary to portal hypertension. This retrospective study analysed 39 patients with HCC and PVTT who experienced variceal bleeding and were treated with TIPS and TACE from June 2018 to April 2025. The evaluated outcomes included the technical success, clinical success and overall survival (OS). The technical success rate was 100%. Variceal bleeding was successfully controlled in all patients. Among these patients, 13 (33.3%) developed overt hepatic encephalopathy (HE) after TIPS. There were no other significant procedure-related complications. The recurrence rate of variceal bleeding was 25.6% at 1 year. After TACE, all patients exhibited a reduction in tumor size, with 26 (66.7%) patients achieving partial response (PR) and 13 (33.3%) patients achieving stable disease (SD). The median OS was 12.2 (95% CI: 10.9-13.5) months and OS rates were 89.7% at 1 month, 76.9% at 3 months, 56.4% at 6 months, and 46.2% at 12 months. TIPS combined with TACE appears to be safe and effective for patients who had HCC and PVTT complicated with variceal bleeding secondary to portal hypertension. This study found that the combination of TIPS and TACE is a safe and effective treatment for patients with HCC and PVTT. The treatment successfully stopped the bleeding in all patients, helped shrink the tumors in most, and improved overall survival. This approach not only manages the life-threatening bleeding but also allows for further treatment of the liver cancer itself.",
+      "topics": [
+        "TACE",
+        "TIPS"
+      ],
+      "retrieved_at": "2026-10-22T04:30:00+00:00",
+      "first_seen": "2026-10-22",
+      "score": 4,
+      "design": "Retrospective study",
+      "sample_size": "",
+      "population": "The study aimed to assess the safety and efficacy of transjugular intrahepatic portosystemic shunt (TIPS) combined with transarterial chemoembolization (TACE) for treating hepatocellular carcinoma (HCC) patients who have portal vein tumor thrombus (PVTT) and variceal bleeding secondary to portal hypertension.",
+      "intervention": "This retrospective study analysed 39 patients with HCC and PVTT who experienced variceal bleeding and were treated with TIPS and TACE from June 2018 to April 2025.",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "The median OS was 12.2 (95% CI: 10.9-13.5) months and OS rates were 89.7% at 1 month, 76.9% at 3 months, 56.4% at 6 months, and 46.2% at 12 months. The treatment successfully stopped the bleeding in all patients, helped shrink the tumors in most, and improved overall survival.",
+      "safety": "The study aimed to assess the safety and efficacy of transjugular intrahepatic portosystemic shunt (TIPS) combined with transarterial chemoembolization (TACE) for treating hepatocellular carcinoma (HCC) patients who have portal vein tumor thrombus (PVTT) and variceal bleeding secondary to portal hypertension.",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "The study aimed to assess the safety and efficacy of transjugular intrahepatic portosystemic shunt (TIPS) combined with transarterial chemoembolization (TACE) for treating hepatocellular carcinoma (HCC) patients who have portal vein tumor thrombus (PVTT) and variceal bleeding secondary to portal hypertension. This retrospective study analysed 39 patients with HCC and PVTT who experienced variceal bleeding and were treated with TIPS and TACE from June 2018 to April 2025. The evaluated outcomes included the technical success, clinical success and overall survival (OS).",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
     {
       "id": "42897395",
       "pmid": "42897395",
@@ -18,7 +85,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-10-21T04:31:22+00:00",
+      "retrieved_at": "2026-10-22T04:30:02+00:00",
       "first_seen": "2026-10-21",
       "score": 4,
       "design": "Retrospective study",
@@ -51,7 +118,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-10-21T04:31:22+00:00",
+      "retrieved_at": "2026-10-22T04:30:02+00:00",
       "first_seen": "2026-10-21",
       "score": 3,
       "design": "Prospective study",
@@ -84,7 +151,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-21T04:31:24+00:00",
+      "retrieved_at": "2026-10-22T04:30:03+00:00",
       "first_seen": "2026-10-21",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -119,7 +186,7 @@
         "TACE",
         "Y-90"
       ],
-      "retrieved_at": "2026-10-21T04:31:17+00:00",
+      "retrieved_at": "2026-10-22T04:30:01+00:00",
       "first_seen": "2026-10-21",
       "score": 3,
       "design": "Prospective study",
@@ -152,7 +219,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-21T04:31:24+00:00",
+      "retrieved_at": "2026-10-22T04:30:03+00:00",
       "first_seen": "2026-10-21",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -185,7 +252,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-21T04:31:24+00:00",
+      "retrieved_at": "2026-10-22T04:30:03+00:00",
       "first_seen": "2026-10-21",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -219,7 +286,7 @@
         "HAIC",
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-10-21T04:31:18+00:00",
+      "retrieved_at": "2026-10-22T04:30:02+00:00",
       "first_seen": "2026-10-21",
       "score": 3,
       "design": "Retrospective study",
