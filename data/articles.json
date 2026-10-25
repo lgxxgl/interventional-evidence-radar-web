@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-24",
+    "updated_at": "2026-10-25",
     "source": "PubMed + structured abstract extraction",
     "version": "2.2.0",
     "article_count": 204
@@ -18,7 +18,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-10-24T04:25:15+00:00",
+      "retrieved_at": "2026-10-25T04:29:07+00:00",
       "first_seen": "2026-10-24",
       "score": 4,
       "design": "Randomized controlled trial",
@@ -52,7 +52,7 @@
         "HCC systemic + local",
         "TACE"
       ],
-      "retrieved_at": "2026-10-24T04:25:15+00:00",
+      "retrieved_at": "2026-10-25T04:29:07+00:00",
       "first_seen": "2026-10-24",
       "score": 4,
       "design": "Retrospective study",
@@ -85,7 +85,7 @@
       "topics": [
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-10-24T04:25:18+00:00",
+      "retrieved_at": "2026-10-25T04:29:09+00:00",
       "first_seen": "2026-10-24",
       "score": 4,
       "design": "Retrospective study",
@@ -118,7 +118,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-24T04:25:17+00:00",
+      "retrieved_at": "2026-10-25T04:29:08+00:00",
       "first_seen": "2026-10-24",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -151,7 +151,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-10-24T04:25:15+00:00",
+      "retrieved_at": "2026-10-25T04:29:07+00:00",
       "first_seen": "2026-10-24",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -184,7 +184,7 @@
       "topics": [
         "TIPS"
       ],
-      "retrieved_at": "2026-10-24T04:25:14+00:00",
+      "retrieved_at": "2026-10-25T04:29:06+00:00",
       "first_seen": "2026-10-24",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -217,7 +217,7 @@
       "topics": [
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-10-24T04:25:18+00:00",
+      "retrieved_at": "2026-10-25T04:29:09+00:00",
       "first_seen": "2026-10-24",
       "score": 3,
       "design": "Cohort study",
