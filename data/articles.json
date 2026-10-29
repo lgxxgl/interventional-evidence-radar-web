@@ -1,11 +1,178 @@
 {
   "meta": {
-    "updated_at": "2026-10-28",
+    "updated_at": "2026-10-29",
     "source": "PubMed + structured abstract extraction",
     "version": "2.2.0",
-    "article_count": 246
+    "article_count": 251
   },
   "articles": [
+    {
+      "id": "42947178",
+      "pmid": "42947178",
+      "doi": "10.1186/s12943-026-02761-z",
+      "date": "2026-07-31",
+      "title": "Targeting circular RNAs to overcome therapeutic resistance in liver cancer: from mechanisms to clinical prospects.",
+      "authors": "Xinyi Zhou, Chenyu Yang, Jiong Lu, Tengda Huang, Shiqi Ren, Hongyuan Pan, Ao Du, Zhixiang Zhou",
+      "journal": "Molecular cancer",
+      "abstract": "Primary liver cancer, including hepatocellular carcinoma (HCC) and intrahepatic cholangiocarcinoma (iCCA), remains a leading cause of cancer-related death worldwide. Therapeutic resistance substantially limits the efficacy of chemotherapy, targeted therapy, immunotherapy, and radiotherapy. For example, only approximately 30% of patients with HCC derive clinical benefit from sorafenib, and acquired resistance commonly develops within six months, underscoring the urgent need to clarify the molecular basis of treatment failure. Circular RNAs (circRNAs) are covalently closed RNA molecules with high structural stability and tissue-specific expression. In liver cancer, circRNAs regulate therapeutic resistance through multiple mechanisms that converge on ferroptosis suppression, apoptosis evasion, DNA damage repair, oncogenic signaling, immune escape, and cancer stemness. Beyond the canonical competing endogenous RNA model, this review highlights emerging regulatory mechanisms involving RNA-binding protein interactions, circRNA-encoded functional micropeptides, and circRNA-mediated phase separation. Exosomal circRNAs also facilitate the intercellular transmission of resistant phenotypes and remodel the tumor immune microenvironment. We systematically summarize circRNA-mediated resistance across different therapeutic modalities and critically evaluate the available evidence according to experimental models, in vivo validation, and patient validation. Although circRNAs show potential as biomarkers for predicting therapeutic response and as targets for overcoming resistance, most candidates remain at the preclinical stage. Their clinical translation is constrained by the lack of standardized detection methods, insufficient multicenter validation, and inefficient and inadequately targeted in vivo delivery systems. Because most direct mechanistic evidence is derived from HCC, selected iCCA-related findings are incorporated where available.",
+      "topics": [
+        "HCC systemic + local"
+      ],
+      "retrieved_at": "2026-10-29T05:35:37+00:00",
+      "first_seen": "2026-10-29",
+      "score": 4,
+      "design": "Multicenter observational study",
+      "sample_size": "",
+      "population": "Primary liver cancer, including hepatocellular carcinoma (HCC) and intrahepatic cholangiocarcinoma (iCCA), remains a leading cause of cancer-related death worldwide.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Circular RNAs (circRNAs) are covalently closed RNA molecules with high structural stability and tissue-specific expression. In liver cancer, circRNAs regulate therapeutic resistance through multiple mechanisms that converge on ferroptosis suppression, apoptosis evasion, DNA damage repair, oncogenic signaling, immune escape, and cancer stemness. Exosomal circRNAs also facilitate the intercellular transmission of resistant phenotypes and remodel the tumor immune microenvironment.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 4,
+      "phd_relevance": "HCC 局部治疗 + 系统治疗联合证据，可作为寡进展研究的重要间接依据。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42949956",
+      "pmid": "42949956",
+      "doi": "10.1073/pnas.2529474123",
+      "date": "2026-11-03",
+      "title": "Functional redundancy between atypical CDKs reveals a vulnerability in hepatocellular carcinoma.",
+      "authors": "Diego Martínez-Alonso, Enrique Nogueira, Luis R López-Sainz, Alexis P Pérez, Carolina Villarroya-Beltri, Alejandro Garcia-Diaz, Gloria C Bonel-Pérez, Aicha El Bakkali",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "abstract": "The atypical cyclin-dependent kinase subfamily (CDK14-18) encompasses five related proteins with unclear function, and for which individual depletion has not demonstrated sustained therapeutic relevance. We report here that CDK16 and CDK18 compensate each other and liver cancer cells are sensitive to the concomitant inactivation of both kinases, resulting in persistent defects in DNA repair and subsequent cell death. These effects are linked to a role of CDK16/18 in regulating nucleocytoplasmatic transport through phosphorylation of nuclear pore complex components, including NUP35. Genetic ablation of Cdk16 and Cdk18 in established liver tumors driven by MYC and beta-catenin oncogenes triggers DNA damage in cancer cells without affecting adjacent normal tissue, ultimately leading to tumor regression. Collectively, these findings provide a rationale for the development of CDK16-18 inhibitors-likely targeting multiple subfamily members due to their structural similarity-as a strategy against aggressive cancers, such as hepatocellular carcinoma, where effective treatment options remain limited.",
+      "topics": [
+        "Ablation"
+      ],
+      "retrieved_at": "2026-10-29T05:35:36+00:00",
+      "first_seen": "2026-10-29",
+      "score": 3,
+      "design": "Clinical study / unclear",
+      "sample_size": "",
+      "population": "Collectively, these findings provide a rationale for the development of CDK16-18 inhibitors-likely targeting multiple subfamily members due to their structural similarity-as a strategy against aggressive cancers, such as hepatocellular carcinoma, where effective treatment options remain limited.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "These effects are linked to a role of CDK16/18 in regulating nucleocytoplasmatic transport through phosphorylation of nuclear pore complex components, including NUP35.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42949602",
+      "pmid": "42949602",
+      "doi": "10.1002/advs.78484",
+      "date": "2026-10-28",
+      "title": "Lactate Homeostasis Disruption Potentiates TACE-Immunotherapy in Hepatocellular Carcinoma.",
+      "authors": "Minjiang Chen, Xiaoxiao Chen, Baozhu Yang, Hui Xu, Xueting Sun, Hongkai Qi, Huilin Hu, Ronghua Wu",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "abstract": "Developing strategies that simultaneously overcome chemoresistance and immune suppression remains a major challenge for improving transarterial chemoembolization (TACE) in hepatocellular carcinoma (HCC). Inspired by clinically used CaCO3 microspheres in TACE, we propose an \"extracellular buffering-intracellular metabolic disruption\" strategy to precisely regulate lactate homeostasis for targeted therapy. Herein, we engineered multifunctional embolic microspheres (SDCa-MSs) co-loaded with calcium carbonate nanoparticles (CaNPs), syrosingopine (Syr), and doxorubicin (DOX) for TACE application. Within the acidic tumor microenvironment, SDCa-MSs buffer extracellular acidity while disrupting intracellular lactate metabolism, thereby simultaneously remodeling extracellular and intracellular pH homeostasis. This coordinated regulation enhances DOX efficacy, induces calcium dyshomeostasis and immunogenic cell death, and ultimately stimulates robust antitumor immunity. In multiple murine HCC models, SDCa-MSs markedly suppress tumor growth, remodel the tumor immune microenvironment, and synergistically enhance the therapeutic efficacy of anti-PD-L1 immunotherapy. By integrating metabolic regulation, chemotherapy, and immune activation into a single embolic platform, this work establishes an acid-base homeostasis-regulating strategy for potentiating TACE and provides a conceptual framework for improving locoregional cancer immunotherapy.",
+      "topics": [
+        "HCC systemic + local",
+        "TACE"
+      ],
+      "retrieved_at": "2026-10-29T05:35:33+00:00",
+      "first_seen": "2026-10-29",
+      "score": 3,
+      "design": "Clinical study / unclear",
+      "sample_size": "",
+      "population": "Developing strategies that simultaneously overcome chemoresistance and immune suppression remains a major challenge for improving transarterial chemoembolization (TACE) in hepatocellular carcinoma (HCC).",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Inspired by clinically used CaCO3 microspheres in TACE, we propose an \"extracellular buffering-intracellular metabolic disruption\" strategy to precisely regulate lactate homeostasis for targeted therapy. Herein, we engineered multifunctional embolic microspheres (SDCa-MSs) co-loaded with calcium carbonate nanoparticles (CaNPs), syrosingopine (Syr), and doxorubicin (DOX) for TACE application. Within the acidic tumor microenvironment, SDCa-MSs buffer extracellular acidity while disrupting intracellular lactate metabolism, thereby simultaneously remodeling extracellular and intracellular pH homeostasis.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 4,
+      "phd_relevance": "HCC 局部治疗 + 系统治疗联合证据，可作为寡进展研究的重要间接依据。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42946657",
+      "pmid": "42946657",
+      "doi": "10.1111/apt.71072",
+      "date": "2026-10-27",
+      "title": "Management and Outcomes of Bleeding Ectopic Varices in Patients With Liver Cirrhosis: A Systematic Review and Pooled Analysis.",
+      "authors": "Angela Zhu, Kiran Rasaratnam, Ammar Majeed, William Kemp, Warren Clements, Stuart K Roberts",
+      "journal": "Alimentary pharmacology & therapeutics",
+      "abstract": "Bleeding ectopic varices is a rare but life-threatening complication in patients with clinically significant portal hypertension and liver cirrhosis, with limited evidence available to guide treatment decisions. To evaluate the safety and efficacy of current therapies for bleeding ectopic varices. A systematic review with pooled analysis was performed based on searches conducted in Embase, MEDLINE and Cochrane Library databases. Case series, retrospective and prospective studies including adults with a history of liver cirrhosis or portal hypertension presenting with bleeding ectopic varices were included. Individual patient data on interventions, rebleeding, complications and mortality were pooled and summarised using descriptive analysis. No conventional meta-analysis was conducted due to the heterogeneous nature of included studies. 44 studies (15 non-consecutive case series, 25 single-arm retrospective cohort studies, 3 double-arm retrospective cohort studies and 1 single-arm prospective study) involving 458 patients met selection criteria. Alcohol-related liver disease (38.7%), viral hepatitis (18.8%) and primary sclerosing cholangitis (15.7%) were the most common aetiologies. Child-Pugh A, B and C cirrhosis accounted for 29.7%, 46.7% and 23.5% of patients, respectively, and the pooled median Model for End Stage Liver Disease score was 14.0 (IQR 10.0-20.8). The most reported sites of ectopic varices were duodenal (27.7%), rectal (27.3%) and stomal/peri-stomal (23.1%). Endoscopic sclerosant injection appeared to have a lower rebleeding rate than band ligation in the treatment of bleeding rectal varices (3.3% vs. 33.3%). Across variceal subtypes, transjugular intrahepatic portosystemic shunt (TIPS) combined with variceal embolisation, was observed to have a lower rebleeding rate than TIPS alone. The pooled all-cause mortality following small bowel, rectal and stomal variceal bleeding were 25.0%, 42.9%, and 66.6%, respectively, over a median follow-up period of 354 (IQR 120-780) days. Small sample sizes, missing data and significant heterogeneity between studies limited data quality. Bleeding ectopic varices frequently recurs and carries high mortality. An individualised approach in conjunction with early multidisciplinary team discussions is essential in achieving favourable patient outcomes.",
+      "topics": [
+        "TIPS"
+      ],
+      "retrieved_at": "2026-10-29T05:35:32+00:00",
+      "first_seen": "2026-10-29",
+      "score": 3,
+      "design": "Meta-analysis",
+      "sample_size": "",
+      "population": "Bleeding ectopic varices is a rare but life-threatening complication in patients with clinically significant portal hypertension and liver cirrhosis, with limited evidence available to guide treatment decisions.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "To evaluate the safety and efficacy of current therapies for bleeding ectopic varices.",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Bleeding ectopic varices is a rare but life-threatening complication in patients with clinically significant portal hypertension and liver cirrhosis, with limited evidence available to guide treatment decisions. A systematic review with pooled analysis was performed based on searches conducted in Embase, MEDLINE and Cochrane Library databases. Case series, retrospective and prospective studies including adults with a history of liver cirrhosis or portal hypertension presenting with bleeding ectopic varices were included.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 1,
+      "phd_relevance": "与博士课题直接关联较低。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42948667",
+      "pmid": "42948667",
+      "doi": "10.1016/j.esmogo.2026.100354",
+      "date": "2026-09-01",
+      "title": "Recent advances in loco-ablative therapies for liver cancers.",
+      "authors": "R Orr, B Chan, E Y J Lo, K S H Chok",
+      "journal": "ESMO gastrointestinal oncology",
+      "abstract": "Hepatocellular carcinoma (HCC) is the most pervasive form of liver cancer worldwide, with its incidence rising due to lifestyle trends. The majority of HCC cases cannot be treated surgically; hence, loco-ablative therapies are required. Classically, radiofrequency ablation (RFA) has been the loco-ablative therapy most often selected for nonresectable HCC. However, due to technological advances and a better understanding of HCC's pathophysiology, new loco-ablative therapies have been developed for HCC. These novel techniques offer an alternative to surgery and RFA depending on each patient's clinical presentation, such as the number and size of nodules. Moreover, they present different benefits and potential clinical complications; therefore, knowledge of available techniques is important to allow clinicians to select the most suitable therapy for their patients. A narrative review was carried out to summarize the existing loco-ablative therapies for HCC, as well as to investigate emerging loco-ablative therapies for HCC. The benefits, drawbacks, indication for, and mechanism of each technique are outlined. The frontier of locoregional HCC treatment is shifting toward histotripsy and combinations of existing locoregional therapies with immunotherapy. The importance of a multidisciplinary team is highlighted. Nonetheless, there remains a role for surgical resection of HCC and classical locoregional therapies such as RFA, as there is a lack of large-scale randomised controlled trials investigating the role of novel locoregional techniques for treating HCC patients.",
+      "topics": [
+        "Ablation",
+        "HCC systemic + local"
+      ],
+      "retrieved_at": "2026-10-29T05:35:36+00:00",
+      "first_seen": "2026-10-29",
+      "score": 3,
+      "design": "Randomized controlled trial",
+      "sample_size": "",
+      "population": "Hepatocellular carcinoma (HCC) is the most pervasive form of liver cancer worldwide, with its incidence rising due to lifestyle trends.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Hepatocellular carcinoma (HCC) is the most pervasive form of liver cancer worldwide, with its incidence rising due to lifestyle trends. Classically, radiofrequency ablation (RFA) has been the loco-ablative therapy most often selected for nonresectable HCC. therefore, knowledge of available techniques is important to allow clinicians to select the most suitable therapy for their patients.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 4,
+      "phd_relevance": "HCC 局部治疗 + 系统治疗联合证据，可作为寡进展研究的重要间接依据。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
     {
       "id": "42937757",
       "pmid": "42937757",
@@ -19,7 +186,7 @@
         "Ablation",
         "HAIC"
       ],
-      "retrieved_at": "2026-10-28T05:26:20+00:00",
+      "retrieved_at": "2026-10-29T05:35:34+00:00",
       "first_seen": "2026-10-28",
       "score": 5,
       "design": "Meta-analysis",
@@ -52,7 +219,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-10-28T05:26:21+00:00",
+      "retrieved_at": "2026-10-29T05:35:35+00:00",
       "first_seen": "2026-10-28",
       "score": 5,
       "design": "Randomized controlled trial",
@@ -85,7 +252,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-28T05:26:23+00:00",
+      "retrieved_at": "2026-10-29T05:35:36+00:00",
       "first_seen": "2026-10-28",
       "score": 4,
       "design": "Retrospective study",
@@ -118,7 +285,7 @@
       "topics": [
         "TIPS"
       ],
-      "retrieved_at": "2026-10-28T05:26:19+00:00",
+      "retrieved_at": "2026-10-29T05:35:32+00:00",
       "first_seen": "2026-10-28",
       "score": 4,
       "design": "Prospective study",
@@ -151,7 +318,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-28T05:26:23+00:00",
+      "retrieved_at": "2026-10-29T05:35:36+00:00",
       "first_seen": "2026-10-28",
       "score": 4,
       "design": "Retrospective study",
@@ -187,7 +354,7 @@
         "TACE",
         "Y-90"
       ],
-      "retrieved_at": "2026-10-28T05:26:19+00:00",
+      "retrieved_at": "2026-10-29T05:35:33+00:00",
       "first_seen": "2026-10-28",
       "score": 4,
       "design": "Retrospective study",
@@ -220,7 +387,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-10-28T05:26:21+00:00",
+      "retrieved_at": "2026-10-29T05:35:35+00:00",
       "first_seen": "2026-10-28",
       "score": 4,
       "design": "Systematic review",
@@ -254,7 +421,7 @@
         "TACE",
         "Y-90"
       ],
-      "retrieved_at": "2026-10-28T05:26:19+00:00",
+      "retrieved_at": "2026-10-29T05:35:33+00:00",
       "first_seen": "2026-10-28",
       "score": 4,
       "design": "Prospective study",
@@ -288,7 +455,7 @@
         "HAIC",
         "TACE"
       ],
-      "retrieved_at": "2026-10-28T05:26:19+00:00",
+      "retrieved_at": "2026-10-29T05:35:33+00:00",
       "first_seen": "2026-10-28",
       "score": 4,
       "design": "Prospective study",
@@ -321,7 +488,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-10-28T05:26:21+00:00",
+      "retrieved_at": "2026-10-29T05:35:35+00:00",
       "first_seen": "2026-10-28",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -354,7 +521,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-10-28T05:26:21+00:00",
+      "retrieved_at": "2026-10-29T05:35:35+00:00",
       "first_seen": "2026-10-28",
       "score": 3,
       "design": "Prospective study",
@@ -387,7 +554,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-10-28T05:26:21+00:00",
+      "retrieved_at": "2026-10-29T05:35:35+00:00",
       "first_seen": "2026-10-28",
       "score": 3,
       "design": "Randomized controlled trial",
@@ -420,7 +587,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-28T05:26:23+00:00",
+      "retrieved_at": "2026-10-29T05:35:36+00:00",
       "first_seen": "2026-10-28",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -453,7 +620,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-28T05:26:23+00:00",
+      "retrieved_at": "2026-10-29T05:35:36+00:00",
       "first_seen": "2026-10-28",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -486,7 +653,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-10-28T05:26:19+00:00",
+      "retrieved_at": "2026-10-29T05:35:33+00:00",
       "first_seen": "2026-10-28",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -519,7 +686,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-10-28T05:26:21+00:00",
+      "retrieved_at": "2026-10-29T05:35:35+00:00",
       "first_seen": "2026-10-28",
       "score": 3,
       "design": "Prospective study",
@@ -552,7 +719,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-10-28T05:26:19+00:00",
+      "retrieved_at": "2026-10-29T05:35:33+00:00",
       "first_seen": "2026-10-28",
       "score": 3,
       "design": "Cohort study",
@@ -585,7 +752,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-28T05:26:23+00:00",
+      "retrieved_at": "2026-10-29T05:35:36+00:00",
       "first_seen": "2026-10-28",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -619,7 +786,7 @@
         "Ablation",
         "TACE"
       ],
-      "retrieved_at": "2026-10-28T05:26:19+00:00",
+      "retrieved_at": "2026-10-29T05:35:33+00:00",
       "first_seen": "2026-10-28",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -652,7 +819,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-28T05:26:23+00:00",
+      "retrieved_at": "2026-10-29T05:35:36+00:00",
       "first_seen": "2026-10-28",
       "score": 3,
       "design": "Prospective study",
@@ -685,7 +852,7 @@
       "topics": [
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-10-28T05:26:23+00:00",
+      "retrieved_at": "2026-10-29T05:35:37+00:00",
       "first_seen": "2026-10-28",
       "score": 3,
       "design": "Prospective study",
