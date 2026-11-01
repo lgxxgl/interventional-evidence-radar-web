@@ -1,11 +1,110 @@
 {
   "meta": {
-    "updated_at": "2026-10-31",
+    "updated_at": "2026-11-01",
     "source": "PubMed + structured abstract extraction",
     "version": "2.2.0",
-    "article_count": 269
+    "article_count": 272
   },
   "articles": [
+    {
+      "id": "42965293",
+      "pmid": "42965293",
+      "doi": "10.1002/smll.76516",
+      "date": "2026-10-31",
+      "title": "A High-Performance Wired and Wireless Dual-Mode Droplet Nanogenerator Enabled by Laser-Induced Microstructures.",
+      "authors": "Dong Wan, Xiaote Xu, Shaoshuai He, Yunlong Zi",
+      "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+      "abstract": "Droplet-based triboelectric nanogenerators (D-TENGs) have been widely explored for harvesting raindrop kinetic energy, but their practical use is limited by low electrical output and corrosion-prone wired connections. Here, we report a laser-treated, high-performance wired and wireless dual-mode droplet nanogenerator (L-DDNG) with wireless signals triggered by breakdown discharge. To improve output performance, ultraviolet picosecond laser ablation is used to create hierarchical surface microstructures, which enhance charge trapping and retention while simultaneously increasing the water contact angle to approximately 150°. Upon droplet impact on the triboelectric surface, breakdown discharge is mainly triggered between tips on two bottom electrodes, accompanied by the emission of wireless electromagnetic signals. The device delivers an open-circuit voltage of up to 550 V and a short-circuit current of 1.1 mA, with a reliable wireless transmission distance of 2 m, capable for transient wireless illumination of five LEDs and capacitor charging. In addition, an integrated sensing-actuation platform is demonstrated for autonomous response to rainfall intensity. This work establishes an effective route toward high-performance droplet energy harvesting and self-powered wireless droplet sensing, providing a practical strategy for intelligent environmental monitoring and industrial Internet of Things applications.",
+      "topics": [
+        "TIPS"
+      ],
+      "retrieved_at": "2026-11-01T05:49:41+00:00",
+      "first_seen": "2026-11-01",
+      "score": 3,
+      "design": "Clinical study / unclear",
+      "sample_size": "",
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Droplet-based triboelectric nanogenerators (D-TENGs) have been widely explored for harvesting raindrop kinetic energy, but their practical use is limited by low electrical output and corrosion-prone wired connections. To improve output performance, ultraviolet picosecond laser ablation is used to create hierarchical surface microstructures, which enhance charge trapping and retention while simultaneously increasing the water contact angle to approximately 150°.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 2,
+      "phd_relevance": "与介入/局部治疗相关，但与博士课题联系有限。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42966127",
+      "pmid": "42966127",
+      "doi": "10.1016/j.intimp.2026.117613",
+      "date": "2026-10-31",
+      "title": "Hepatic alveolar echinococcosis-induced IL-23 maintains Th17/Treg homeostasis via the JAK2/STAT3 signaling pathway.",
+      "authors": "Rongdong He, Zhihao Song, Li Sun, Guzinayi Abudukadi, Aliya Tulading, Jing Wu, Yilizhati Azhati, Maiwulanjiang Maimaiti",
+      "journal": "International immunopharmacology",
+      "abstract": "Alveolar echinococcosis (AE), caused by Echinococcus multilocularis (E.multilocularis), is a life-threatening zoonotic disease with limited therapeutic options, and reliable biomarkers of disease activity and immunotherapeutic targets are urgently needed. Although IL-23 has been linked to lesion metabolic activity in AE, its role in maintaining Th17/Treg homeostasis and whether this depends on JAK2/STAT3 signaling remain incompletely defined. Therefore, this study aimed to investigate the role of IL-23 in maintaining Th17/Treg homeostasis via the JAK2/STAT3 signaling pathway in patients with hepatic AE and in experimental models, and to assess its potential value as an immunotherapeutic target and as a biomarker of disease activity. We performed bioinformatic analysis and collected multiple specimen types, including liver tissue and peripheral blood samples from patients with hepatic AE, E.multilocularis infected mice sacrificed at 4, 12 and 24 weeks post infection, and an in vitro cell co-culture system. The expression of IL-23 and Th17/Treg-related cytokines was measured by ELISA, IHC/IF, Western blot (WB) and flow cytometry (FCM). We further explored the functional role of the IL-23/IL-17 axis using JAK2 inhibitors, STAT3 inhibitors and agonists, as well as Kupffer cell conditional IL-23 knockout mice. Hepatic levels of IL-23 A, p-JAK2 and p-STAT3 were significantly higher in AE patients and E.multilocularis-infected mice. Serum IL-23 A concentrations were also elevated and showed a positive correlation with patients' PET-CT SUVmax values. E.multilocularis infection triggered robust IL-23 A production in Kupffer cells and increased expression of IL-17 A and RORγt. During infection, IL-23 A expression increased early, peaked at the middle stage, and decreased thereafter. Th17-related factors followed a comparable rise-and-fall pattern, while Treg-related factors kept rising, shifting Th17/Treg homeostasis from early-phase Th17 predominance toward late-phase Treg dominance. Inhibition of JAK2 or STAT3 reduced p-STAT3 and Th17 associated molecules and mildly upregulated Treg associated molecules, these effects were partially reversed by a STAT3 agonist. In Kupffer cell conditional IL-23 knockout mice, E.multilocularis infection resulted in increased metacestode burden and aggravated liver injury, accompanied by further suppression of Th17 responses, enhanced Treg responses, and reduced JAK2/STAT3 activation. Our multiple lines of evidence support a working model whereby IL-23 sustains Th17/Treg homeostasis, at least in part, through the JAK2/STAT3 signaling pathway. IL-23 facilitates protective Th17 immune responses at the early infection stage and restrains excessive immunosuppression driven by dominant Treg cells during chronic infection. Conversely, IL-23 ablation disturbs this immune balance, which in turn further inhibits Th17 responses and amplifies Treg-mediated immunosuppression, ultimately increasing metacestode burdens and aggravating hepatic injury.",
+      "topics": [
+        "Ablation"
+      ],
+      "retrieved_at": "2026-11-01T05:49:45+00:00",
+      "first_seen": "2026-11-01",
+      "score": 3,
+      "design": "Clinical study / unclear",
+      "sample_size": "",
+      "population": "Therefore, this study aimed to investigate the role of IL-23 in maintaining Th17/Treg homeostasis via the JAK2/STAT3 signaling pathway in patients with hepatic AE and in experimental models, and to assess its potential value as an immunotherapeutic target and as a biomarker of disease activity.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Alveolar echinococcosis (AE), caused by Echinococcus multilocularis (E.multilocularis), is a life-threatening zoonotic disease with limited therapeutic options, and reliable biomarkers of disease activity and immunotherapeutic targets are urgently needed. Although IL-23 has been linked to lesion metabolic activity in AE, its role in maintaining Th17/Treg homeostasis and whether this depends on JAK2/STAT3 signaling remain incompletely defined. Therefore, this study aimed to investigate the role of IL-23 in maintaining Th17/Treg homeostasis via the JAK2/STAT3 signaling pathway in patients with hepatic AE and in experimental models, and to assess its potential value as an immunotherapeutic target and as a biomarker of disease activity.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 2,
+      "phd_relevance": "与介入/局部治疗相关，但与博士课题联系有限。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42963279",
+      "pmid": "42963279",
+      "doi": "10.1016/j.hpb.2026.10.005",
+      "date": "2026-10-22",
+      "title": "Impact of concurrent primary colorectal resection on postoperative infectious complications following hepatic thermal ablation for colorectal liver metastases: an ACS-NSQIP analysis.",
+      "authors": "Philip Q Ding, Bartholomew McKay, Mary Hou, Daniel J Meyer, Francis Sutherland, Elijah Dixon, Michael Driedger",
+      "journal": "HPB : the official journal of the International Hepato Pancreato Biliary Association",
+      "abstract": "Surgical management of colorectal liver metastases (CRLM) often involves multi-organ interventions which elevate postoperative infectious risk. While thermal ablation is increasingly used as a parenchymal-sparing strategy, infectious risk when combined with colorectal resection is unclear. Adults in the ACS-NSQIP database (2020-2023) undergoing hepatic thermal ablation, hepatic resection, or colorectal resection for CRLM were identified. The primary outcome was 30-day hepatic abscess, derived from organ-space infection excluding anastomotic leaks. Multivariable logistic regression assessed the impact of concurrent colorectal resection. Propensity score-matched and exploratory analyses compared infectious outcomes across procedure combinations. Among 660 patients (median age 59, 58% male), 52% underwent concurrent colorectal resection, with more transfusions, myocardial infarctions, reoperations, and longer hospital stays. In matched analysis, adding hepatic ablation to colorectal resection was independently associated with hepatic abscess, wound complications, and serious complications (OR 9.70, 4.88, 3.77, respectively). Conversely, concurrent colorectal resection and ablation increased infectious morbidity compared to ablation alone. Ablation alone demonstrated lower infectious risk than hepatic resection; concurrent colorectal surgery increased morbidity regardless of hepatic procedure. Concurrent colorectal resection with hepatic thermal ablation for CRLM increases infectious morbidity. While ablation alone maintains a favorable infectious profile, bowel manipulation appears to drive elevated risk.",
+      "topics": [
+        "Ablation"
+      ],
+      "retrieved_at": "2026-11-01T05:49:45+00:00",
+      "first_seen": "2026-11-01",
+      "score": 3,
+      "design": "Clinical study / unclear",
+      "sample_size": "",
+      "population": "",
+      "intervention": "Among 660 patients (median age 59, 58% male), 52% underwent concurrent colorectal resection, with more transfusions, myocardial infarctions, reoperations, and longer hospital stays.",
+      "comparator": "",
+      "primary_endpoint": "The primary outcome was 30-day hepatic abscess, derived from organ-space infection excluding anastomotic leaks.",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Surgical management of colorectal liver metastases (CRLM) often involves multi-organ interventions which elevate postoperative infectious risk. Propensity score-matched and exploratory analyses compared infectious outcomes across procedure combinations. Among 660 patients (median age 59, 58% male), 52% underwent concurrent colorectal resection, with more transfusions, myocardial infarctions, reoperations, and longer hospital stays.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 2,
+      "phd_relevance": "与介入/局部治疗相关，但与博士课题联系有限。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
     {
       "id": "42957516",
       "pmid": "42957516",
@@ -18,7 +117,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-10-31T05:23:18+00:00",
+      "retrieved_at": "2026-11-01T05:49:45+00:00",
       "first_seen": "2026-10-31",
       "score": 5,
       "design": "Retrospective study",
@@ -51,7 +150,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-10-31T05:23:17+00:00",
+      "retrieved_at": "2026-11-01T05:49:44+00:00",
       "first_seen": "2026-10-31",
       "score": 5,
       "design": "Retrospective study",
@@ -85,7 +184,7 @@
         "HAIC",
         "TACE"
       ],
-      "retrieved_at": "2026-10-31T05:23:15+00:00",
+      "retrieved_at": "2026-11-01T05:49:42+00:00",
       "first_seen": "2026-10-31",
       "score": 4,
       "design": "Clinical study / unclear",
@@ -120,7 +219,7 @@
         "TACE",
         "Y-90"
       ],
-      "retrieved_at": "2026-10-31T05:23:15+00:00",
+      "retrieved_at": "2026-11-01T05:49:42+00:00",
       "first_seen": "2026-10-31",
       "score": 4,
       "design": "Clinical study / unclear",
@@ -153,7 +252,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-10-31T05:23:17+00:00",
+      "retrieved_at": "2026-11-01T05:49:44+00:00",
       "first_seen": "2026-10-31",
       "score": 4,
       "design": "Systematic review",
@@ -187,7 +286,7 @@
         "HCC systemic + local",
         "TACE"
       ],
-      "retrieved_at": "2026-10-31T05:23:15+00:00",
+      "retrieved_at": "2026-11-01T05:49:42+00:00",
       "first_seen": "2026-10-31",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -220,7 +319,7 @@
       "topics": [
         "TIPS"
       ],
-      "retrieved_at": "2026-10-31T05:23:14+00:00",
+      "retrieved_at": "2026-11-01T05:49:41+00:00",
       "first_seen": "2026-10-31",
       "score": 3,
       "design": "Systematic review",
