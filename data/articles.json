@@ -1,11 +1,111 @@
 {
   "meta": {
-    "updated_at": "2026-11-01",
+    "updated_at": "2026-11-02",
     "source": "PubMed + structured abstract extraction",
     "version": "2.2.0",
-    "article_count": 272
+    "article_count": 275
   },
   "articles": [
+    {
+      "id": "42967027",
+      "pmid": "42967027",
+      "doi": "10.1002/mco2.71116",
+      "date": "2026-11-01",
+      "title": "Enhanced Efficacy of Thalidomide-Based Cocktail With Transarterial Chemoembolization in the Management of Unresectable Hepatocellular Carcinoma: A Multi-Center Cohort Study.",
+      "authors": "Jinzhi Xu, Li Song, Yifan Kong, Jie Li, Jian Zhang, Tao Ye, Yongqiang Liu, Xin Yin",
+      "journal": "MedComm",
+      "abstract": "This retrospective study was designed to evaluate the safety and efficacy of adding a thalidomide-based cocktail (the TCC cocktail-comprising thalidomide, carmofur, and compound mylabris capsule) to transarterial chemoembolization (TACE) for unresectable hepatocellular carcinoma (HCC) in real-world practice. Data from 433 unresectable HCC patients treated with TACE at four hospitals were collected (from March 2014 to May 2018, followed up to July 2023) and overall survival (OS), overall response rate (ORR), disease control rate (DCR), and adverse events (AEs) were analyzed. After 1: 2 propensity score matching (PSM), 114 patients in the cocktail group (TACE + TCC) were compared with 228 patients in the control group (TACE alone). The median OS of the cocktail group was significantly better than that of the control group (p < 0.001; 42.5 vs. 12.5 months) after PSM. ORR (29.8% vs. 21.1%, p = 0.081) and DCR (79.8% vs. 61.8%, p < 0.001) at 6 months were also better in the cocktail group after PSM. Moreover, no life-threatening AEs (grade 4 or 5) occurred in either group. In this retrospective cohort, the addition of the TCC cocktail to TACE was associated with improved survival and tumor response, with a manageable safety profile.",
+      "topics": [
+        "TACE"
+      ],
+      "retrieved_at": "2026-11-02T05:49:51+00:00",
+      "first_seen": "2026-11-02",
+      "score": 4,
+      "design": "Retrospective study",
+      "sample_size": "",
+      "population": "This retrospective study was designed to evaluate the safety and efficacy of adding a thalidomide-based cocktail (the TCC cocktail-comprising thalidomide, carmofur, and compound mylabris capsule) to transarterial chemoembolization (TACE) for unresectable hepatocellular carcinoma (HCC) in real-world practice.",
+      "intervention": "Data from 433 unresectable HCC patients treated with TACE at four hospitals were collected (from March 2014 to May 2018, followed up to July 2023) and overall survival (OS), overall response rate (ORR), disease control rate (DCR), and adverse events (AEs) were analyzed.",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "The median OS of the cocktail group was significantly better than that of the control group (p < 0.001; Data from 433 unresectable HCC patients treated with TACE at four hospitals were collected (from March 2014 to May 2018, followed up to July 2023) and overall survival (OS), overall response rate (ORR), disease control rate (DCR), and adverse events (AEs) were analyzed.",
+      "safety": "This retrospective study was designed to evaluate the safety and efficacy of adding a thalidomide-based cocktail (the TCC cocktail-comprising thalidomide, carmofur, and compound mylabris capsule) to transarterial chemoembolization (TACE) for unresectable hepatocellular carcinoma (HCC) in real-world practice. Data from 433 unresectable HCC patients treated with TACE at four hospitals were collected (from March 2014 to May 2018, followed up to July 2023) and overall survival (OS), overall response rate (ORR), disease control rate (DCR), and adverse events (AEs) were analyzed. Moreover, no life-threatening AEs (grade 4 or 5) occurred in either group.",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "This retrospective study was designed to evaluate the safety and efficacy of adding a thalidomide-based cocktail (the TCC cocktail-comprising thalidomide, carmofur, and compound mylabris capsule) to transarterial chemoembolization (TACE) for unresectable hepatocellular carcinoma (HCC) in real-world practice. Data from 433 unresectable HCC patients treated with TACE at four hospitals were collected (from March 2014 to May 2018, followed up to July 2023) and overall survival (OS), overall response rate (ORR), disease control rate (DCR), and adverse events (AEs) were analyzed. The median OS of the cocktail group was significantly better than that of the control group (p < 0.001;",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42967182",
+      "pmid": "42967182",
+      "doi": "10.2147/JHC.S644129",
+      "date": "2026-01-01",
+      "title": "Conversion Surgery After HAIC-Based Combination Therapy with Targeted Therapy and Immune Checkpoint Inhibitors for Initially Unresectable Hepatocellular Carcinoma: A Retrospective Cohort Study.",
+      "authors": "Xiaolong Zhang, Jun Hu, Haoming Lan, Xianfeng Shen, Meng Zhou, Youyou Tian",
+      "journal": "Journal of hepatocellular carcinoma",
+      "abstract": "For selected patients whose initially unresectable hepatocellular carcinoma (HCC) responds to hepatic arterial infusion chemotherapy (HAIC)-based combination treatment, conversion surgery may provide an opportunity for curative-intent management. We quantified the frequency of conversion surgery, examined factors associated with surgical conversion, and assessed survival and pathological outcomes using analyses that accounted for immortal time bias. We conducted a single-center retrospective cohort study of 216 patients with initially unresectable HCC who received HAIC together with targeted therapy and immune checkpoint blockade from September 2020 through June 2023. The relationship between conversion surgery and survival was examined with time-dependent Cox regression and a prespecified 180-day landmark analysis. Two hepatopathologists independently assessed the pathological response. 47 (21.8%) patients underwent conversion surgery, and 16 (34.0%) achieved pathological complete response (pCR). Median overall survival (OS) was 22.7 months (95% confidence interval [CI], 21.1-25.8), and median progression-free survival (PFS) was 13.7 months (95% CI, 10.9-16.2). In adjusted 180-day landmark analyses including 211 patients for OS and 166 patients for PFS, conversion surgery was associated with lower hazards of death (hazard ratio [HR], 0.30; 95% CI, 0.16-0.59; P < 0.001) and progression or death (HR, 0.32; 95% CI, 0.16-0.64; P = 0.001); time-dependent Cox models produced consistent findings. Albumin ≥ 35 g/L was associated with higher odds of conversion surgery (odds ratio [OR], 5.47; 95% CI, 1.75-17.06), whereas multifocal tumors were associated with lower odds (OR, 0.13; 95% CI, 0.06-0.29). Among resected patients, pCR was associated with favorable postoperative outcomes in exploratory unadjusted analyses. 47 of 216 patients (21.8%) underwent conversion surgery after HAIC-based combination therapy. Conversion surgery was associated with favorable OS and PFS after accounting for treatment timing. However, causal inference remains limited by residual confounding and treatment-selection bias in this retrospective study. The prognostic value of pCR requires validation in larger prospective cohorts.",
+      "topics": [
+        "HAIC",
+        "HCC systemic + local"
+      ],
+      "retrieved_at": "2026-11-02T05:49:52+00:00",
+      "first_seen": "2026-11-02",
+      "score": 4,
+      "design": "Prospective study",
+      "sample_size": "",
+      "population": "For selected patients whose initially unresectable hepatocellular carcinoma (HCC) responds to hepatic arterial infusion chemotherapy (HAIC)-based combination treatment, conversion surgery may provide an opportunity for curative-intent management.",
+      "intervention": "We conducted a single-center retrospective cohort study of 216 patients with initially unresectable HCC who received HAIC together with targeted therapy and immune checkpoint blockade from September 2020 through June 2023.",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "Median overall survival (OS) was 22.7 months (95% confidence interval [CI], 21.1-25.8), and median progression-free survival (PFS) was 13.7 months (95% CI, 10.9-16.2). In adjusted 180-day landmark analyses including 211 patients for OS and 166 patients for PFS, conversion surgery was associated with lower hazards of death (hazard ratio [HR], 0.30;",
+      "os": "Median overall survival (OS) was 22.7 months (95% confidence interval [CI], 21.1-25.8), and median progression-free survival (PFS) was 13.7 months (95% CI, 10.9-16.2). In adjusted 180-day landmark analyses including 211 patients for OS and 166 patients for PFS, conversion surgery was associated with lower hazards of death (hazard ratio [HR], 0.30;",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "For selected patients whose initially unresectable hepatocellular carcinoma (HCC) responds to hepatic arterial infusion chemotherapy (HAIC)-based combination treatment, conversion surgery may provide an opportunity for curative-intent management. We conducted a single-center retrospective cohort study of 216 patients with initially unresectable HCC who received HAIC together with targeted therapy and immune checkpoint blockade from September 2020 through June 2023. Median overall survival (OS) was 22.7 months (95% confidence interval [CI], 21.1-25.8), and median progression-free survival (PFS) was 13.7 months (95% CI, 10.9-16.2).",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "42967529",
+      "pmid": "42967529",
+      "doi": "10.1016/j.jconrel.2026.115517",
+      "date": "2026-11-01",
+      "title": "Self-augmenting procoagulant microspheres potentiate microvessel embolization and hypoxia-activated prodrug activation against hepatocellular carcinoma.",
+      "authors": "Jintao Huang, Wanting Chen, Jinhe Guo, Jiakun Guo, Shang Liu, Zhiyuan Zhong, Chao Deng, Jian Lu",
+      "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+      "abstract": "Transarterial chemoembolization (TACE) persists a cornerstone therapy for hypervascular tumors such as hepatocellular carcinoma (HCC), yet clinical limitations remain due to inefficient occlusion of tumor microvessels and hypoxia-induced drug resistance. Here, self-augmenting procoagulant microspheres (SPM) were developed for sustained co-delivery of thrombin (Th) and hypoxia-activated prodrug AQ4N (Th/AQ@SPM) to potentiate TACE therapy in HCC. SPM induced primary embolization by obstructing major tumor vasculature, affording vascular disruption and procoagulant factor exposure to establish a localized hypercoagulable microenvironment. Th-triggered secondary thrombosis through platelet aggregation and fibrinogen-to-fibrin conversion within residual vasculature extended occlusion to inter-microsphere spaces and distal microvessels beyond direct microsphere reach. Concurrently, hypoxia-potentiated activation of AQ4N to its cytotoxic form enabled targeted chemotherapy within the ischemic tumors. In rabbit renal and auricular artery models, Th@SPM demonstrated significant microvessel embolization through dual-phase vascular occlusion. Orthotopic VX2 liver tumor models revealed that TACE treatment with Th/AQ@SPM achieved superior tumor suppression without adverse toxic effects. Thus, Th/AQ@SPM establishes a self-augmenting embolic cascade that couples progressive microvascular occlusion with hypoxia-activated chemotherapy, providing a potent strategy to overcome key limitations of conventional TACE for HCC.",
+      "topics": [
+        "TACE"
+      ],
+      "retrieved_at": "2026-11-02T05:49:51+00:00",
+      "first_seen": "2026-11-02",
+      "score": 3,
+      "design": "Clinical study / unclear",
+      "sample_size": "",
+      "population": "Transarterial chemoembolization (TACE) persists a cornerstone therapy for hypervascular tumors such as hepatocellular carcinoma (HCC), yet clinical limitations remain due to inefficient occlusion of tumor microvessels and hypoxia-induced drug resistance.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Here, self-augmenting procoagulant microspheres (SPM) were developed for sustained co-delivery of thrombin (Th) and hypoxia-activated prodrug AQ4N (Th/AQ@SPM) to potentiate TACE therapy in HCC. SPM induced primary embolization by obstructing major tumor vasculature, affording vascular disruption and procoagulant factor exposure to establish a localized hypercoagulable microenvironment. Th-triggered secondary thrombosis through platelet aggregation and fibrinogen-to-fibrin conversion within residual vasculature extended occlusion to inter-microsphere spaces and distal microvessels beyond direct microsphere reach.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
     {
       "id": "42965293",
       "pmid": "42965293",
@@ -18,7 +118,7 @@
       "topics": [
         "TIPS"
       ],
-      "retrieved_at": "2026-11-01T05:49:41+00:00",
+      "retrieved_at": "2026-11-02T05:49:51+00:00",
       "first_seen": "2026-11-01",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -51,7 +151,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-11-01T05:49:45+00:00",
+      "retrieved_at": "2026-11-02T05:49:53+00:00",
       "first_seen": "2026-11-01",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -84,7 +184,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-11-01T05:49:45+00:00",
+      "retrieved_at": "2026-11-02T05:49:53+00:00",
       "first_seen": "2026-11-01",
       "score": 3,
       "design": "Clinical study / unclear",
