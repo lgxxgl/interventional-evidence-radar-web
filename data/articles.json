@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-07",
+    "updated_at": "2026-11-08",
     "source": "PubMed + structured abstract extraction",
     "version": "2.2.0",
     "article_count": 319
@@ -19,7 +19,7 @@
         "HAIC",
         "TACE"
       ],
-      "retrieved_at": "2026-11-07T05:47:24+00:00",
+      "retrieved_at": "2026-11-08T05:50:32+00:00",
       "first_seen": "2026-11-07",
       "score": 5,
       "design": "Prospective study",
@@ -53,7 +53,7 @@
         "HAIC",
         "TACE"
       ],
-      "retrieved_at": "2026-11-07T05:47:24+00:00",
+      "retrieved_at": "2026-11-08T05:50:32+00:00",
       "first_seen": "2026-11-07",
       "score": 5,
       "design": "Meta-analysis",
@@ -87,7 +87,7 @@
         "HAIC",
         "TIPS"
       ],
-      "retrieved_at": "2026-11-07T05:47:23+00:00",
+      "retrieved_at": "2026-11-08T05:50:31+00:00",
       "first_seen": "2026-11-07",
       "score": 4,
       "design": "Retrospective study",
@@ -120,7 +120,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-11-07T05:47:25+00:00",
+      "retrieved_at": "2026-11-08T05:50:34+00:00",
       "first_seen": "2026-11-07",
       "score": 4,
       "design": "Clinical study / unclear",
@@ -153,7 +153,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-11-07T05:47:24+00:00",
+      "retrieved_at": "2026-11-08T05:50:32+00:00",
       "first_seen": "2026-11-07",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -186,7 +186,7 @@
       "topics": [
         "TIPS"
       ],
-      "retrieved_at": "2026-11-07T05:47:23+00:00",
+      "retrieved_at": "2026-11-08T05:50:31+00:00",
       "first_seen": "2026-11-07",
       "score": 3,
       "design": "Retrospective study",
@@ -220,7 +220,7 @@
         "HAIC",
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-11-07T05:47:24+00:00",
+      "retrieved_at": "2026-11-08T05:50:33+00:00",
       "first_seen": "2026-11-07",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -253,7 +253,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-11-07T05:47:26+00:00",
+      "retrieved_at": "2026-11-08T05:50:34+00:00",
       "first_seen": "2026-11-07",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -286,7 +286,7 @@
       "topics": [
         "HAIC"
       ],
-      "retrieved_at": "2026-11-07T05:47:24+00:00",
+      "retrieved_at": "2026-11-08T05:50:33+00:00",
       "first_seen": "2026-11-07",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -319,7 +319,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-11-07T05:47:26+00:00",
+      "retrieved_at": "2026-11-08T05:50:34+00:00",
       "first_seen": "2026-11-07",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -353,7 +353,7 @@
         "HAIC",
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-11-07T05:47:24+00:00",
+      "retrieved_at": "2026-11-08T05:50:33+00:00",
       "first_seen": "2026-11-07",
       "score": 3,
       "design": "Prospective study",
@@ -386,7 +386,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-11-07T05:47:25+00:00",
+      "retrieved_at": "2026-11-08T05:50:34+00:00",
       "first_seen": "2026-11-07",
       "score": 3,
       "design": "Prospective study",
@@ -420,7 +420,7 @@
         "Ablation",
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-11-07T05:47:26+00:00",
+      "retrieved_at": "2026-11-08T05:50:34+00:00",
       "first_seen": "2026-11-07",
       "score": 3,
       "design": "Prospective study",
