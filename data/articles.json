@@ -1,11 +1,112 @@
 {
   "meta": {
-    "updated_at": "2026-11-15",
+    "updated_at": "2026-11-16",
     "source": "PubMed + structured abstract extraction",
     "version": "2.2.0",
-    "article_count": 383
+    "article_count": 386
   },
   "articles": [
+    {
+      "id": "43034792",
+      "pmid": "43034792",
+      "doi": "10.2147/JHC.S650816",
+      "date": "2026-01-01",
+      "title": "Efficacy, Safety, and Exploratory Prognostic Factors of TACE-HAIC Plus Lenvatinib with Tislelizumab or Nivolumab in Unresectable Hepatocellular Carcinoma: A Retrospective Cohort Study.",
+      "authors": "Haixiong Yan, Jiashun Dai, Lian Jian, Xiaoping Yu, Hailan Li, Huaping Liu",
+      "journal": "Journal of hepatocellular carcinoma",
+      "abstract": "Evidence for transarterial chemoembolization plus hepatic arterial infusion chemotherapy (TACE-HAIC), lenvatinib, and programmed cell death protein 1 (PD-1) blockade in unresectable hepatocellular carcinoma (uHCC) remains limited. We assessed outcomes associated with tislelizumab or nivolumab combined regimens and conducted an exploratory, nonrandomized comparison between the two treatment groups. This single-center retrospective cohort study included patients with uHCC who received TACE-HAIC, lenvatinib, and either tislelizumab or nivolumab between February 2021 and October 2025. Best overall response was assessed using RECIST version 1.1 and modified RECIST (mRECIST). Survival outcomes, treatment-emergent adverse events (TEAEs), clinical prognostic factors, and inverse probability of treatment weighting (IPTW) analyses were evaluated. Of 102 screened patients, 83 were ultimately included. Most patients had BCLC stage C disease (98.8%), macrovascular invasion (97.6%), and multiple hepatic lesions (95.2%). The mRECIST-based objective response rate (ORR) and disease control rate (DCR) was 59.0% and 94.0%, respectively; the corresponding RECIST 1.1 rates were 34.9% and 94.0%. Median progression-free survival (PFS) and overall survival (OS) for the entire cohort were 7.6 and 19.2 months, respectively. Median OS was 23.2 months in the nivolumab group and 16.7 months in the tislelizumab group (log-rank P = 0.044), whereas unweighted PFS, ORR, and DCR did not differ significantly between the groups. The IPTW-adjusted OS HR for nivolumab-based vs tislelizumab-based treatment was 0.54 (95% CI 0.31-0.92), attenuating to 0.70 (95% CI 0.35-1.38; P = 0.302) after additional adjustment for treatment initiation period. The corresponding PFS HRs were 0.61 (95% CI 0.38-0.98; P = 0.042) and 0.55 (95% CI 0.28-1.10; P = 0.092), respectively. Grade 3-4 TEAEs occurred in 39.8% of patients. Tumor size was associated with OS in exploratory stepwise models. This combination regimen was associated with encouraging outcomes in a selected, high-risk uHCC cohort. However, the exploratory OS difference between nonrandomly assigned PD-1 inhibitor groups remains vulnerable to calendar-time bias and other residual confounders.",
+      "topics": [
+        "HAIC",
+        "HCC systemic + local",
+        "TACE"
+      ],
+      "retrieved_at": "2026-11-16T06:10:37+00:00",
+      "first_seen": "2026-11-16",
+      "score": 5,
+      "design": "Randomized controlled trial",
+      "sample_size": "",
+      "population": "Evidence for transarterial chemoembolization plus hepatic arterial infusion chemotherapy (TACE-HAIC), lenvatinib, and programmed cell death protein 1 (PD-1) blockade in unresectable hepatocellular carcinoma (uHCC) remains limited.",
+      "intervention": "calendar-time bias",
+      "comparator": "other residual confounders",
+      "primary_endpoint": "",
+      "pfs": "Median OS was 23.2 months in the nivolumab group and 16.7 months in the tislelizumab group (log-rank P = 0.044), whereas unweighted PFS, ORR, and DCR did not differ significantly between the groups. Median progression-free survival (PFS) and overall survival (OS) for the entire cohort were 7.6 and 19.2 months, respectively.",
+      "os": "Median OS was 23.2 months in the nivolumab group and 16.7 months in the tislelizumab group (log-rank P = 0.044), whereas unweighted PFS, ORR, and DCR did not differ significantly between the groups. Median progression-free survival (PFS) and overall survival (OS) for the entire cohort were 7.6 and 19.2 months, respectively.",
+      "safety": "Survival outcomes, treatment-emergent adverse events (TEAEs), clinical prognostic factors, and inverse probability of treatment weighting (IPTW) analyses were evaluated. Grade 3-4 TEAEs occurred in 39.8% of patients.",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "This single-center retrospective cohort study included patients with uHCC who received TACE-HAIC, lenvatinib, and either tislelizumab or nivolumab between February 2021 and October 2025. Survival outcomes, treatment-emergent adverse events (TEAEs), clinical prognostic factors, and inverse probability of treatment weighting (IPTW) analyses were evaluated. Most patients had BCLC stage C disease (98.8%), macrovascular invasion (97.6%), and multiple hepatic lesions (95.2%).",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 4,
+      "phd_relevance": "HCC 局部治疗 + 系统治疗联合证据，可作为寡进展研究的重要间接依据。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "43034938",
+      "pmid": "43034938",
+      "doi": "10.1007/s00330-026-13063-9",
+      "date": "2026-11-15",
+      "title": "Three-dimensional automated muscle and adipose analysis to predict hepatic encephalopathy after transjugular intrahepatic portosystemic shunt.",
+      "authors": "Yujie Zhao, Meiyan Huang, Jiawei Huang, Ruilai Yang, Danyan Lin, Shuoling Zhou, Zhanjiang Luo, Weifu Lv",
+      "journal": "European radiology",
+      "abstract": "Overt hepatic encephalopathy (HE) limits the use of transjugular intrahepatic portosystemic shunt (TIPS) in portal hypertension. We aimed to determine whether automated three-dimensional (3D) body composition analysis could improve pre-TIPS prediction of overt HE compared with conventional two-dimensional (2D) manual assessment. This multicenter study included 593 eligible patients from seven institutions (training cohort: n = 308; external validation 1 cohort: n = 151; and external validation 2 cohort: n = 134). After evaluating L3-based 2D measurements, we developed a fully automated 3D muscle and adipose assessment incorporating morphologic and radiomic features. We combined the 3D assessment with selected clinical variables to predict post-TIPS overt HE risk, and benchmarked the final model against published clinical scores. Model performance was evaluated via ROC analysis, DeLong tests, calibration, decision curve analysis, and subgroup analyses. Traditional 2D measurements showed poor reproducibility, with significant variation in 96.2% (25/26) of features. The 3D Model significantly outperformed the 2D Model. The Integrated Model yielded AUCs of 0.78, 0.73, and 0.77 in the training and two external validation cohorts, exceeding those of Child-Pugh, MELD, ALBI, AMMON-OHE, and Lambda (AUCs 0.47-0.64; all p < 0.05). No significant subgroup differences were observed. High-risk patients had 2- to 4-fold higher overt HE incidence. The model reclassified 40.2% of patients with low pre-TIPS ammonia as high risk and 60.2% of those with high ammonia as low risk. Automated 3D muscle and adipose analysis enables objective preprocedural prediction of overt HE after TIPS, which may facilitate clinical decision-making and optimize patient selection. Question Can automated three-dimensional muscle and adipose analysis improve reproducible preprocedural prediction of overt hepatic encephalopathy after transjugular intrahepatic portosystemic shunt beyond conventional two-dimensional assessment? Findings In 593 patients from seven hospitals, an Integrated Model combining automated three-dimensional body composition and clinical variables outperformed five published clinical comparator scores. Clinical relevance This fully automated three-dimensional body composition (muscle and adipose) analysis enables objective preprocedural risk stratification for overt hepatic encephalopathy after transjugular intrahepatic portosystemic shunt, supporting more consistent patient selection.",
+      "topics": [
+        "TIPS"
+      ],
+      "retrieved_at": "2026-11-16T06:10:36+00:00",
+      "first_seen": "2026-11-16",
+      "score": 3,
+      "design": "Multicenter observational study",
+      "sample_size": "308",
+      "population": "The model reclassified 40.2% of patients with low pre-TIPS ammonia as high risk and 60.2% of those with high ammonia as low risk.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Overt hepatic encephalopathy (HE) limits the use of transjugular intrahepatic portosystemic shunt (TIPS) in portal hypertension. We aimed to determine whether automated three-dimensional (3D) body composition analysis could improve pre-TIPS prediction of overt HE compared with conventional two-dimensional (2D) manual assessment. After evaluating L3-based 2D measurements, we developed a fully automated 3D muscle and adipose assessment incorporating morphologic and radiomic features.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 1,
+      "phd_relevance": "与博士课题直接关联较低。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "43034797",
+      "pmid": "43034797",
+      "doi": "10.1093/radadv/umag038",
+      "date": "2026-11-01",
+      "title": "Adaptive deep learning model with anatomical priors for 3D segmentation of fine hepatic vasculature on CT.",
+      "authors": "Zixuan Zhao, Kalyani Vyapari, Kyunghyun Sung, David S Lu, Grace H Kim, Matthew S Brown",
+      "journal": "Radiology advances",
+      "abstract": "Accurate segmentation of fine hepatic vessels on CT remains challenging because peripheral branches are small and low contrast. To develop and test PriM Fusion Net, a deep learning model that adaptively integrates an optimized anatomical prior to improve 3D CT segmentation of portal and hepatic veins, emphasizing fine peripheral branches for preoperative 3D modeling. This retrospective study used the public Medical Segmentation Decathlon (MSD) Task08-HepaticVessel dataset of 303 abdominal CT volumes. PriM Fusion Net uses a dual-encoder architecture: a Swin Transformer processes CT images and a parallel convolutional pathway processes a dataset-optimized Frangi vesselness prior. Gated multimodal units act as spatially varying voxel-wise gates that fuse the 2 feature streams at multiple scales. A rule-based SimpleMind post-processing module refined anatomical plausibility. Performance was evaluated with 5-fold cross-validation and zero-shot external inference on 3DIRCADb (3D Image Reconstruction for Comparison of Algorithm Database). PriM Fusion Net achieved a mean Dice similarity coefficient (DSC) of 77.68% (95% confidence interval [CI]: 77.11, 78.25) and 95th percentile Hausdorff distance (HD95) of 11.55 mm (95% CI, 9.94, 13.16), outperforming all baselines (all adjusted P < .02). For vessels with radius ≤ 1.5 mm, DSC improved by 13.5% versus SwinUNETR (59.2% [95% CI, 54.48, 63.92] vs 45.7% [95% CI, 40.49, 50.91]). In ablation, replacing rigid concatenation with gated fusion improved DSC from 75.86% (95% CI, 75.31, 76.41) to 77.65% (95% CI, 76.92, 78.38), and SimpleMind post-processing reduced HD95 from 14.98 mm (95% CI, 10.91, 19.05) to 11.55 mm (95% CI, 9.94, 13.16). On 3DIRCADb, zero-shot inference yielded DSC of 68.42% (95% CI, 65.82, 71.02) and HD95 of 11.78 mm (95% CI, 8.50, 15.06). Adaptive deep fusion of an optimized anatomical prior improved CT segmentation of portal and hepatic veins, especially fine peripheral branches, supporting further evaluation in 3D vascular modeling workflows for liver surgery and intervention.",
+      "topics": [
+        "Ablation"
+      ],
+      "retrieved_at": "2026-11-16T06:10:40+00:00",
+      "first_seen": "2026-11-16",
+      "score": 3,
+      "design": "Retrospective study",
+      "sample_size": "",
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "This retrospective study used the public Medical Segmentation Decathlon (MSD) Task08-HepaticVessel dataset of 303 abdominal CT volumes. A rule-based SimpleMind post-processing module refined anatomical plausibility. Performance was evaluated with 5-fold cross-validation and zero-shot external inference on 3DIRCADb (3D Image Reconstruction for Comparison of Algorithm Database).",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 2,
+      "phd_relevance": "与介入/局部治疗相关，但与博士课题联系有限。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
     {
       "id": "43025048",
       "pmid": "43025048",
@@ -18,7 +119,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-11-15T06:12:51+00:00",
+      "retrieved_at": "2026-11-16T06:10:37+00:00",
       "first_seen": "2026-11-15",
       "score": 5,
       "design": "Retrospective study",
@@ -51,7 +152,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-11-15T06:12:52+00:00",
+      "retrieved_at": "2026-11-16T06:10:40+00:00",
       "first_seen": "2026-11-15",
       "score": 4,
       "design": "Systematic review",
@@ -84,7 +185,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-11-15T06:12:52+00:00",
+      "retrieved_at": "2026-11-16T06:10:40+00:00",
       "first_seen": "2026-11-15",
       "score": 4,
       "design": "Retrospective study",
@@ -117,7 +218,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-11-15T06:12:52+00:00",
+      "retrieved_at": "2026-11-16T06:10:39+00:00",
       "first_seen": "2026-11-15",
       "score": 4,
       "design": "Retrospective study",
@@ -150,7 +251,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-11-15T06:12:52+00:00",
+      "retrieved_at": "2026-11-16T06:10:39+00:00",
       "first_seen": "2026-11-15",
       "score": 4,
       "design": "Prospective study",
@@ -183,7 +284,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-11-15T06:12:51+00:00",
+      "retrieved_at": "2026-11-16T06:10:37+00:00",
       "first_seen": "2026-11-15",
       "score": 3,
       "design": "Prospective study",
@@ -216,7 +317,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-11-15T06:12:51+00:00",
+      "retrieved_at": "2026-11-16T06:10:37+00:00",
       "first_seen": "2026-11-15",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -249,7 +350,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-11-15T06:12:52+00:00",
+      "retrieved_at": "2026-11-16T06:10:39+00:00",
       "first_seen": "2026-11-15",
       "score": 3,
       "design": "Prospective study",
@@ -283,7 +384,7 @@
         "Ablation",
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-11-15T06:12:52+00:00",
+      "retrieved_at": "2026-11-16T06:10:40+00:00",
       "first_seen": "2026-11-15",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -316,7 +417,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-11-15T06:12:52+00:00",
+      "retrieved_at": "2026-11-16T06:10:39+00:00",
       "first_seen": "2026-11-15",
       "score": 3,
       "design": "Retrospective study",
@@ -349,7 +450,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-11-15T06:12:52+00:00",
+      "retrieved_at": "2026-11-16T06:10:39+00:00",
       "first_seen": "2026-11-15",
       "score": 3,
       "design": "Prospective study",
@@ -382,7 +483,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-11-15T06:12:51+00:00",
+      "retrieved_at": "2026-11-16T06:10:37+00:00",
       "first_seen": "2026-11-15",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -416,7 +517,7 @@
         "Ablation",
         "Y-90"
       ],
-      "retrieved_at": "2026-11-15T06:12:52+00:00",
+      "retrieved_at": "2026-11-16T06:10:39+00:00",
       "first_seen": "2026-11-15",
       "score": 3,
       "design": "Prospective study",
@@ -450,7 +551,7 @@
         "Ablation",
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-11-15T06:12:52+00:00",
+      "retrieved_at": "2026-11-16T06:10:40+00:00",
       "first_seen": "2026-11-15",
       "score": 3,
       "design": "Clinical study / unclear",
