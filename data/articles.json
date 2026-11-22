@@ -1,11 +1,143 @@
 {
   "meta": {
-    "updated_at": "2026-11-21",
+    "updated_at": "2026-11-22",
     "source": "PubMed + structured abstract extraction",
     "version": "2.2.0",
-    "article_count": 419
+    "article_count": 423
   },
   "articles": [
+    {
+      "id": "43067504",
+      "pmid": "43067504",
+      "doi": "10.1016/j.jhepr.2026.102107",
+      "date": "2026-11-21",
+      "title": "Pre-emptive TIPS Reduces Further Decompensation Following Gastric Variceal Hemorrhage: A Real-World Multicenter Analysis.",
+      "authors": "Wang Zeyu, Kimmann Markus, Chang Johannes, Grobelski Jakub, Vanderschueren Emma, Letmathe Silvia, Stadtmann Juliana, van de Loo Dominik Julian",
+      "journal": "JHEP reports : innovation in hepatology",
+      "abstract": "Gastric variceal hemorrhage (GVH) carries high mortality and rebleeding rates. Pre-emptive TIPS reduces rebleeding and death in acute GVH. However, the impact of TIPS on further decompensation remains uncertain, particularly in real-world settings. To assess whether pre-emptive TIPS reduces further decompensation and improves survival compared with standard of care (SOC) after GVH. This retrospective multicenter study included patients with cirrhosis and acute GVH treated at three tertiary centers between October 2011 and April 2024. Of 263 patients screened, 218 were eligible (102 TIPS, 116 SOC). Propensity score matching on nine baseline covariates yielded 95 matched pairs. All TIPS procedures followed successful initial hemostasis. The primary outcome was further decompensation within 12 months according to Baveno VII. Sensitivity analyses included landmark, inverse-probability-weighted, center-adjusted, and competing-risk models. Further decompensation occurred in 33/95 TIPS patients (35%) and 57/95 SOC patients (60%). Pre-emptive TIPS was associated with lower risks of further decompensation (adjusted HR 0.338, 95% CI 0.217-0.525; p<0.001, absolute risk difference 25 percentage points, number needed to treat 4), variceal rebleeding (adjusted HR 0.247, 95% CI 0.096-0.640; p=0.004), and new or worsening ascites (adjusted HR 0.209, 95% CI 0.082-0.535; p=0.001). Hepatic encephalopathy did not differ significantly between groups. Pre-emptive TIPS was also associated with improved transplant-free survival (adjusted HR 0.425, 95% CI 0.245-0.737; p=0.002) and overall survival (adjusted HR 0.219, 95% CI 0.108-0.443; p<0.001). The association with further decompensation persisted in all sensitivity analyses, including versus SOC patients receiving non-selective beta-blockers. Pre-emptive TIPS following GVH was associated with a significantly lower risk of further decompensation and improved transplant-free survival. These real-world findings support the potential disease-modifying role of pre-emptive TIPS in GVH management. Gastric variceal hemorrhage is associated with a high risk of recurrent bleeding and subsequent decompensation, but real-world evidence regarding the broader clinical effects of pre-emptive TIPS remains limited. In this multicenter retrospective cohort, pre-emptive TIPS after successful initial hemostasis was associated with lower risks of further decompensation, variceal rebleeding, and new or worsening ascites, as well as improved transplant-free survival, without a significant increase in overt hepatic encephalopathy. These findings are relevant to hepatologists, endoscopists, interventional radiologists, and multidisciplinary teams considering early portal decompression after gastric variceal bleeding, and may inform patient selection and future prospective studies. However, because treatment allocation and follow-up were retrospective and center-dependent, the observed associations require cautious interpretation and prospective validation.",
+      "topics": [
+        "TIPS"
+      ],
+      "retrieved_at": "2026-11-22T06:31:33+00:00",
+      "first_seen": "2026-11-22",
+      "score": 4,
+      "design": "Prospective study",
+      "sample_size": "",
+      "population": "This retrospective multicenter study included patients with cirrhosis and acute GVH treated at three tertiary centers between October 2011 and April 2024.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "The primary outcome was further decompensation within 12 months according to Baveno VII.",
+      "pfs": "",
+      "os": "p=0.002) and overall survival (adjusted HR 0.219, 95% CI 0.108-0.443;",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Gastric variceal hemorrhage (GVH) carries high mortality and rebleeding rates. This retrospective multicenter study included patients with cirrhosis and acute GVH treated at three tertiary centers between October 2011 and April 2024. All TIPS procedures followed successful initial hemostasis.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 1,
+      "phd_relevance": "与博士课题直接关联较低。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "43064906",
+      "pmid": "43064906",
+      "doi": "10.1007/s12094-026-04618-9",
+      "date": "2026-11-20",
+      "title": "Chemotherapy-sparing neoadjuvant strategies in HER2-positive early breast cancer: a subgroup-specific network meta-analysis in the ADC era.",
+      "authors": "Susu Zhou, Jiayi Tan, Mahmoudreza Moein, Noriko Kishi, Komal Akhtar, Sam Benjamin, Jade Homsi, Che-Kai Tsao",
+      "journal": "Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico",
+      "abstract": "Neoadjuvant chemotherapy combined with HER2-targeted therapy remains the standard of care for HER2-positive early breast cancer (HER2 + eBC). However, its incremental benefit may come at the cost of increased toxicity, underscoring the need to identify patients optimal for chemotherapy-free or de-escalated treatment. PubMed, Embase, the Cochrane Library, and Web of Science were searched for studies evaluating neoadjuvant chemotherapy-free or de-escalation strategies in HER2 + eBC. Outcomes were pathological complete response (pCR) and grade ≥ 3 adverse events (AEs). A network meta-analysis was performed to compare six prespecified treatment strategies in overall population and subgroups according to hormone receptor (HR) status, nodal status, and HER2 expression. Fourteen studies (5,267 patients) were included. ADC replacement significantly improved pCR versus standard therapy overall (OR 2.02, 95% CI 1.21-3.35), in HR-positive (OR 1.97, 95% CI 1.24-3.13) and HER2 IHC3 + (OR 1.64, 95% CI 1.03-2.62) subgroups. Dual HER2 mAb chemotherapy de-escalation and ADC-based conventional chemotherapy-free regimens showed no significant differences in pCR versus standard therapy overall and across subgroups. Conversely, single HER2 mAb chemotherapy de-escalation and HER2 mAb-based chemotherapy-free regimens yielded significantly lower pCR rates overall and in major subgroups. Grade ≥ 3 AEs were less frequent with chemotherapy-free and de-escalated strategies. ADC replacement may improve pCR compared with standard therapy overall and in HR-positive and HER2 IHC 3 + subgroups. Dual HER2 mAb chemotherapy de-escalation and ADC-based conventional chemotherapy-free regimens show promising activity with favorable toxicity profiles for selected patients, supporting further investigation of tailored chemotherapy-sparing strategies in the ADC era.",
+      "topics": [
+        "Y-90"
+      ],
+      "retrieved_at": "2026-11-22T06:31:36+00:00",
+      "first_seen": "2026-11-22",
+      "score": 3,
+      "design": "Meta-analysis",
+      "sample_size": "",
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "However, its incremental benefit may come at the cost of increased toxicity, underscoring the need to identify patients optimal for chemotherapy-free or de-escalated treatment. Outcomes were pathological complete response (pCR) and grade ≥ 3 adverse events (AEs). Dual HER2 mAb chemotherapy de-escalation and ADC-based conventional chemotherapy-free regimens show promising activity with favorable toxicity profiles for selected patients, supporting further investigation of tailored chemotherapy-sparing strategies in the ADC era.",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Neoadjuvant chemotherapy combined with HER2-targeted therapy remains the standard of care for HER2-positive early breast cancer (HER2 + eBC). However, its incremental benefit may come at the cost of increased toxicity, underscoring the need to identify patients optimal for chemotherapy-free or de-escalated treatment. PubMed, Embase, the Cochrane Library, and Web of Science were searched for studies evaluating neoadjuvant chemotherapy-free or de-escalation strategies in HER2 + eBC.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 2,
+      "phd_relevance": "与介入/局部治疗相关，但与博士课题联系有限。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "43064950",
+      "pmid": "43064950",
+      "doi": "10.1186/s12876-026-05472-3",
+      "date": "2026-11-11",
+      "title": "Incomplete thermal ablation is associated with intrahepatic spread of hepatocellular carcinoma and the miR-450a-2-3p/PIK3CA pathway.",
+      "authors": "Ruiting Li, Chunyu Jiang, Nan Du, Ge Song, Wentao Li, Yaohui Wang",
+      "journal": "BMC gastroenterology",
+      "abstract": "Incomplete thermal ablation contributes to the intrahepatic spread of hepatocellular carcinoma (HCC). The function of miR-450a-2-3p in treatment response to incomplete thermal ablation of HCC is unknown, despite its known tumor‑suppressive function. This research aims to examine the clinical significance and underlying mechanisms of miR-450a-2-3p in incomplete thermal ablation of HCC, thereby identifying therapeutic targets for preventing its intrahepatic spread. The study included 211 HCC patients treated with thermal ablation, of whom 36 had incomplete ablation. Serum miR-450a-2-3p levels were measured after ablation, and patients were followed up for 36 months to assess intrahepatic spread. Sublethal heat stress was applied to HCC cells, and cell proliferation, migration, and invasion were evaluated. Target validation was performed using bioinformatics analysis, dual-luciferase reporter assays, and rescue experiments. miR-450a-2-3p levels were markedly reduced in patients with incomplete ablation compared to those with complete ablation. Low miR-450a-2-3p levels were associated with intrahepatic spread in HCC patients. Both complete ablation and high miR-450a-2-3p expression were independent protective factors for HCC patients following ablation therapy. Heat stress downregulated miR-450a-2-3p and enhanced cell survival, migration, and invasion, whereas miR-450a-2-3p overexpression reversed these effects. PIK3CA was a direct target of miR-450a-2-3p, and PIK3CA overexpression attenuated the suppressive effects of miR-450a-2-3p. Incomplete ablation is related to intrahepatic spread of HCC and downregulation of miR-450a-2-3p. Serum miR-450a-2-3p may represent a promising non-invasive biomarker to explore in HCC patients following ablation therapy, and the miR-450a-2-3p/PIK3CA axis may offer a clue to treatment‑related mechanisms. Not applicable.",
+      "topics": [
+        "Ablation"
+      ],
+      "retrieved_at": "2026-11-22T06:31:37+00:00",
+      "first_seen": "2026-11-22",
+      "score": 3,
+      "design": "Clinical study / unclear",
+      "sample_size": "",
+      "population": "Incomplete thermal ablation contributes to the intrahepatic spread of hepatocellular carcinoma (HCC).",
+      "intervention": "The study included 211 HCC patients treated with thermal ablation, of whom 36 had incomplete ablation.",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "miR-450a-2-3p levels were markedly reduced in patients with incomplete ablation compared to those with complete ablation.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "43065393",
+      "pmid": "43065393",
+      "doi": "10.3389/fmed.2026.1943199",
+      "date": "2026-01-01",
+      "title": "Potential symptom management targets following transarterial chemoembolization in patients with hepatocellular carcinoma: a network analysis and computer-simulation study.",
+      "authors": "Santing Li, Xiangxiang Chen, Zhuqing Zhang, Guifeng Li, Xudong Liu, Lilan Yang",
+      "journal": "Frontiers in medicine",
+      "abstract": "Potential symptom intervention targets in patients with hepatocellular carcinoma (HCC) after transarterial chemoembolization (TACE) remain poorly understood. Symptom network analysis combined with computer-simulated interventions may help identify priority targets for symptom management. To examine symptom associations and explore potential symptom management targets among patients with HCC following TACE. A cross-sectional study included 312 patients with HCC. Symptoms were assessed 24-48 h after TACE using the Chinese versions of the M. D. Anderson Symptom Inventory and the primary liver cancer-specific symptom module. A Gaussian graphical model was used to examine symptom associations, while an Ising model and NodeIdentifyR algorithm were used to explore simulated symptom perturbations. Fatigue (86.5%), disturbed sleep (83.7%), and lack of appetite (75.0%) were the most prevalent symptoms. Nausea showed the highest estimated strength centrality. Hypothetical alleviation of dry mouth produced the largest model-predicted decrease in the mean number of active symptoms, whereas hypothetical aggravation of fever produced the largest increase. Nausea was the most connected symptom according to estimated strength centrality. Dry mouth and fever showed the largest model-predicted responses to alleviating and aggravating threshold perturbations, respectively. These findings are hypothesis-generating and require prospective validation; they do not establish clinical treatment effects.",
+      "topics": [
+        "TACE"
+      ],
+      "retrieved_at": "2026-11-22T06:31:34+00:00",
+      "first_seen": "2026-11-22",
+      "score": 3,
+      "design": "Prospective study",
+      "sample_size": "",
+      "population": "Potential symptom intervention targets in patients with hepatocellular carcinoma (HCC) after transarterial chemoembolization (TACE) remain poorly understood.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "A cross-sectional study included 312 patients with HCC. Fatigue (86.5%), disturbed sleep (83.7%), and lack of appetite (75.0%) were the most prevalent symptoms. Nausea was the most connected symptom according to estimated strength centrality.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
     {
       "id": "43061213",
       "pmid": "43061213",
@@ -19,7 +151,7 @@
         "HCC systemic + local",
         "TACE"
       ],
-      "retrieved_at": "2026-11-21T06:55:06+00:00",
+      "retrieved_at": "2026-11-22T06:31:34+00:00",
       "first_seen": "2026-11-21",
       "score": 5,
       "design": "Meta-analysis",
@@ -52,7 +184,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-11-21T06:55:09+00:00",
+      "retrieved_at": "2026-11-22T06:31:37+00:00",
       "first_seen": "2026-11-21",
       "score": 5,
       "design": "Multicenter observational study",
@@ -87,7 +219,7 @@
         "HCC systemic + local",
         "TACE"
       ],
-      "retrieved_at": "2026-11-21T06:55:06+00:00",
+      "retrieved_at": "2026-11-22T06:31:34+00:00",
       "first_seen": "2026-11-21",
       "score": 5,
       "design": "Retrospective study",
@@ -120,7 +252,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-11-21T06:55:09+00:00",
+      "retrieved_at": "2026-11-22T06:31:37+00:00",
       "first_seen": "2026-11-21",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -153,7 +285,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-11-21T06:55:06+00:00",
+      "retrieved_at": "2026-11-22T06:31:34+00:00",
       "first_seen": "2026-11-21",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -186,7 +318,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-11-21T06:55:09+00:00",
+      "retrieved_at": "2026-11-22T06:31:37+00:00",
       "first_seen": "2026-11-21",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -220,7 +352,7 @@
         "Ablation",
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-11-21T06:55:09+00:00",
+      "retrieved_at": "2026-11-22T06:31:37+00:00",
       "first_seen": "2026-11-21",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -253,7 +385,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-11-21T06:55:09+00:00",
+      "retrieved_at": "2026-11-22T06:31:37+00:00",
       "first_seen": "2026-11-21",
       "score": 3,
       "design": "Clinical study / unclear",
