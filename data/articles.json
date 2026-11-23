@@ -1,11 +1,110 @@
 {
   "meta": {
-    "updated_at": "2026-11-22",
+    "updated_at": "2026-11-23",
     "source": "PubMed + structured abstract extraction",
     "version": "2.2.0",
-    "article_count": 423
+    "article_count": 426
   },
   "articles": [
+    {
+      "id": "43067867",
+      "pmid": "43067867",
+      "doi": "10.1016/j.ctro.2026.101355",
+      "date": "2027-01-01",
+      "title": "Developing a prediction model for adjuvant immunotherapy post-chemoradiation in stage III inoperable non-small-cell lung cancer.",
+      "authors": "Arno C Hessels, Gibson C Ugwu, T J N Hiltermann, G H de Bock, Lisanne V van Dijk, Martijn W Heymans, Christina T Muijs, Robert van der Wal",
+      "journal": "Clinical and translational radiation oncology",
+      "abstract": "Survival in locally advanced non-small cell lung cancer (NSCLC) has improved with adjuvant durvalumab following chemoradiotherapy (CRT). However, CRT-related toxicities frequently prevent initiation of immuno-oncology (IO) treatment. The objective was to develop a pre-CRT prediction model for post-CRT IO eligibility that incorporates modifiable radiotherapy parameters to support treatment selection and plan optimization. A prospective cohort of stage III NSCLC patients treated with CRT and enrolled in a structured follow-up program between January 2017 and January 2024 was analyzed. A logistic regression model predicting IO eligibility was developed using demographic, clinical, and treatment-related variables, including lung and heart dose-volume metrics. Model performance was assessed by discrimination (AUC) and calibration. Internal validation was performed using 1000 bootstrap samples. Among 452 patients, 216 (48%) received IO after CRT. Independent predictors of IO eligibility were lung volume receiving ≥1 Gy (V1), age, smoking status, clinical T stage, and WHO performance status. The model demonstrated moderate discrimination (bootstrap-corrected AUC 0.71, 95% CI 0.67-0.76) and good calibration (slope 0.89, 95% CI 0.78-1.10). A prediction model for IO eligibility after CRT was developed that includes potentially modifiable factors, notably lung V1 and smoking status. Internal performance was clinically acceptable. Following external validation, the model may support personalized treatment planning and identify opportunities for dose optimization. Incorporating lung V1 into radiotherapy planning could increase the proportion of patients eligible for adjuvant IO therapy.",
+      "topics": [
+        "Y-90"
+      ],
+      "retrieved_at": "2026-11-23T07:21:59+00:00",
+      "first_seen": "2026-11-23",
+      "score": 3,
+      "design": "Prospective study",
+      "sample_size": "",
+      "population": "",
+      "intervention": "A prospective cohort of stage III NSCLC patients treated with CRT and enrolled in a structured follow-up program between January 2017 and January 2024 was analyzed.",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "The objective was to develop a pre-CRT prediction model for post-CRT IO eligibility that incorporates modifiable radiotherapy parameters to support treatment selection and plan optimization. A prospective cohort of stage III NSCLC patients treated with CRT and enrolled in a structured follow-up program between January 2017 and January 2024 was analyzed. A logistic regression model predicting IO eligibility was developed using demographic, clinical, and treatment-related variables, including lung and heart dose-volume metrics.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 2,
+      "phd_relevance": "与介入/局部治疗相关，但与博士课题联系有限。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "43068758",
+      "pmid": "43068758",
+      "doi": "10.1016/j.jogoh.2026.103333",
+      "date": "2026-11-22",
+      "title": "NEOADJUVANT BRACHYTHERAPY AND CONCURRENT CHEMORADIOTHERAPY IN CERVICAL CANCER- A REVIEW FROM THE FRENCH CERVICAL CANCER GUIDELINES GROUP.",
+      "authors": "Abel Cordoba, Yohan Kerbage, Xavier Carcopino, Cyrus Chargari, Xavier Carcopino, Lobna Ouldamer, Cyrille Huchon, Pauline Asseeva",
+      "journal": "Journal of gynecology obstetrics and human reproduction",
+      "abstract": "Cervical cancer remains a major global health challenge, particularly when diagnosed at a locally advanced stage. This narrative review examines the respective roles of neoadjuvant brachytherapy (NBT), concurrent CRT, and image-guided adaptive brachytherapy (IGABT), together with recent advances in systemic treatment. For locally advanced cervical cancer (LACC), concurrent CISPLATIN-based CRT followed by IGABT remains the standard of care. IGABT enables dose escalation to the primary tumour while limiting exposure of adjacent organs at risk and cannot be adequately replaced by external-beam boost techniques. NBT may be considered for selected patients with node-negative, early-stage disease when treatment de-escalation is appropriate. Although retrospective studies suggest that NBT can facilitate less radical surgery and reduce the need for postoperative radiotherapy, it has not demonstrated a survival advantage over standard treatments. Systemic intensification is reshaping LACC management: the INTERLACE trial demonstrated improved survival with short-course induction chemotherapy before CRT, while KEYNOTE-A18 established PEMBROLIZUMAB administered concurrently with CRT and continued as maintenance therapy as a new option for high-risk disease. Conversely, OUTBACK and CALLA did not support routine adjuvant chemotherapy or DURVALUMAB-based treatment. Optimal outcomes depend on careful patient selection, timely treatment completion, access to high-quality IGABT and interstitial techniques, and multidisciplinary expertise. Expanding access to prevention and evidence-based treatment remains essential to reducing global disparities in cervical cancer outcomes.",
+      "topics": [
+        "Y-90"
+      ],
+      "retrieved_at": "2026-11-23T07:21:59+00:00",
+      "first_seen": "2026-11-23",
+      "score": 3,
+      "design": "Retrospective study",
+      "sample_size": "",
+      "population": "NBT may be considered for selected patients with node-negative, early-stage disease when treatment de-escalation is appropriate.",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Cervical cancer remains a major global health challenge, particularly when diagnosed at a locally advanced stage. IGABT enables dose escalation to the primary tumour while limiting exposure of adjacent organs at risk and cannot be adequately replaced by external-beam boost techniques. Although retrospective studies suggest that NBT can facilitate less radical surgery and reduce the need for postoperative radiotherapy, it has not demonstrated a survival advantage over standard treatments.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 2,
+      "phd_relevance": "与介入/局部治疗相关，但与博士课题联系有限。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "43067646",
+      "pmid": "43067646",
+      "doi": "10.1245/s10434-026-20940-6",
+      "date": "2026-11-21",
+      "title": "Hepatic Arterial Infusion Floxuridine with Systemic Therapy for Liver-dominant Metastatic Pancreatic Adenocarcinoma: Results of the PANCPUMP Phase II Pilot Study.",
+      "authors": "Shannon M Smith, Jason M Aubrey, Randa Preihs, Alexandra Bengel, Chantelle Koch, Lisa Martin, Sreenivasa Chandana, M Mura Assifi",
+      "journal": "Annals of surgical oncology",
+      "abstract": "Hepatic progression is common in metastatic pancreatic ductal adenocarcinoma (PDAC). We evaluated hepatic arterial infusion (HAI) floxuridine (FUDR) added to systemic chemotherapy in selected patients with synchronous liver-dominant metastatic PDAC. PANCPUMP was a prospective, single-center, single-arm phase II pilot study of 14 patients with synchronous PDAC liver metastases and stable disease or response after at least 2 months of systemic chemotherapy. Patients underwent HAI pump placement and received up to six 28 day cycles of HAI FUDR with systemic therapy. The primary endpoint was 1 year hepatic progression-free survival, with a prespecified target of 40%. Seven patients (50%) remained free of hepatic progression at 1 year, meeting the primary endpoint. Median time to hepatic progression was 15.7 months when deaths without hepatic progression were censored; median all-site progression-free interval and overall survival were 14.5 and 14.0 months, respectively. Five patients (35.7%) survived at least 24 months. Biochemical hepatotoxicity was frequent; two delayed grade 3 gastroduodenal artery (GDA)/catheter-associated vascular complications occurred. Among 10 patients with paired European Organisation for Research and Treatment of Cancer Core Quality-of-Life questionnaire assessments, the mean global health/quality-of-life score was 69.2 at baseline and 70.0 at first follow-up (p = 0.91). HAI FUDR plus systemic therapy met the prespecified hepatic-control endpoint in a highly selected cohort. These proof-of-concept findings support further study of regional hepatic therapy alongside contemporary systemic treatment.",
+      "topics": [
+        "HAIC"
+      ],
+      "retrieved_at": "2026-11-23T07:21:58+00:00",
+      "first_seen": "2026-11-23",
+      "score": 3,
+      "design": "Prospective study",
+      "sample_size": "",
+      "population": "We evaluated hepatic arterial infusion (HAI) floxuridine (FUDR) added to systemic chemotherapy in selected patients with synchronous liver-dominant metastatic PDAC.",
+      "intervention": "Patients underwent HAI pump placement and received up to six 28 day cycles of HAI FUDR with systemic therapy.",
+      "comparator": "",
+      "primary_endpoint": "The primary endpoint was 1 year hepatic progression-free survival, with a prespecified target of 40%.",
+      "pfs": "The primary endpoint was 1 year hepatic progression-free survival, with a prespecified target of 40%.",
+      "os": "median all-site progression-free interval and overall survival were 14.5 and 14.0 months, respectively.",
+      "safety": "Biochemical hepatotoxicity was frequent; two delayed grade 3 gastroduodenal artery (GDA)/catheter-associated vascular complications occurred.",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "We evaluated hepatic arterial infusion (HAI) floxuridine (FUDR) added to systemic chemotherapy in selected patients with synchronous liver-dominant metastatic PDAC. PANCPUMP was a prospective, single-center, single-arm phase II pilot study of 14 patients with synchronous PDAC liver metastases and stable disease or response after at least 2 months of systemic chemotherapy. The primary endpoint was 1 year hepatic progression-free survival, with a prespecified target of 40%.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 2,
+      "phd_relevance": "与介入/局部治疗相关，但与博士课题联系有限。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
     {
       "id": "43067504",
       "pmid": "43067504",
@@ -18,7 +117,7 @@
       "topics": [
         "TIPS"
       ],
-      "retrieved_at": "2026-11-22T06:31:33+00:00",
+      "retrieved_at": "2026-11-23T07:21:57+00:00",
       "first_seen": "2026-11-22",
       "score": 4,
       "design": "Prospective study",
@@ -51,7 +150,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-11-22T06:31:36+00:00",
+      "retrieved_at": "2026-11-23T07:21:59+00:00",
       "first_seen": "2026-11-22",
       "score": 3,
       "design": "Meta-analysis",
@@ -84,7 +183,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-11-22T06:31:37+00:00",
+      "retrieved_at": "2026-11-23T07:22:00+00:00",
       "first_seen": "2026-11-22",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -117,7 +216,7 @@
       "topics": [
         "TACE"
       ],
-      "retrieved_at": "2026-11-22T06:31:34+00:00",
+      "retrieved_at": "2026-11-23T07:21:57+00:00",
       "first_seen": "2026-11-22",
       "score": 3,
       "design": "Prospective study",
