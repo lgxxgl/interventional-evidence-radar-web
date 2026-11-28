@@ -1,11 +1,211 @@
 {
   "meta": {
-    "updated_at": "2026-11-27",
+    "updated_at": "2026-11-28",
     "source": "PubMed + structured abstract extraction",
     "version": "2.2.0",
-    "article_count": 474
+    "article_count": 480
   },
   "articles": [
+    {
+      "id": "43102747",
+      "pmid": "43102747",
+      "doi": "10.1007/s10147-026-03249-y",
+      "date": "2026-11-27",
+      "title": "Prognostic utility of oncological resectability criteria in hepatocellular carcinoma treated with transarterial chemoembolization.",
+      "authors": "Hayato Abe, Yukiyasu Okamura, Osamu Aramaki, Nao Yoshida, Yusuke Mitsuka, Shu Inagaki, Masataka Shindate, Shunsuke Yamagishi",
+      "journal": "International journal of clinical oncology",
+      "abstract": "The oncological resectability criteria for borderline resectable hepatocellular carcinoma (BR-HCC) have mainly been evaluated in surgical populations, and their clinical relevance in patients undergoing transarterial chemoembolization (TACE) remains unclear. We evaluated their prognostic significance in TACE-treated patients. Among 1,018 patients who underwent initial treatment for HCC between 2014 and 2023, 890 patients were analyzed: 222 treated with TACE, 638 who underwent LR as a reference cohort, and 30 who received first-line systemic therapy as an exploratory cohort. Patients were classified into resectable (R), borderline resectable 1 (BR1), and borderline resectable 2 (BR2) groups according to pre-treatment imaging findings. Overall survival (OS) and time to treatment failure (TTF) were analyzed. The BR-HCC criteria stratified OS and TTF in the TACE cohort. The median OS was 50.0, 28.2, and 10.0 months in the R, BR1, and BR2 groups, respectively (P < 0.05), with similar trends for TTF. Within the TACE-treated BR cohort, impaired liver function, elevated alpha-fetoprotein levels, and macrovascular invasion were independently associated with poor OS. Selected hepatic AEs, including hepatic decompensation events, were more frequent in the BR groups, particularly BR2. In an exploratory propensity score-matched analysis, LR was associated with longer OS than TACE within the BR cohort. Poor outcomes were observed among patients with BR2 disease in both the TACE and exploratory systemic therapy cohorts. The BR-HCC criteria provide clinically meaningful prognostic stratification in patients undergoing TACE and identify subgroups with poor outcomes and more frequent hepatic decompensation. The framework may complement multidisciplinary assessment.",
+      "topics": [
+        "TACE"
+      ],
+      "retrieved_at": "2026-11-28T07:33:46+00:00",
+      "first_seen": "2026-11-28",
+      "score": 4,
+      "design": "Cohort study",
+      "sample_size": "890",
+      "population": "The oncological resectability criteria for borderline resectable hepatocellular carcinoma (BR-HCC) have mainly been evaluated in surgical populations, and their clinical relevance in patients undergoing transarterial chemoembolization (TACE) remains unclear.",
+      "intervention": "Among 1,018 patients who underwent initial treatment for HCC between 2014 and 2023, 890 patients were analyzed: 222 treated with TACE, 638 who underwent LR as a reference cohort, and 30 who received first-line systemic therapy as an exploratory cohort.",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "The median OS was 50.0, 28.2, and 10.0 months in the R, BR1, and BR2 groups, respectively (P < 0.05), with similar trends for TTF. Overall survival (OS) and time to treatment failure (TTF) were analyzed.",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "We evaluated their prognostic significance in TACE-treated patients. Overall survival (OS) and time to treatment failure (TTF) were analyzed. The BR-HCC criteria stratified OS and TTF in the TACE cohort.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 4,
+      "phd_relevance": "HCC 局部治疗 + 系统治疗联合证据，可作为寡进展研究的重要间接依据。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "43101488",
+      "pmid": "43101488",
+      "doi": "10.2147/JHC.S655873",
+      "date": "2026-01-01",
+      "title": "Postoperative Adjuvant Transarterial Chemoembolization with or without PD-1 Inhibition After Conversion Resection for Initially Unresectable Hepatocellular Carcinoma: A Retrospective Propensity Score-Matched Cohort Study.",
+      "authors": "Jinpeng Wang, Jun Yu, Xuehan Shen, Tianyin Shao, Yu Wu, Hanlong Hu, Qi Cheng, Zhiwei Zhang",
+      "journal": "Journal of hepatocellular carcinoma",
+      "abstract": "The value of continuing programmed cell death protein 1 (PD-1) inhibition after prior exposure during conversion therapy remains uncertain. We compared postoperative adjuvant transarterial chemoembolization (PA-TACE) plus continued PD-1 inhibition with PA-TACE alone after R0 resection for initially unresectable hepatocellular carcinoma following hepatic arterial infusion chemotherapy (HAIC), lenvatinib, and PD-1-based conversion therapy. This single-center retrospective cohort included consecutive patients who underwent R0 hepatectomy after conversion therapy between January 2020 and February 2025. Patients received PA-TACE alone (AT) or PA-TACE plus continued PD-1 inhibition (AIT). Propensity score matching (PSM) was used to reduce measured baseline imbalance. The primary endpoint was recurrence-free survival (RFS); secondary endpoints included overall survival (OS), perioperative outcomes, recurrence characteristics, and adverse events. Among 276 patients, 141 received AT and 135 received AIT; 1:1 PSM yielded 88 pairs. Median follow-up was 31.6 months, and 5-year RFS and OS estimates remained immature. AIT was associated with longer RFS and OS before and after matching. After PSM, median RFS was 23.8 months with AIT vs 13.5 months with AT (hazard ratio [HR], 0.68; 95% confidence interval [CI], 0.48-0.96; P=0.028), and median OS was 53.1 vs 42.7 months (HR, 0.64; 95% CI, 0.42-0.97; P=0.035). These associations persisted in multivariable analyses for RFS (adjusted HR, 0.65; 95% CI, 0.43-0.97) and OS (adjusted HR, 0.56; 95% CI, 0.32-0.97). Post-recurrence treatment modalities differed between groups. Exploratory analyses suggested stronger associations in patients without a pathological complete response (pCR) and those with satellite nodules. In patients with pCR, no additional RFS benefit was detectable (HR, 0.96; 95% CI, 0.44-2.10), but the imprecise estimate did not establish an absence of benefit. Perioperative complications and TACE-related adverse events were similar between groups; immune-related adverse events were predominantly grade 1-2. PA-TACE plus continued PD-1 inhibition was associated with longer RFS and OS than PA-TACE alone after conversion resection, with predominantly low-grade immune-related adverse events. These findings provide observational evidence specifically addressing postoperative PD-1 continuation after prior exposure during HAIC, lenvatinib, and PD-1-based conversion therapy. Differences in post-recurrence salvage therapy may have contributed to the observed OS association, and this observational study does not establish a causal treatment benefit.",
+      "topics": [
+        "HAIC",
+        "HCC systemic + local",
+        "TACE"
+      ],
+      "retrieved_at": "2026-11-28T07:33:46+00:00",
+      "first_seen": "2026-11-28",
+      "score": 4,
+      "design": "Retrospective study",
+      "sample_size": "",
+      "population": "We compared postoperative adjuvant transarterial chemoembolization (PA-TACE) plus continued PD-1 inhibition with PA-TACE alone after R0 resection for initially unresectable hepatocellular carcinoma following hepatic arterial infusion chemotherapy (HAIC), lenvatinib, and PD-1-based conversion therapy.",
+      "intervention": "This single-center retrospective cohort included consecutive patients who underwent R0 hepatectomy after conversion therapy between January 2020 and February 2025.",
+      "comparator": "",
+      "primary_endpoint": "The primary endpoint was recurrence-free survival (RFS);",
+      "pfs": "",
+      "os": "P=0.028), and median OS was 53.1 vs 42.7 months (HR, 0.64; Median follow-up was 31.6 months, and 5-year RFS and OS estimates remained immature.",
+      "safety": "secondary endpoints included overall survival (OS), perioperative outcomes, recurrence characteristics, and adverse events. Perioperative complications and TACE-related adverse events were similar between groups; immune-related adverse events were predominantly grade 1-2.",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "The value of continuing programmed cell death protein 1 (PD-1) inhibition after prior exposure during conversion therapy remains uncertain. We compared postoperative adjuvant transarterial chemoembolization (PA-TACE) plus continued PD-1 inhibition with PA-TACE alone after R0 resection for initially unresectable hepatocellular carcinoma following hepatic arterial infusion chemotherapy (HAIC), lenvatinib, and PD-1-based conversion therapy. This single-center retrospective cohort included consecutive patients who underwent R0 hepatectomy after conversion therapy between January 2020 and February 2025.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 4,
+      "phd_relevance": "HCC 局部治疗 + 系统治疗联合证据，可作为寡进展研究的重要间接依据。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "43100078",
+      "pmid": "43100078",
+      "doi": "10.17998/jlc.2026.11.25",
+      "date": "2026-11-27",
+      "title": "Integrating locoregional and systemic approaches in advanced HCC.",
+      "authors": "Kwang Il Seo",
+      "journal": "Journal of liver cancer",
+      "abstract": "The management of advanced hepatocellular carcinoma (HCC; BCLC stage C) is undergoing a major paradigm shift. Although the Barcelona Clinic Liver Cancer (BCLC) staging system has long provided clear sequential treatment algorithms, its rigid \"systemic therapy only\" recommendation for BCLC stage C fails to reflect the clinical and molecular heterogeneity of this population. In the era of immune checkpoint inhibitor (ICI)-based systemic regimens, a single stage-based strategy is no longer sufficient. Because direct baseline measurement of tumor biology remains unfeasible in daily practice, dynamic treatment response could be a clinical marker of favorable tumor biology. Patients responding to systemic therapy likely possess more controllable tumor biology, which may offer a strategic opportunity to evaluate multimodal escalation-such as locoregional treatment, surgical conversion, or liver transplantation. Conversely, localized oligo-progression reflects focal escape rather than global failure, warranting targeted locoregional intervention while maintaining the effective ICI-based systemic backbone. For patients with poly-progression, tailored strategies based on disease patterns-such as regional modalities for liver-dominant progression-could be evaluated before routinely shifting to next-line systemic therapy. Successful implementation of this strategy requires a structured protocol considering treatment response, liver reserve, performance status, and anatomical feasibility, governed by a multidisciplinary team. Moving beyond rigid algorithms toward response-based selection could be a meaningful step toward optimizing personalized care for advanced HCC.",
+      "topics": [
+        "Oligoprogression"
+      ],
+      "retrieved_at": "2026-11-28T07:33:59+00:00",
+      "first_seen": "2026-11-28",
+      "score": 3,
+      "design": "Clinical study / unclear",
+      "sample_size": "",
+      "population": "The management of advanced hepatocellular carcinoma (HCC;",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Patients responding to systemic therapy likely possess more controllable tumor biology, which may offer a strategic opportunity to evaluate multimodal escalation-such as locoregional treatment, surgical conversion, or liver transplantation.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 5,
+      "phd_relevance": "直接对应 HCC 系统治疗期间寡进展及局部治疗策略。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "43100839",
+      "pmid": "43100839",
+      "doi": "10.21203/rs.3.rs-11293314/v1",
+      "date": "2026-11-19",
+      "title": "Training on in silico host-tissue mixtures reduces host attraction in RNA-seq-based tissue-of-origin classification of metastatic biopsies.",
+      "authors": "Juwon Kang, Junjeong Choi",
+      "journal": "Research square",
+      "abstract": "Background Transcriptome classifiers that infer the primary site of metastases are trained mostly on primary tumors, but metastatic biopsies also contain normal host-organ cells. Such classifiers can name the biopsied organ instead of the primary, an error we call host attraction. A previous method reduced errors in liver metastases by training a microRNA classifier on in silico tumor-liver mixtures. Using internally preregistered analyses, we tested whether mixtures with several host tissues reduce host attraction in a whole-transcriptome classifier. Results We trained logistic regression classifiers for 32 tumor types with or without in silico tumor-normal mixtures from ten host tissues (HostMix-TOO). In POG570, HostMix-TOO reduced host attraction from 22.8% to 2.4% of at-risk biopsies (n = 378; -20.4 percentage points, 95% CI - 24.3 to - 16.4) and increased top-1 accuracy from 68.2% to 75.6% (n = 512; 7.4 points, 95% CI 3.9 to 10.7). Non-inferiority of accuracy for biopsies from the organ of origin was not shown (86.8% versus 80.2%, n = 91; one-sided 95% lower bound - 12.1 points, margin - 10). In six auxiliary RNA-seq cohorts, all three primary hypotheses were confirmed: host attraction fell from 20.4% to 5.6% (n = 427), top-1 accuracy rose from 52.7% to 69.8% (n = 729), mostly in one bladder cancer cohort, and accuracy for biopsies from the organ of origin was non-inferior (n = 315). Published classifiers SCOPE and CUP-AI-Dx showed host attraction in 12.2-30.4% of at-risk biopsies (HostMix-TOO: 2.4-5.6%), although CUP-AI-Dx was more accurate in auxiliary cohorts. In five microarray cohorts, HostMix-TOO reduced host attraction but lowered top-1 accuracy from 72.4% to 45.5% (n = 536). A post hoc ablation attributed the host-attraction reduction to the mixtures and the microarray loss to feature standardization: without standardization, mixtures reduced microarray host attraction from 25.6% to 9.2% (n = 207) with 77.6% top-1 accuracy. Conclusions For RNA-seq biopsies, training on in silico host-tissue mixtures reduced host attraction and improved accuracy in two preregistered evaluations. Post hoc analyses traced the microarray loss to feature standardization, which requires confirmation. Benchmarks of tissue-of-origin classifiers on metastatic biopsies should report host attraction, with its denominator, alongside top-1 accuracy.",
+      "topics": [
+        "Ablation"
+      ],
+      "retrieved_at": "2026-11-28T07:33:51+00:00",
+      "first_seen": "2026-11-28",
+      "score": 3,
+      "design": "Cohort study",
+      "sample_size": "729",
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Background Transcriptome classifiers that infer the primary site of metastases are trained mostly on primary tumors, but metastatic biopsies also contain normal host-organ cells. Such classifiers can name the biopsied organ instead of the primary, an error we call host attraction. Using internally preregistered analyses, we tested whether mixtures with several host tissues reduce host attraction in a whole-transcriptome classifier.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 2,
+      "phd_relevance": "与介入/局部治疗相关，但与博士课题联系有限。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "43100812",
+      "pmid": "43100812",
+      "doi": "10.1007/s42995-026-00388-z",
+      "date": "2026-11-01",
+      "title": "Heart injury-induced Fibronectin 1 confers liver dysfunction in zebrafish through hepatic Pparβ signaling.",
+      "authors": "Hongbo Lv, Qi Li, Peng Gao, Yanmei Liu, Xiamisiya Tuniyazi, Fen Du, Hong Yu, Ruilin Zhang",
+      "journal": "Marine life science & technology",
+      "abstract": "Organ-organ crosstalk mediated by secretory factors plays crucial roles in maintaining physiological homeostasis. Heart-related conditions, such as heart failure and cardiac ischemia/reperfusion, significantly impact liver pathogenesis, yet the exact molecular mechanisms remain unclear. Employing a zebrafish ventricular ablation model, we investigated the effects of heart injury (HI) on liver development and function. Our results revealed that HI stunted liver growth and induced aberrant lipid accumulation in zebrafish. Mechanistically, HI elevated cardiac and serum Fibronectin 1 (Fn1) protein levels and activated the hepatic integrin-Src axis, while reducing hepatic Ampkα phosphorylation and Pparβ abundance. Heart-specific Fn1 knockdown reversed these effects, ameliorating liver defects. Moreover, Ampkα activation via phosphorylation enhanced Pparβ and β-oxidation gene expression, whereas hepatic Pparβ knockdown abolished liver protection conferred by cardiac Fn1 reduction. Our study demonstrated that HI-induced stunted liver growth and aberrant lipid accumulation are conferred by cardiac-derived Fn1, which acts by suppressing hepatic Ampkα-Pparβ signaling. An in-depth understanding of the molecular mechanisms underlying inter-organ communication may provide new avenues for treating liver disorders induced by heart disease.",
+      "topics": [
+        "Ablation"
+      ],
+      "retrieved_at": "2026-11-28T07:33:51+00:00",
+      "first_seen": "2026-11-28",
+      "score": 3,
+      "design": "Clinical study / unclear",
+      "sample_size": "",
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "primary_endpoint": "",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "Organ-organ crosstalk mediated by secretory factors plays crucial roles in maintaining physiological homeostasis. Mechanistically, HI elevated cardiac and serum Fibronectin 1 (Fn1) protein levels and activated the hepatic integrin-Src axis, while reducing hepatic Ampkα phosphorylation and Pparβ abundance. Moreover, Ampkα activation via phosphorylation enhanced Pparβ and β-oxidation gene expression, whereas hepatic Pparβ knockdown abolished liver protection conferred by cardiac Fn1 reduction.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 2,
+      "phd_relevance": "与介入/局部治疗相关，但与博士课题联系有限。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
+    {
+      "id": "43099226",
+      "pmid": "43099226",
+      "doi": "10.1186/s13550-026-01508-7",
+      "date": "2026-09-05",
+      "title": "Is 400 Gy enough for every tumor? The 3 cm cutoff and a modified BCLC classification for predicting complete response after radiation segmentectomy in hepatocellular carcinoma.",
+      "authors": "Enes Mustafa Kaya, Burcu Esen Akkaş, Çağrı Erdim, Ali Dablan, Mustafa Fatih Arslan, Cihan Şin, Halil Burak Kapucu, Ayşe Betül Dere",
+      "journal": "EJNMMI research",
+      "abstract": "To evaluate the relative contribution of the 400 Gy perfused liver absorbed dose (PLAD) threshold and tumor size in predicting complete response (CR) after yttrium-90 (Y-90) radiation segmentectomy (RS) in hepatocellular carcinoma (HCC), and to investigate the prognostic discrimination of a modified Barcelona Clinic Liver Cancer (BCLC) classification based on a 3 cm cutoff in solitary lesions compared with the standard BCLC 2026 staging system. Fifty-five patients (67 target lesions) who underwent RS with Y-90 glass microspheres between June 2022 and June 2025, met BCLC 2026 stage A/B criteria, and had a target lesion diameter ≤ 8 cm were retrospectively analyzed. Patients with solitary lesions included within standard BCLC-A were reclassified according to tumor diameter: those with lesions ≤ 3 cm as modified stage A, and those with lesions > 3 cm-together with existing multinodular BCLC-B cases-as modified stage B. The primary endpoint was CR at 6 months according to modified Response Evaluation Criteria in Solid Tumors (mRECIST). Overall mRECIST response at the patient level and localized mRECIST response at the lesion level were evaluated. Predictors of CR were assessed by univariate and multivariate logistic regression. The mean age was 65 ± 7.8 years, and 72.7% of patients were male. Of the target lesions, 31.3% were ≤ 3 cm and 68.7% were > 3 cm; median lesion diameter was 4.2 cm (IQR 2.8-5.2), and mean PLAD was 494 ± 175 Gy. At 6 months, CR was achieved in 49.1% (27/55) of patients and 53.7% (36/67) of lesions. CR rate in the modified BCLC-A group was 92.3%, compared with 35.7% in the modified BCLC-B group (p < 0.001); in the BCLC 2026 system, this difference was more modest (60% vs. 30%; p = 0.032). In multivariate analysis, standard BCLC 2026 classification lost significance (p = 0.463), whereas the modified BCLC-A classification remained an independent predictor of CR (OR: 17.3; 95% CI: 1.9-158; p = 0.011). At the lesion level, CR rate was 90.5% for lesions ≤ 3 cm and 37.0% for lesions > 3 cm (p < 0.001), with no significant difference in mean PLAD between the two groups (499 vs. 491 Gy; p = 0.864). In multivariate analysis, PLAD > 400 Gy lost statistical significance (OR 2.5; p = 0.124), whereas lesion diameter ≤ 3 cm remained a strong and independent predictor of CR (OR 14.4; 95% CI 2.9-70.8; p = 0.001). In patients undergoing RS for HCC, tumor size emerges as an important parameter to consider alongside the 400 Gy PLAD threshold when predicting complete response. The modified BCLC classification based on a 3 cm cutoff for solitary lesions may contribute to the discrimination of treatment response compared with the standard BCLC 2026 staging system.",
+      "topics": [
+        "Y-90"
+      ],
+      "retrieved_at": "2026-11-28T07:33:48+00:00",
+      "first_seen": "2026-11-28",
+      "score": 3,
+      "design": "Retrospective study",
+      "sample_size": "",
+      "population": "To evaluate the relative contribution of the 400 Gy perfused liver absorbed dose (PLAD) threshold and tumor size in predicting complete response (CR) after yttrium-90 (Y-90) radiation segmentectomy (RS) in hepatocellular carcinoma (HCC), and to investigate the prognostic discrimination of a modified Barcelona Clinic Liver Cancer (BCLC) classification based on a 3 cm cutoff in solitary lesions compared with the standard BCLC 2026 staging system.",
+      "intervention": "Fifty-five patients (67 target lesions) who underwent RS with Y-90 glass microspheres between June 2022 and June 2025, met BCLC 2026 stage A/B criteria, and had a target lesion diameter ≤ 8 cm were retrospectively analyzed.",
+      "comparator": "",
+      "primary_endpoint": "The primary endpoint was CR at 6 months according to modified Response Evaluation Criteria in Solid Tumors (mRECIST).",
+      "pfs": "",
+      "os": "",
+      "safety": "",
+      "summary_cn": "已完成 PubMed 摘要级结构化提取；关键数字请回查原文。",
+      "key_results": "To evaluate the relative contribution of the 400 Gy perfused liver absorbed dose (PLAD) threshold and tumor size in predicting complete response (CR) after yttrium-90 (Y-90) radiation segmentectomy (RS) in hepatocellular carcinoma (HCC), and to investigate the prognostic discrimination of a modified Barcelona Clinic Liver Cancer (BCLC) classification based on a 3 cm cutoff in solitary lesions compared with the standard BCLC 2026 staging system. Fifty-five patients (67 target lesions) who underwent RS with Y-90 glass microspheres between June 2022 and June 2025, met BCLC 2026 stage A/B criteria, and had a target lesion diameter ≤ 8 cm were retrospectively analyzed. Patients with solitary lesions included within standard BCLC-A were reclassified according to tumor diameter: those with lesions ≤ 3 cm as modified stage A, and those with lesions > 3 cm-together with existing multinodular BCLC-B cases-as modified stage B.",
+      "limitations": "结构化字段主要来自 PubMed 标题/摘要；摘要未报告的字段保持为空。",
+      "clinical_relevance": "适合文献筛选和 Evidence Table；临床决策或论文引用前应核对原文。",
+      "phd_relevance_score": 3,
+      "phd_relevance": "与 HCC 治疗相关，但未完整覆盖寡进展核心问题。",
+      "extraction_method": "abstract-rule-v2",
+      "evidence_scope": "PubMed title/abstract"
+    },
     {
       "id": "43086482",
       "pmid": "43086482",
@@ -18,7 +218,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-11-27T08:08:25+00:00",
+      "retrieved_at": "2026-11-28T07:33:48+00:00",
       "first_seen": "2026-11-27",
       "score": 5,
       "design": "Retrospective study",
@@ -52,7 +252,7 @@
         "HCC systemic + local",
         "TACE"
       ],
-      "retrieved_at": "2026-11-27T08:08:22+00:00",
+      "retrieved_at": "2026-11-28T07:33:46+00:00",
       "first_seen": "2026-11-27",
       "score": 5,
       "design": "Meta-analysis",
@@ -85,7 +285,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-11-27T08:08:25+00:00",
+      "retrieved_at": "2026-11-28T07:33:51+00:00",
       "first_seen": "2026-11-27",
       "score": 4,
       "design": "Randomized controlled trial",
@@ -119,7 +319,7 @@
         "HAIC",
         "TACE"
       ],
-      "retrieved_at": "2026-11-27T08:08:22+00:00",
+      "retrieved_at": "2026-11-28T07:33:46+00:00",
       "first_seen": "2026-11-27",
       "score": 4,
       "design": "Systematic review",
@@ -152,7 +352,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-11-27T08:08:25+00:00",
+      "retrieved_at": "2026-11-28T07:33:51+00:00",
       "first_seen": "2026-11-27",
       "score": 4,
       "design": "Clinical study / unclear",
@@ -185,7 +385,7 @@
       "topics": [
         "TIPS"
       ],
-      "retrieved_at": "2026-11-27T08:08:22+00:00",
+      "retrieved_at": "2026-11-28T07:33:45+00:00",
       "first_seen": "2026-11-27",
       "score": 3,
       "design": "Randomized controlled trial",
@@ -218,7 +418,7 @@
       "topics": [
         "TIPS"
       ],
-      "retrieved_at": "2026-11-27T08:08:22+00:00",
+      "retrieved_at": "2026-11-28T07:33:45+00:00",
       "first_seen": "2026-11-27",
       "score": 3,
       "design": "Systematic review",
@@ -251,7 +451,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-11-27T08:08:25+00:00",
+      "retrieved_at": "2026-11-28T07:33:51+00:00",
       "first_seen": "2026-11-27",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -284,7 +484,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-11-27T08:08:25+00:00",
+      "retrieved_at": "2026-11-28T07:33:51+00:00",
       "first_seen": "2026-11-27",
       "score": 3,
       "design": "Prospective study",
@@ -317,7 +517,7 @@
       "topics": [
         "TIPS"
       ],
-      "retrieved_at": "2026-11-27T08:08:22+00:00",
+      "retrieved_at": "2026-11-28T07:33:45+00:00",
       "first_seen": "2026-11-27",
       "score": 3,
       "design": "Retrospective study",
@@ -350,7 +550,7 @@
       "topics": [
         "TIPS"
       ],
-      "retrieved_at": "2026-11-27T08:08:22+00:00",
+      "retrieved_at": "2026-11-28T07:33:45+00:00",
       "first_seen": "2026-11-27",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -384,7 +584,7 @@
         "TACE",
         "Y-90"
       ],
-      "retrieved_at": "2026-11-27T08:08:22+00:00",
+      "retrieved_at": "2026-11-28T07:33:46+00:00",
       "first_seen": "2026-11-27",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -417,7 +617,7 @@
       "topics": [
         "Ablation"
       ],
-      "retrieved_at": "2026-11-27T08:08:25+00:00",
+      "retrieved_at": "2026-11-28T07:33:51+00:00",
       "first_seen": "2026-11-27",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -450,7 +650,7 @@
       "topics": [
         "HAIC"
       ],
-      "retrieved_at": "2026-11-27T08:08:23+00:00",
+      "retrieved_at": "2026-11-28T07:33:47+00:00",
       "first_seen": "2026-11-27",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -483,7 +683,7 @@
       "topics": [
         "Y-90"
       ],
-      "retrieved_at": "2026-11-27T08:08:25+00:00",
+      "retrieved_at": "2026-11-28T07:33:48+00:00",
       "first_seen": "2026-11-27",
       "score": 3,
       "design": "Clinical study / unclear",
@@ -517,7 +717,7 @@
         "Ablation",
         "HCC systemic + local"
       ],
-      "retrieved_at": "2026-11-27T08:08:25+00:00",
+      "retrieved_at": "2026-11-28T07:33:51+00:00",
       "first_seen": "2026-11-27",
       "score": 3,
       "design": "Cohort study",
